@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0b0d12">
+<title>Sahnede</title>
+<link rel="stylesheet" href="style.css?v=1">
+</head>
+<body>
+
+<header class="ust">
+  <div class="marka">
+    <h1>Sahnede</h1>
+    <p>İyi hikâyeler hep var.</p>
+  </div>
+  <div class="ust-dugme">
+    <button id="araDugme" aria-label="Ara">🔍</button>
+    <button id="takipDugme" aria-label="Takip ettiklerim">★</button>
+  </div>
+</header>
+
+<div class="serit" id="serit">
+  <div class="cipler" id="platformCip"></div>
+</div>
+
+<main id="icerik">
+  <p class="yukleniyor">Yükleniyor…</p>
+</main>
+
+<footer class="alt">
+  <p id="kaynakSatiri"></p>
+  <p class="kucuk">Bu ürün TMDB API'sini kullanır, TMDB tarafından onaylanmamıştır.
+     İlgi verisi: Wikimedia sayfa görüntülenmeleri.</p>
+</footer>
+
+<!-- Arama katmanı -->
+<div class="katman" id="aramaKatman" hidden>
+  <div class="katman-ust">
+    <input id="aramaGirdi" type="search" placeholder="Film, dizi ara…" autocomplete="off">
+    <button class="kapat" data-kapat="aramaKatman">✕</button>
+  </div>
+  <div id="aramaSonuc" class="katman-govde"></div>
+</div>
+
+<!-- Takip katmanı -->
+<div class="katman" id="takipKatman" hidden>
+  <div class="katman-ust">
+    <strong>Takip ettiklerim</strong>
+    <button class="kapat" data-kapat="takipKatman">✕</button>
+  </div>
+  <div id="takipListe" class="katman-govde"></div>
+</div>
+
+<!-- Detay katmanı -->
+<div class="katman" id="detayKatman" hidden>
+  <div id="detayGovde" class="katman-govde"></div>
+  <button class="kapat yuzen" data-kapat="detayKatman">✕</button>
+</div>
+
+<script src="app.js?v=1"></script>
+<script>SAHNE.baslat();</script>
+</body>
+</html>
