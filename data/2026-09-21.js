@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-15",
   "bit": "2026-09-21"
  },
- "uretildi": "2026-09-21T07:14:04+03:00",
+ "uretildi": "2026-09-21T13:13:46+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.036,
-   "oySayisi": 721,
+   "puan": 8.0,
+   "oySayisi": 724,
    "platformlar": {},
    "wikidata": "Q124743667",
    "wiki": {
@@ -98,7 +98,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 5.688,
+   "puan": 5.7,
    "oySayisi": 32,
    "platformlar": {
     "flatrate": [
@@ -144,8 +144,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 5.48,
-   "oySayisi": 537,
+   "puan": 5.487,
+   "oySayisi": 538,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -335,7 +335,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 7.007,
-   "oySayisi": 832,
+   "oySayisi": 834,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -473,8 +473,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 5.4,
-   "oySayisi": 254,
+   "puan": 5.402,
+   "oySayisi": 256,
    "platformlar": {},
    "wikidata": "Q125029914",
    "wiki": {
@@ -610,8 +610,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.397,
-   "oySayisi": 184,
+   "puan": 6.416,
+   "oySayisi": 185,
    "platformlar": {},
    "wikidata": "Q129099102",
    "wiki": {
@@ -1068,8 +1068,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-13"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -1634,7 +1634,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-09-16"
+   "sonBolum": "2026-09-17"
   },
   {
    "goster": true,
@@ -1757,8 +1757,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-05-17"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -2123,8 +2123,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.127,
-   "oySayisi": 3371,
+   "puan": 8.128,
+   "oySayisi": 3373,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2176,8 +2176,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.21,
-   "oySayisi": 1574,
+   "puan": 8.216,
+   "oySayisi": 1579,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -2197,8 +2197,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-13"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -2278,8 +2278,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.4,
-   "oySayisi": 866,
+   "puan": 8.394,
+   "oySayisi": 870,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2484,8 +2484,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.989,
-   "oySayisi": 89,
+   "puan": 7.973,
+   "oySayisi": 91,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2728,7 +2728,7 @@ SAHNE_GUN({
    "yil": "2016",
    "ozet": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
    "poster": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
-   "arkaplan": "/qrYep23cjwdlwgfvyoO51YD9JrI.jpg",
+   "arkaplan": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
    "turler": [
     "Animasyon",
     "Gizem",
@@ -2738,7 +2738,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.111,
+   "puan": 8.1,
    "oySayisi": 786,
    "platformlar": {
     "flatrate": [
@@ -2945,8 +2945,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.7,
-   "oySayisi": 5551,
+   "puan": 8.748,
+   "oySayisi": 5552,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2969,8 +2969,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-13"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -3098,8 +3098,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.88,
-   "oySayisi": 849,
+   "puan": 7.881,
+   "oySayisi": 851,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -3349,7 +3349,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Onuncu yıllarında, rahat ilişkileri beklenmedik duygularla sınanan bir çift hakkında gerçekçi ve duygusal açıdan yankı uyandıran bir romantik hikâye.",
    "poster": "/mryeyCsFApnwYDpDcy3I6fYx2Dd.jpg",
-   "arkaplan": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+   "arkaplan": "/8bV8f6HBNyENObv6qRGT7j2EmX9.jpg",
    "turler": [
     "Dram",
     "Komedi"
@@ -3378,8 +3378,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-19"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": false,
@@ -3410,10 +3410,10 @@ SAHNE_GUN({
    "puan": 8.281,
    "oySayisi": 306,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3527,8 +3527,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-13"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -3554,7 +3554,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.593,
+   "puan": 8.6,
    "oySayisi": 107,
    "platformlar": {
     "flatrate": [
@@ -3961,8 +3961,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.3,
-   "oySayisi": 24,
+   "puan": 9.36,
+   "oySayisi": 25,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3982,8 +3982,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-19"
+   "sonrakiBolum": "2026-09-26",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -4383,13 +4383,13 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.272,
-   "oySayisi": 124,
+   "puan": 8.268,
+   "oySayisi": 125,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4439,10 +4439,10 @@ SAHNE_GUN({
    "puan": 8.029,
    "oySayisi": 104,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4534,8 +4534,8 @@ SAHNE_GUN({
    "ulkeler": [
     "PL"
    ],
-   "puan": 5.2,
-   "oySayisi": 7,
+   "puan": 4.938,
+   "oySayisi": 8,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4893,8 +4893,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-20",
-   "sonBolum": "2026-09-13"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": false,
