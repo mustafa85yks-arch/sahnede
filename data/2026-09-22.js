@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-16",
   "bit": "2026-09-22"
  },
- "uretildi": "2026-09-22T07:13:57+03:00",
+ "uretildi": "2026-09-22T13:15:14+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.039,
-   "oySayisi": 735,
+   "puan": 8.047,
+   "oySayisi": 742,
    "platformlar": {},
    "wikidata": "Q124743667",
    "wiki": {
@@ -134,7 +134,7 @@ SAHNE_GUN({
    "orijinalAd": "Best of the Best",
    "yil": "2026",
    "ozet": "İki çocukluk arkadaşı, UCLA'in rekabetçi Bollywood füzyon dans takımına katılınca ABD Şampiyonası'na giden yolun zannettiklerinden çok daha zorlu olduğunu anlar.",
-   "poster": "/9soOjsZ91vtMzypK2F3MC378JI5.jpg",
+   "poster": "/dbP661svmn7XZq3TdSmSUI5UKQJ.jpg",
    "arkaplan": "/5m1j7Wibh3HnZq5QHm97v8dI3GH.jpg",
    "turler": [
     "Komedi"
@@ -203,9 +203,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 6216,
-     "onceki7": 6643,
-     "degisim": 0.936
+     "son7": 6323,
+     "onceki7": 6417,
+     "degisim": 0.985
     },
     "trEnOran": null
    },
@@ -331,8 +331,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.562,
-   "oySayisi": 649,
+   "puan": 6.567,
+   "oySayisi": 650,
    "platformlar": {},
    "wikidata": "Q132682968",
    "wiki": {
@@ -393,9 +393,9 @@ SAHNE_GUN({
      "degisim": 0.516
     },
     "en": {
-     "son7": 12694,
-     "onceki7": 13416,
-     "degisim": 0.946
+     "son7": 12874,
+     "onceki7": 13293,
+     "degisim": 0.968
     },
     "trEnOran": 0.0025
    },
@@ -428,8 +428,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.102,
-   "oySayisi": 853,
+   "puan": 7.105,
+   "oySayisi": 854,
    "platformlar": {},
    "wikidata": "Q126203157",
    "wiki": {
@@ -951,11 +951,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 39,
    "platformlar": {
-    "ads": [
-     "puhutv"
-    ],
     "flatrate": [
      "Amazon Prime Video"
+    ],
+    "ads": [
+     "puhutv"
     ]
    },
    "wikidata": "Q131195670",
@@ -1055,9 +1055,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 8310,
-     "onceki7": 5750,
-     "degisim": 1.445
+     "son7": 10116,
+     "onceki7": 5225,
+     "degisim": 1.936
     },
     "en": null,
     "trEnOran": null
@@ -1285,9 +1285,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 9957,
-     "onceki7": 13103,
-     "degisim": 0.76
+     "son7": 9727,
+     "onceki7": 12115,
+     "degisim": 0.803
     },
     "en": null,
     "trEnOran": null
@@ -1540,9 +1540,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 3690,
-     "onceki7": 4155,
-     "degisim": 0.888
+     "son7": 3668,
+     "onceki7": 4093,
+     "degisim": 0.896
     },
     "en": null,
     "trEnOran": null
@@ -1588,8 +1588,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-21",
-   "sonBolum": "2026-09-14"
+   "sonrakiBolum": "2026-10-12",
+   "sonBolum": "2026-09-21"
   },
   {
    "goster": true,
@@ -1628,8 +1628,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-21",
-   "sonBolum": "2026-09-14"
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-21"
   },
   {
    "goster": true,
@@ -1859,7 +1859,7 @@ SAHNE_GUN({
    "ad": "Evlilik Güzeldir",
    "orijinalAd": "Evlilik Güzeldir",
    "yil": "2026",
-   "ozet": "Dizi, İstanbul'un köklü semtlerinden birinde beş kızı ve yaşlı annesiyle yaşayan, yıllardır binlerce çiftin nikahını kıymış \"evlendirme rekortmeni\" nikah memuru Mesut Bahtiyar'ın hikayesini merkezine alıyor.",
+   "ozet": "Evlilik Güzeldir dizisi, hayatı boyunca binlerce çiftin nikâhını kıyan rekortmen nikâh memuru Mesut Bahtiyar ile birbirinden farklı beş bekar kızının hikâyesini anlatıyor. İstanbul’un köklü semtlerinden birinde geçen dizi, ailesine, geleneklerine ve değerlerine bağlı bir baba olan Mesut’un kızlarının mutlu bir yuva kurmasını istemesiyle gelişen olayları konu ediyor.",
    "poster": "/kMEUr1CH5fGmeae3rVP4xDfD9t3.jpg",
    "arkaplan": "/zXWWutJ96z2bF84U9LO4EjTije1.jpg",
    "turler": [
@@ -1881,7 +1881,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
   },
   {
@@ -2237,8 +2237,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 6.3,
-   "oySayisi": 10,
+   "puan": 6.273,
+   "oySayisi": 11,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2252,9 +2252,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 153850,
-     "onceki7": 12883,
-     "degisim": 11.942
+     "son7": 184451,
+     "onceki7": 13401,
+     "degisim": 13.764
     },
     "trEnOran": null
    },
@@ -2287,7 +2287,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.128,
-   "oySayisi": 3380,
+   "oySayisi": 3382,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2339,8 +2339,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.222,
-   "oySayisi": 1588,
+   "puan": 8.2,
+   "oySayisi": 1592,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -2389,8 +2389,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.276,
-   "oySayisi": 388,
+   "puan": 8.3,
+   "oySayisi": 399,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2467,6 +2467,57 @@ SAHNE_GUN({
    "sonBolum": "2026-09-21"
   },
   {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-247718",
+   "tmdbId": 247718,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "MobLand",
+   "orijinalAd": "MobLand",
+   "yil": "2025",
+   "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
+   "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "arkaplan": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "GB",
+    "US"
+   ],
+   "puan": 8.402,
+   "oySayisi": 875,
+   "platformlar": {
+    "flatrate": [
+     "Netflix",
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q131324617",
+   "wiki": {
+    "tr": "MobLand",
+    "en": "MobLand"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 200408,
+     "onceki7": 89565,
+     "degisim": 2.238
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-25",
+   "sonBolum": "2026-09-18"
+  },
+  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": true,
@@ -2511,65 +2562,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 8091,
-     "onceki7": 6512,
-     "degisim": 1.242
+     "son7": 10141,
+     "onceki7": 6831,
+     "degisim": 1.485
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-247718",
-   "tmdbId": 247718,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "MobLand",
-   "orijinalAd": "MobLand",
-   "yil": "2025",
-   "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
-   "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "arkaplan": "/vW6oPZEdqxZyQIYimouqA5b78mT.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "GB",
-    "US"
-   ],
-   "puan": 8.395,
-   "oySayisi": 871,
-   "platformlar": {
-    "flatrate": [
-     "Netflix",
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q131324617",
-   "wiki": {
-    "tr": "MobLand",
-    "en": "MobLand"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 180318,
-     "onceki7": 84010,
-     "degisim": 2.146
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
   },
   {
    "goster": false,
@@ -2612,9 +2612,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 771,
-     "onceki7": 707,
-     "degisim": 1.091
+     "son7": 767,
+     "onceki7": 709,
+     "degisim": 1.082
     },
     "trEnOran": null
    },
@@ -2647,8 +2647,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.935,
-   "oySayisi": 100,
+   "puan": 8.0,
+   "oySayisi": 102,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2662,9 +2662,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 382611,
-     "onceki7": 35147,
-     "degisim": 10.886
+     "son7": 431526,
+     "onceki7": 37361,
+     "degisim": 11.55
     },
     "trEnOran": null
    },
@@ -2844,8 +2844,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.262,
-   "oySayisi": 1411,
+   "puan": 8.263,
+   "oySayisi": 1412,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2858,16 +2858,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 56,
-     "onceki7": 65,
-     "degisim": 0.862
+     "son7": 59,
+     "onceki7": 63,
+     "degisim": 0.937
     },
     "en": {
      "son7": 38757,
      "onceki7": 42091,
      "degisim": 0.921
     },
-    "trEnOran": 0.0014
+    "trEnOran": 0.0015
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
@@ -3019,9 +3019,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 7523,
-     "onceki7": 5725,
-     "degisim": 1.314
+     "son7": 7552,
+     "onceki7": 6537,
+     "degisim": 1.155
     },
     "trEnOran": null
    },
@@ -3188,55 +3188,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-20"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-207468",
-   "tmdbId": 207468,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Kaiju No. 8",
-   "orijinalAd": "怪獣８号",
-   "yil": "2024",
-   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
-   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
-   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.4,
-   "oySayisi": 813,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q115777186",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2025-09-27"
-  },
-  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3275,9 +3226,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 33,
-     "onceki7": 43,
-     "degisim": 0.767
+     "son7": 34,
+     "onceki7": 35,
+     "degisim": 0.971
     },
     "en": {
      "son7": 66242,
@@ -3327,16 +3278,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 44,
-     "onceki7": 49,
-     "degisim": 0.898
+     "son7": 42,
+     "onceki7": 45,
+     "degisim": 0.933
     },
     "en": {
-     "son7": 14503,
-     "onceki7": 13348,
-     "degisim": 1.087
+     "son7": 14704,
+     "onceki7": 13363,
+     "degisim": 1.1
     },
-    "trEnOran": 0.003
+    "trEnOran": 0.0029
    },
    "sonrakiBolum": "2026-09-22",
    "sonBolum": "2026-09-16"
@@ -3346,35 +3297,38 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": false,
    "yeniSayilir": true,
-   "id": "dizi-101172",
-   "tmdbId": 101172,
+   "id": "dizi-207468",
+   "tmdbId": 207468,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "吞噬星空",
-   "orijinalAd": "吞噬星空",
-   "yil": "2020",
-   "ozet": null,
-   "poster": "/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
-   "arkaplan": "/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
+   "ad": "Kaiju No. 8",
+   "orijinalAd": "怪獣８号",
+   "yil": "2024",
+   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
+   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
    "turler": [
     "Animasyon",
-    "Bilim Kurgu & Fantazi",
-    "Aksiyon & Macera"
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
    ],
    "ulkeler": [
-    "CN"
+    "JP"
    ],
-   "puan": 8.511,
-   "oySayisi": 45,
+   "puan": 8.438,
+   "oySayisi": 814,
    "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
     "flatrate": [
      "Crunchyroll"
     ]
    },
-   "wikidata": "Q124709051",
+   "wikidata": "Q115777186",
    "wiki": {
     "tr": null,
     "en": null
@@ -3384,8 +3338,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": null,
+   "sonBolum": "2025-09-27"
   },
   {
    "goster": false,
@@ -3417,10 +3371,10 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 982,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3466,8 +3420,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.716,
-   "oySayisi": 174,
+   "puan": 8.711,
+   "oySayisi": 175,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3535,14 +3489,60 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 78082,
-     "onceki7": 44231,
-     "degisim": 1.765
+     "son7": 63910,
+     "onceki7": 65243,
+     "degisim": 0.98
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-10-03",
    "sonBolum": "2026-09-20"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-101172",
+   "tmdbId": 101172,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "吞噬星空",
+   "orijinalAd": "吞噬星空",
+   "yil": "2020",
+   "ozet": null,
+   "poster": "/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
+   "arkaplan": "/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
+   "turler": [
+    "Animasyon",
+    "Bilim Kurgu & Fantazi",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "CN"
+   ],
+   "puan": 8.511,
+   "oySayisi": 45,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q124709051",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-21"
   },
   {
    "goster": false,
@@ -3643,6 +3643,52 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-17"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-91768",
+   "tmdbId": 91768,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "yil": "2019",
+   "ozet": null,
+   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.1,
+   "oySayisi": 144,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q61998245",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-26",
+   "sonBolum": "2026-09-19"
   },
   {
    "goster": false,
@@ -3783,59 +3829,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 30055,
-     "onceki7": 23964,
-     "degisim": 1.254
+     "son7": 29010,
+     "onceki7": 25314,
+     "degisim": 1.146
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-09-27",
    "sonBolum": "2026-09-20"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-296286",
-   "tmdbId": 296286,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "スーパーの裏でヤニ吸うふたり",
-   "orijinalAd": "スーパーの裏でヤニ吸うふたり",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
-   "arkaplan": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
-   "turler": [
-    "Animasyon",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 9.1,
-   "oySayisi": 49,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q135409809",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-09-17"
   },
   {
    "goster": true,
@@ -3916,8 +3917,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.36,
-   "oySayisi": 25,
+   "puan": 9.308,
+   "oySayisi": 26,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4039,6 +4040,51 @@ SAHNE_GUN({
      "degisim": 0.613
     },
     "trEnOran": 0.0001
+   },
+   "sonrakiBolum": "2026-09-24",
+   "sonBolum": "2026-09-17"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-296286",
+   "tmdbId": 296286,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "スーパーの裏でヤニ吸うふたり",
+   "orijinalAd": "スーパーの裏でヤニ吸うふたり",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
+   "arkaplan": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 9.1,
+   "oySayisi": 49,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q135409809",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
    },
    "sonrakiBolum": "2026-09-24",
    "sonBolum": "2026-09-17"
@@ -4183,52 +4229,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-17"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-91768",
-   "tmdbId": 91768,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "yil": "2019",
-   "ozet": null,
-   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
-   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.104,
-   "oySayisi": 144,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q61998245",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
   },
   {
    "goster": true,
@@ -4401,8 +4401,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 9.167,
-   "oySayisi": 6,
+   "puan": 9.286,
+   "oySayisi": 7,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4554,9 +4554,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 14768,
-     "onceki7": 10860,
-     "degisim": 1.36
+     "son7": 15803,
+     "onceki7": 11531,
+     "degisim": 1.37
     },
     "trEnOran": null
    },
@@ -4602,9 +4602,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 72788,
-     "onceki7": 109499,
-     "degisim": 0.665
+     "son7": 69659,
+     "onceki7": 100124,
+     "degisim": 0.696
     },
     "trEnOran": null
    },
@@ -4680,8 +4680,8 @@ SAHNE_GUN({
    "ulkeler": [
     "PL"
    ],
-   "puan": 4.938,
-   "oySayisi": 8,
+   "puan": 4.5,
+   "oySayisi": 9,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4695,9 +4695,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 34696,
-     "onceki7": 963,
-     "degisim": 36.029
+     "son7": 41916,
+     "onceki7": 1613,
+     "degisim": 25.986
     },
     "trEnOran": null
    },
@@ -4932,10 +4932,10 @@ SAHNE_GUN({
    "puan": 8.268,
    "oySayisi": 125,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -5044,16 +5044,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 180,
-     "onceki7": 289,
-     "degisim": 0.623
+     "son7": 177,
+     "onceki7": 244,
+     "degisim": 0.725
     },
     "en": {
-     "son7": 15534,
-     "onceki7": 12052,
-     "degisim": 1.289
+     "son7": 15341,
+     "onceki7": 11789,
+     "degisim": 1.301
     },
-    "trEnOran": 0.0116
+    "trEnOran": 0.0115
    },
    "sonrakiBolum": "2026-09-26",
    "sonBolum": "2026-09-19"
