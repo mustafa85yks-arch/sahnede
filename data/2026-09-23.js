@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-17",
   "bit": "2026-09-23"
  },
- "uretildi": "2026-09-23T07:14:45+03:00",
+ "uretildi": "2026-09-23T13:14:05+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,10 +17,10 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 109,
-  "turk": 33,
+  "toplam": 108,
+  "turk": 32,
   "yabanci": 76,
-  "gosterilen": 84,
+  "gosterilen": 83,
   "anime": 23,
   "wikiEslesen": 67,
   "ilgiVerisiOlan": 67,
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.045,
-   "oySayisi": 759,
+   "puan": 8.046,
+   "oySayisi": 766,
    "platformlar": {},
    "wikidata": "Q124743667",
    "wiki": {
@@ -98,7 +98,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 5.676,
+   "puan": 5.7,
    "oySayisi": 37,
    "platformlar": {
     "flatrate": [
@@ -142,8 +142,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 4.9,
-   "oySayisi": 41,
+   "puan": 4.929,
+   "oySayisi": 42,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -1046,7 +1046,7 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.333,
+   "puan": 7.3,
    "oySayisi": 36,
    "platformlar": {},
    "wikidata": "Q105755428",
@@ -1382,8 +1382,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-09-15"
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -1508,8 +1508,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-09-15"
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -1683,6 +1683,55 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-330784",
+   "tmdbId": 330784,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Tuzlu Kahve",
+   "orijinalAd": "Tuzlu Kahve",
+   "yil": "2026",
+   "ozet": "Yıllardır birbirine düşman olan İpekli ve Kutaygil ailelerinin kızları, farkında olmadan aynı ailenin iki oğluyla karşı karşıya gelir. Selin ve Murat evlilik hazırlıkları yaparken, diğer tarafta Murat’ın Amerika’dan yeni dönen abisi Mehmet’in yolu Derin’le kesişir. Hakan’la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bitirirken, Mehmet’le arasında beklenmedik bir yakınlaşma başlar. Böylece geçmişten gelen büyük bir düşmanlığın ortasında, iki kızın kaderi Aydınoğlu ailesinin iki kardeşiyle birbirine bağlanır.",
+   "poster": "/8vjlsis5m7xJSDikg5YbijNgngf.jpg",
+   "arkaplan": "/kE9deMn2l3czaLEjAZJRyNHGsRX.jpg",
+   "turler": [
+    "Aile",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.0,
+   "oySayisi": 1,
+   "platformlar": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q141349348",
+   "wiki": {
+    "tr": "Tuzlu Kahve",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 10398,
+     "onceki7": 12666,
+     "degisim": 0.821
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
    "id": "dizi-331693",
@@ -1765,95 +1814,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-331380",
-   "tmdbId": 331380,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Tut Elimi",
-   "orijinalAd": "Tut Elimi",
-   "yil": "2026",
-   "ozet": "Çocukluk yıllarında yolları kesişen Aslan ve Elvan, daha o yaşlarda birbirlerinin kalbine saf bir sevgi bırakır. Yıllar sonra yeniden bir araya geldiklerinde ise kader, yarım kalan aşklarını tamamlamaları için onlardan büyük bedeller ödemelerini isteyecektir. Sevdanın gücü, sosyal farklılıkların ve aile sırlarının gölgesinde sınanacaktır.\n\nBaşrollerde Kayra Zabcı (Elvan Tekin) ve Enes Özdemir’e (Aslan Berksoy)Hasan Ballıktaş (Muzaffer), Nazan Bayazıt (Azime), Başak İlhan (Vildan), Halit Erman Ersoy (Bora), Kerem Tanık (Kadir), Yasemin Nur Öztürk (Gaye), Billur Pınar Yılmaz (Müge), Özdenur Öztekin (Sibel), Ayşegül Aslan (Gülfem) ve Derya Kurtuluş Oktar’dan (Serpil) oluşan ekip eşlik ediyor.",
-   "poster": "/yaeuxgWANvixBW240TsZIQ7CLoo.jpg",
-   "arkaplan": "/kpkhSSGyxV8BfRPP1LOdbHe7FTO.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-18"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-330784",
-   "tmdbId": 330784,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Tuzlu Kahve",
-   "orijinalAd": "Tuzlu Kahve",
-   "yil": "2026",
-   "ozet": "Yıllardır birbirine düşman olan İpekli ve Kutaygil ailelerinin kızları, farkında olmadan aynı ailenin iki oğluyla karşı karşıya gelir. Selin ve Murat evlilik hazırlıkları yaparken, diğer tarafta Murat’ın Amerika’dan yeni dönen abisi Mehmet’in yolu Derin’le kesişir. Hakan’la evlenmeye hazırlanan Derin, ihaneti öğrenmesiyle ilişkisini bitirirken, Mehmet’le arasında beklenmedik bir yakınlaşma başlar. Böylece geçmişten gelen büyük bir düşmanlığın ortasında, iki kızın kaderi Aydınoğlu ailesinin iki kardeşiyle birbirine bağlanır.",
-   "poster": "/8vjlsis5m7xJSDikg5YbijNgngf.jpg",
-   "arkaplan": "/kE9deMn2l3czaLEjAZJRyNHGsRX.jpg",
-   "turler": [
-    "Aile",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 6.0,
-   "oySayisi": 1,
-   "platformlar": {
-    "flatrate": [
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q141349348",
-   "wiki": {
-    "tr": "Tuzlu Kahve",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 10398,
-     "onceki7": 12666,
-     "degisim": 0.821
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-22"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
    "id": "dizi-332614",
    "tmdbId": 332614,
    "tur": "dizi",
@@ -1886,8 +1846,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-09-15"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -2335,8 +2295,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.226,
-   "oySayisi": 1604,
+   "puan": 8.228,
+   "oySayisi": 1607,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -2376,7 +2336,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
    "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
-   "arkaplan": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
+   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
    "turler": [
     "Dram",
     "Gizem",
@@ -2385,8 +2345,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.237,
-   "oySayisi": 405,
+   "puan": 8.233,
+   "oySayisi": 407,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2439,11 +2399,11 @@ SAHNE_GUN({
    "puan": 8.413,
    "oySayisi": 1728,
    "platformlar": {
-    "flatrate": [
-     "Netflix",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Netflix",
      "Crunchyroll"
     ]
    },
@@ -2542,8 +2502,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.405,
-   "oySayisi": 879,
+   "puan": 8.408,
+   "oySayisi": 882,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2693,8 +2653,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.1,
-   "oySayisi": 76,
+   "puan": 7.038,
+   "oySayisi": 78,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2788,7 +2748,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.263,
+   "puan": 8.3,
    "oySayisi": 1412,
    "platformlar": {
     "flatrate": [
@@ -2949,7 +2909,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.765,
+   "puan": 7.764,
    "oySayisi": 842,
    "platformlar": {
     "flatrate": [
@@ -3025,8 +2985,8 @@ SAHNE_GUN({
     },
     "trEnOran": 0.0099
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-09-15"
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -3235,8 +3195,8 @@ SAHNE_GUN({
     },
     "trEnOran": 0.0028
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-09-16"
+   "sonrakiBolum": "2026-09-23",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": false,
@@ -3312,8 +3272,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.686,
-   "oySayisi": 177,
+   "puan": 8.696,
+   "oySayisi": 176,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3368,13 +3328,13 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.417,
-   "oySayisi": 983,
+   "puan": 8.418,
+   "oySayisi": 984,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3591,6 +3551,52 @@ SAHNE_GUN({
    "sonBolum": "2026-09-20"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-91768",
+   "tmdbId": 91768,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "yil": "2019",
+   "ozet": null,
+   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.1,
+   "oySayisi": 144,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q61998245",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-26",
+   "sonBolum": "2026-09-19"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3638,52 +3644,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-27",
    "sonBolum": "2026-09-20"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-91768",
-   "tmdbId": 91768,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "yil": "2019",
-   "ozet": null,
-   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
-   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.1,
-   "oySayisi": 144,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q61998245",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
   },
   {
    "goster": true,
@@ -3943,54 +3903,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-17"
   },
   {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-305644",
-   "tmdbId": 305644,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Four Hands, Two Sonatas",
-   "orijinalAd": "포핸즈",
-   "yil": "2026",
-   "ozet": "Müzikal dehaların eğitim gördüğü seçkin bir sanat lisesinde, üç genç müzisyenin yolları müzik, rekabet ve duygularla kesişir. Piyano dahisi Kang Bi O, okulun en başarılı öğrencisidir. Düzeni, çocukluk travmaları nedeniyle müziği bırakmış yetenekli piyanist Choi Jeong Yo'nun okula gelişiyle bozulur. Jeong Yo, yıllar önce müziğe dönmesini sağlayan kişiyle yeniden karşılaşırken, bastırdığı yeteneğiyle yüzleşmek zorunda kalır. Onlara, olağanüstü işitme yeteneğine sahip viyola öğrencisi Hong Jae In katılır. Rekabet zamanla dostluğa dönüşürken, üç genç müzik dünyasının baskısı altında birlikte büyür ve tutkularıyla güçlü bir bağ kurar.",
-   "poster": "/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
-   "arkaplan": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "KR"
-   ],
-   "puan": 9.308,
-   "oySayisi": 26,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q137271520",
-   "wiki": {
-    "tr": null,
-    "en": "Four Hands, Two Sonatas"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 34941,
-     "onceki7": 37070,
-     "degisim": 0.943
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-20"
-  },
-  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": false,
@@ -4180,6 +4092,54 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-305644",
+   "tmdbId": 305644,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Four Hands, Two Sonatas",
+   "orijinalAd": "포핸즈",
+   "yil": "2026",
+   "ozet": "Müzikal dehaların eğitim gördüğü seçkin bir sanat lisesinde, üç genç müzisyenin yolları müzik, rekabet ve duygularla kesişir. Piyano dahisi Kang Bi O, okulun en başarılı öğrencisidir. Düzeni, çocukluk travmaları nedeniyle müziği bırakmış yetenekli piyanist Choi Jeong Yo'nun okula gelişiyle bozulur. Jeong Yo, yıllar önce müziğe dönmesini sağlayan kişiyle yeniden karşılaşırken, bastırdığı yeteneğiyle yüzleşmek zorunda kalır. Onlara, olağanüstü işitme yeteneğine sahip viyola öğrencisi Hong Jae In katılır. Rekabet zamanla dostluğa dönüşürken, üç genç müzik dünyasının baskısı altında birlikte büyür ve tutkularıyla güçlü bir bağ kurar.",
+   "poster": "/sdvxrJMzACBUG87YS1YYKmRzTN8.jpg",
+   "arkaplan": "/fYL4I6cezb06BHhQlrNjNhy7jhf.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "KR"
+   ],
+   "puan": 9.333,
+   "oySayisi": 27,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q137271520",
+   "wiki": {
+    "tr": null,
+    "en": "Four Hands, Two Sonatas"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 34941,
+     "onceki7": 37070,
+     "degisim": 0.943
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-26",
+   "sonBolum": "2026-09-20"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": true,
    "id": "dizi-312663",
@@ -4291,8 +4251,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 9.4,
-   "oySayisi": 10,
+   "puan": 9.154,
+   "oySayisi": 13,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4310,6 +4270,56 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-23",
    "sonBolum": "2026-09-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-285418",
+   "tmdbId": 285418,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Youth",
+   "orijinalAd": "Youth",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+   "arkaplan": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+   "turler": [
+    "Komedi",
+    "Dram"
+   ],
+   "ulkeler": [
+    "GB"
+   ],
+   "puan": 7.8,
+   "oySayisi": 5,
+   "platformlar": {
+    "flatrate": [
+     "TV+",
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q141272627",
+   "wiki": {
+    "tr": null,
+    "en": "Youth (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 63986,
+     "onceki7": 19549,
+     "degisim": 3.273
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-21"
   },
   {
    "goster": false,
@@ -4362,50 +4372,49 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-285418",
-   "tmdbId": 285418,
+   "id": "dizi-246473",
+   "tmdbId": 246473,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Youth",
-   "orijinalAd": "Youth",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
-   "arkaplan": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
+   "ad": "Made in Korea",
+   "orijinalAd": "메이드 인 코리아",
+   "yil": "2025",
+   "ozet": "1970'lerde geçen hikayede, Baek Gi Tae zenginlik ve güce susamış hırslı bir adamdır. Jang Gun Yeong ise vahşi içgüdüleri ve korkutucu azmiyle tanınan bir savcıdır. Büyük bir olayla karşı karşıya kalan Jang Gun Yeong, Baek Gi Tae'yi durdurmak için her şeyini ortaya koyar. Çevrelerindeki kişiler arasında lobici Choi Yu Ji, müfettiş O Ye Jin, Bae Geum Ji ve baş sekreter Cheon Seok Jeong yer almaktadır.",
+   "poster": "/lhZCpYVMKZanGTMabOYHTZLD1WY.jpg",
+   "arkaplan": "/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
    "turler": [
-    "Komedi",
+    "Suç",
     "Dram"
    ],
    "ulkeler": [
-    "GB"
+    "KR"
    ],
-   "puan": 7.8,
-   "oySayisi": 5,
+   "puan": 8.2,
+   "oySayisi": 36,
    "platformlar": {
     "flatrate": [
-     "TV+",
-     "HBO Max"
+     "Disney Plus"
     ]
    },
-   "wikidata": "Q141272627",
+   "wikidata": "Q124799060",
    "wiki": {
     "tr": null,
-    "en": "Youth (TV series)"
+    "en": "Made in Korea (TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 63986,
-     "onceki7": 19549,
-     "degisim": 3.273
+     "son7": 15405,
+     "onceki7": 21730,
+     "degisim": 0.709
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": "2026-09-23",
+   "sonBolum": "2026-09-16"
   },
   {
    "goster": true,
@@ -4467,55 +4476,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-246473",
-   "tmdbId": 246473,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Made in Korea",
-   "orijinalAd": "메이드 인 코리아",
-   "yil": "2025",
-   "ozet": "1970'lerde geçen hikayede, Baek Gi Tae zenginlik ve güce susamış hırslı bir adamdır. Jang Gun Yeong ise vahşi içgüdüleri ve korkutucu azmiyle tanınan bir savcıdır. Büyük bir olayla karşı karşıya kalan Jang Gun Yeong, Baek Gi Tae'yi durdurmak için her şeyini ortaya koyar. Çevrelerindeki kişiler arasında lobici Choi Yu Ji, müfettiş O Ye Jin, Bae Geum Ji ve baş sekreter Cheon Seok Jeong yer almaktadır.",
-   "poster": "/lhZCpYVMKZanGTMabOYHTZLD1WY.jpg",
-   "arkaplan": "/3GmRS3efCTp6jumogKOxYBrV5mO.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "KR"
-   ],
-   "puan": 8.2,
-   "oySayisi": 36,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q124799060",
-   "wiki": {
-    "tr": null,
-    "en": "Made in Korea (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 15405,
-     "onceki7": 21730,
-     "degisim": 0.709
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-23",
-   "sonBolum": "2026-09-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-255055",
    "tmdbId": 255055,
    "tur": "dizi",
@@ -4535,7 +4495,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.293,
+   "puan": 7.3,
    "oySayisi": 75,
    "platformlar": {
     "flatrate": [
@@ -4556,8 +4516,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-22",
-   "sonBolum": "2026-04-14"
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -4727,10 +4687,10 @@ SAHNE_GUN({
    "puan": 8.048,
    "oySayisi": 105,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
