@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-17",
   "bit": "2026-09-23"
  },
- "uretildi": "2026-09-23T13:14:05+03:00",
+ "uretildi": "2026-09-23T19:15:18+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -28,6 +28,51 @@ SAHNE_GUN({
  },
  "hatalar": [],
  "yapimlar": [
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "film-1641629",
+   "tmdbId": 1641629,
+   "tur": "film",
+   "koken": "yabanci",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "Sen+Ben - Dünyaya Karşı",
+   "orijinalAd": "Toi+Moi - Seuls contre tous",
+   "yil": "2026",
+   "ozet": "İyi bir aileden gelen genç bir kadın olan Alma Lancaster, hukuk okuduğunu sanan ebeveynlerinden habersiz, film çekme hayalini gerçekleştirmek için kendine bir yıl vermiştir. Pek kimseyle bağı olmayan genç bir adam olan Vadim Arcadi ile çalışmak zorunda kaldığında, aralarında bir çekim kıvılcımlanır. Ama onları ayırmaya ve her şeyi ortaya çıkarmaya kararlı görünmez bir tehdit pusuda beklemektedir.",
+   "poster": "/oE2e64SPmGCpQzWruqeeOIV5Ijb.jpg",
+   "arkaplan": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
+   "turler": [
+    "Romantik",
+    "Dram"
+   ],
+   "ulkeler": [
+    "FR"
+   ],
+   "puan": 5.711,
+   "oySayisi": 38,
+   "platformlar": {
+    "flatrate": [
+     "Amazon Prime Video"
+    ]
+   },
+   "wikidata": "Q140465273",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
   {
    "goster": true,
    "kategori": null,
@@ -68,51 +113,6 @@ SAHNE_GUN({
      "onceki7": 173240,
      "degisim": 0.516
     },
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": null
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "film-1641629",
-   "tmdbId": 1641629,
-   "tur": "film",
-   "koken": "yabanci",
-   "listeler": [
-    "dijital-cikis"
-   ],
-   "ad": "Sen+Ben - Dünyaya Karşı",
-   "orijinalAd": "Toi+Moi - Seuls contre tous",
-   "yil": "2026",
-   "ozet": "İyi bir aileden gelen genç bir kadın olan Alma Lancaster, hukuk okuduğunu sanan ebeveynlerinden habersiz, film çekme hayalini gerçekleştirmek için kendine bir yıl vermiştir. Pek kimseyle bağı olmayan genç bir adam olan Vadim Arcadi ile çalışmak zorunda kaldığında, aralarında bir çekim kıvılcımlanır. Ama onları ayırmaya ve her şeyi ortaya çıkarmaya kararlı görünmez bir tehdit pusuda beklemektedir.",
-   "poster": "/oE2e64SPmGCpQzWruqeeOIV5Ijb.jpg",
-   "arkaplan": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
-   "turler": [
-    "Romantik",
-    "Dram"
-   ],
-   "ulkeler": [
-    "FR"
-   ],
-   "puan": 5.7,
-   "oySayisi": 37,
-   "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ]
-   },
-   "wikidata": "Q140465273",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
     "trEnOran": null
    },
    "sonrakiBolum": null,
@@ -187,8 +187,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 10.0,
-   "oySayisi": 5,
+   "puan": 9.4,
+   "oySayisi": 7,
    "platformlar": {},
    "wikidata": "Q136540069",
    "wiki": {
@@ -201,56 +201,6 @@ SAHNE_GUN({
      "son7": 35730,
      "onceki7": 16269,
      "degisim": 2.196
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": null
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "film-1242434",
-   "tmdbId": 1242434,
-   "tur": "film",
-   "koken": "yabanci",
-   "listeler": [
-    "dijital-cikis"
-   ],
-   "ad": "Yüksekten Alçağa",
-   "orijinalAd": "Highest 2 Lowest",
-   "yil": "2025",
-   "ozet": "Güçlü bir müzik yapımcısı, bir fidye planının hedefi olduğunda ailesi ve mirası için mücadele etmek zorunda kalırken bir yandan da hayatını etkileyen ölüm kalım içerikli ahlaki bir ikileme sıkışır.",
-   "poster": "/nNmU7nJFgMnrAdlJFbJGX5BoIS.jpg",
-   "arkaplan": "/saErQCTkKbqiggCJbSltBMDD4oy.jpg",
-   "turler": [
-    "Gerilim",
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 5.482,
-   "oySayisi": 539,
-   "platformlar": {
-    "flatrate": [
-     "TV+"
-    ]
-   },
-   "wikidata": "Q124512337",
-   "wiki": {
-    "tr": null,
-    "en": "Highest 2 Lowest"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 6262,
-     "onceki7": 6425,
-     "degisim": 0.975
     },
     "trEnOran": null
    },
@@ -307,90 +257,45 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "film-1259102",
-   "tmdbId": 1259102,
+   "id": "film-1242434",
+   "tmdbId": 1242434,
    "tur": "film",
    "koken": "yabanci",
    "listeler": [
     "dijital-cikis"
    ],
-   "ad": "Sonsuza Dek",
-   "orijinalAd": "Eternity",
+   "ad": "Yüksekten Alçağa",
+   "orijinalAd": "Highest 2 Lowest",
    "yil": "2025",
-   "ozet": "Ruhların sonsuzluğu nerede geçireceklerine karar vermek için bir haftaları vardır. Joan hayatının aşkı ile genç yaşta ölen ilk aşkı arasında imkansız bir seçimle karşı karşıya kalır.",
-   "poster": "/t64xhKvMKgfePvTUB8OYXH2jnm.jpg",
-   "arkaplan": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+   "ozet": "Güçlü bir müzik yapımcısı, bir fidye planının hedefi olduğunda ailesi ve mirası için mücadele etmek zorunda kalırken bir yandan da hayatını etkileyen ölüm kalım içerikli ahlaki bir ikileme sıkışır.",
+   "poster": "/nNmU7nJFgMnrAdlJFbJGX5BoIS.jpg",
+   "arkaplan": "/saErQCTkKbqiggCJbSltBMDD4oy.jpg",
    "turler": [
-    "Romantik",
-    "Komedi",
+    "Gerilim",
+    "Suç",
     "Dram"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.1,
-   "oySayisi": 854,
-   "platformlar": {},
-   "wikidata": "Q126203157",
-   "wiki": {
-    "tr": null,
-    "en": "Eternity (2025 film)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 13620,
-     "onceki7": 16315,
-     "degisim": 0.835
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": null
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "film-1236470",
-   "tmdbId": 1236470,
-   "tur": "film",
-   "koken": "yabanci",
-   "listeler": [
-    "dijital-cikis"
-   ],
-   "ad": "Kayıp Otobüs",
-   "orijinalAd": "The Lost Bus",
-   "yil": "2025",
-   "ozet": "Kararlı bir baba, azimli bir öğretmeni ve öğrencilerini kontrol edilemeyen bir orman yangınından kurtarmak için her şeyi riske atar.",
-   "poster": "/e8zCcj359ltafO6mb8z6S47r4fU.jpg",
-   "arkaplan": "/wofTDrrNvySkjrv2v34jqpPZAP6.jpg",
-   "turler": [
-    "Dram",
-    "Gerilim"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.011,
-   "oySayisi": 836,
+   "puan": 5.482,
+   "oySayisi": 539,
    "platformlar": {
     "flatrate": [
      "TV+"
     ]
    },
-   "wikidata": "Q125153299",
+   "wikidata": "Q124512337",
    "wiki": {
     "tr": null,
-    "en": "The Lost Bus"
+    "en": "Highest 2 Lowest"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 8683,
-     "onceki7": 10033,
-     "degisim": 0.865
+     "son7": 6262,
+     "onceki7": 6425,
+     "degisim": 0.975
     },
     "trEnOran": null
    },
@@ -498,6 +403,101 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "film-1259102",
+   "tmdbId": 1259102,
+   "tur": "film",
+   "koken": "yabanci",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "Sonsuza Dek",
+   "orijinalAd": "Eternity",
+   "yil": "2025",
+   "ozet": "Ruhların sonsuzluğu nerede geçireceklerine karar vermek için bir haftaları vardır. Joan hayatının aşkı ile genç yaşta ölen ilk aşkı arasında imkansız bir seçimle karşı karşıya kalır.",
+   "poster": "/t64xhKvMKgfePvTUB8OYXH2jnm.jpg",
+   "arkaplan": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+   "turler": [
+    "Romantik",
+    "Komedi",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.1,
+   "oySayisi": 854,
+   "platformlar": {},
+   "wikidata": "Q126203157",
+   "wiki": {
+    "tr": null,
+    "en": "Eternity (2025 film)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 13620,
+     "onceki7": 16315,
+     "degisim": 0.835
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "film-1236470",
+   "tmdbId": 1236470,
+   "tur": "film",
+   "koken": "yabanci",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "Kayıp Otobüs",
+   "orijinalAd": "The Lost Bus",
+   "yil": "2025",
+   "ozet": "Kararlı bir baba, azimli bir öğretmeni ve öğrencilerini kontrol edilemeyen bir orman yangınından kurtarmak için her şeyi riske atar.",
+   "poster": "/e8zCcj359ltafO6mb8z6S47r4fU.jpg",
+   "arkaplan": "/wofTDrrNvySkjrv2v34jqpPZAP6.jpg",
+   "turler": [
+    "Dram",
+    "Gerilim"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.012,
+   "oySayisi": 838,
+   "platformlar": {
+    "flatrate": [
+     "TV+"
+    ]
+   },
+   "wikidata": "Q125153299",
+   "wiki": {
+    "tr": null,
+    "en": "The Lost Bus"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 8683,
+     "onceki7": 10033,
+     "degisim": 0.865
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "film-1361774",
    "tmdbId": 1361774,
    "tur": "film",
@@ -562,7 +562,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 5.402,
+   "puan": 5.383,
    "oySayisi": 256,
    "platformlar": {},
    "wikidata": "Q125029914",
@@ -804,6 +804,46 @@ SAHNE_GUN({
    "sonBolum": null
   },
   {
+   "goster": false,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "film-1773860",
+   "tmdbId": 1773860,
+   "tur": "film",
+   "koken": "yabanci",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "SAMURAI",
+   "orijinalAd": "SAMURAI",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/xHHOBrYtFTSImNQv4UOsbCmOhXK.jpg",
+   "arkaplan": "/uiRwSJEp3M71hsVzNN3dNDhUMKQ.jpg",
+   "turler": [
+    "Animasyon"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": false,
@@ -827,46 +867,6 @@ SAHNE_GUN({
    ],
    "ulkeler": [
     "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": null
-  },
-  {
-   "goster": false,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "film-1773860",
-   "tmdbId": 1773860,
-   "tur": "film",
-   "koken": "yabanci",
-   "listeler": [
-    "dijital-cikis"
-   ],
-   "ad": "SAMURAI",
-   "orijinalAd": "SAMURAI",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/xHHOBrYtFTSImNQv4UOsbCmOhXK.jpg",
-   "arkaplan": "/uiRwSJEp3M71hsVzNN3dNDhUMKQ.jpg",
-   "turler": [
-    "Animasyon"
-   ],
-   "ulkeler": [
-    "US"
    ],
    "puan": 0.0,
    "oySayisi": 0,
@@ -996,11 +996,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 40,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "ads": [
      "puhutv"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q131195670",
@@ -1846,7 +1846,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-09-29",
    "sonBolum": "2026-09-22"
   },
   {
@@ -1972,6 +1972,46 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-238522",
+   "tmdbId": 238522,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Kod Adı: Kırlangıç",
+   "orijinalAd": "Kod Adı: Kırlangıç",
+   "yil": "2023",
+   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
+   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
+   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
+   "turler": [
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 10.0,
+   "oySayisi": 1,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-21"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-333894",
@@ -2018,27 +2058,28 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-238522",
-   "tmdbId": 238522,
+   "id": "dizi-333821",
+   "tmdbId": 333821,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Kod Adı: Kırlangıç",
-   "orijinalAd": "Kod Adı: Kırlangıç",
-   "yil": "2023",
-   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
-   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
-   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
+   "ad": "Anne Yarısı",
+   "orijinalAd": "Anne Yarısı",
+   "yil": "2026",
+   "ozet": "8 yıl önce Almanya'da yaşanan büyük bir kaybın ardından yolları küçük bir çocuğun etrafında kesişen Ali ve Zeynep'in duygusal hikayesini anlatıyor",
+   "poster": "/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg",
+   "arkaplan": "/wvVmG1XQRh0oLmKUlzc5KLUUt34.jpg",
    "turler": [
-    "Aksiyon & Macera"
+    "Dram",
+    "Pembe Dizi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 10.0,
-   "oySayisi": 1,
+   "puan": 0.0,
+   "oySayisi": 0,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -2050,8 +2091,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -2142,47 +2183,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-27",
    "sonBolum": "2026-09-20"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-333821",
-   "tmdbId": 333821,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Anne Yarısı",
-   "orijinalAd": "Anne Yarısı",
-   "yil": "2026",
-   "ozet": "8 yıl önce Almanya'da yaşanan büyük bir kaybın ardından yolları küçük bir çocuğun etrafında kesişen Ali ve Zeynep'in duygusal hikayesini anlatıyor",
-   "poster": "/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg",
-   "arkaplan": "/wvVmG1XQRh0oLmKUlzc5KLUUt34.jpg",
-   "turler": [
-    "Dram",
-    "Pembe Dizi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -2396,14 +2396,14 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.413,
+   "puan": 8.4,
    "oySayisi": 1728,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2493,7 +2493,7 @@ SAHNE_GUN({
    "yil": "2025",
    "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
    "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "arkaplan": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+   "arkaplan": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "turler": [
     "Suç",
     "Dram"
@@ -2503,7 +2503,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.408,
-   "oySayisi": 882,
+   "oySayisi": 883,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2578,6 +2578,51 @@ SAHNE_GUN({
    "sonBolum": "2026-09-20"
   },
   {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-299939",
+   "tmdbId": 299939,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Canavar: Lizzie Borden'ın Hikâyesi",
+   "orijinalAd": "Monster: The Lizzie Borden Story",
+   "yil": "2026",
+   "ozet": "Viktorya döneminde, acımasız bir ailenin içinde kısılı kalan Lizzie Borden, ebeveynlerini baltayla vahşice öldürerek tüm ülkeyi şaşkına çevirir.",
+   "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
+   "arkaplan": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
+   "turler": [
+    "Dram",
+    "Suç"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.0,
+   "oySayisi": 79,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-17"
+  },
+  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": true,
@@ -2627,208 +2672,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-23",
    "sonBolum": "2026-09-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-299939",
-   "tmdbId": 299939,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Canavar: Lizzie Borden'ın Hikâyesi",
-   "orijinalAd": "Monster: The Lizzie Borden Story",
-   "yil": "2026",
-   "ozet": "Viktorya döneminde, acımasız bir ailenin içinde kısılı kalan Lizzie Borden, ebeveynlerini baltayla vahşice öldürerek tüm ülkeyi şaşkına çevirir.",
-   "poster": "/57XScX1aYtKi1LvHYFQLPUxVhTG.jpg",
-   "arkaplan": "/gaew60NXUxok3Vmls7gkAT7lYW0.jpg",
-   "turler": [
-    "Dram",
-    "Suç"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.038,
-   "oySayisi": 78,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-17"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-30983",
-   "tmdbId": 30983,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Dedektif Konan",
-   "orijinalAd": "名探偵コナン",
-   "yil": "1996",
-   "ozet": "Dünyaca ünlü bir gizem yazarı olan Jimmy Kudo'nun oğlu, yerel polise bir öğrenci dedektifi olarak yardım ederek ün kazandı. Zekasını ve muhakeme gücünü kullanarak her zaman en zor ceza davalarını çözebilmiştir. HD Kaliteli Olsun Hemde Tam Bolum Turkce Seslendirmeli Olsun",
-   "poster": "/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
-   "arkaplan": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
-   "turler": [
-    "Animasyon",
-    "Suç",
-    "Gizem",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.0,
-   "oySayisi": 788,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q5363072",
-   "wiki": {
-    "tr": null,
-    "en": "Case Closed (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 1916,
-     "onceki7": 2533,
-     "degisim": 0.756
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-2710",
-   "tmdbId": 2710,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "It's Always Sunny in Philadelphia",
-   "orijinalAd": "It's Always Sunny in Philadelphia",
-   "yil": "2005",
-   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
-   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-   "arkaplan": "/u2K2hyUSds4KzOegsC8Eon9oNf2.jpg",
-   "turler": [
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.3,
-   "oySayisi": 1412,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q23670",
-   "wiki": {
-    "tr": "It's Always Sunny in Philadelphia",
-    "en": "It's Always Sunny in Philadelphia"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 55,
-     "onceki7": 63,
-     "degisim": 0.873
-    },
-    "en": {
-     "son7": 38261,
-     "onceki7": 40760,
-     "degisim": 0.939
-    },
-    "trEnOran": 0.0014
-   },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-615",
-   "tmdbId": 615,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Futurama",
-   "orijinalAd": "Futurama",
-   "yil": "1999",
-   "ozet": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
-   "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
-   "arkaplan": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
-   "turler": [
-    "Animasyon",
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.365,
-   "oySayisi": 3913,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q73622",
-   "wiki": {
-    "tr": "Futurama",
-    "en": "Futurama"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 45,
-     "onceki7": 67,
-     "degisim": 0.672
-    },
-    "en": {
-     "son7": 21850,
-     "onceki7": 21254,
-     "degisim": 1.028
-    },
-    "trEnOran": 0.0021
-   },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
   },
   {
    "goster": true,
@@ -2888,6 +2731,163 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-2710",
+   "tmdbId": 2710,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "It's Always Sunny in Philadelphia",
+   "orijinalAd": "It's Always Sunny in Philadelphia",
+   "yil": "2005",
+   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
+   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
+   "arkaplan": "/u2K2hyUSds4KzOegsC8Eon9oNf2.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.257,
+   "oySayisi": 1412,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q23670",
+   "wiki": {
+    "tr": "It's Always Sunny in Philadelphia",
+    "en": "It's Always Sunny in Philadelphia"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 55,
+     "onceki7": 63,
+     "degisim": 0.873
+    },
+    "en": {
+     "son7": 38261,
+     "onceki7": 40760,
+     "degisim": 0.939
+    },
+    "trEnOran": 0.0014
+   },
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-21"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-30983",
+   "tmdbId": 30983,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Dedektif Konan",
+   "orijinalAd": "名探偵コナン",
+   "yil": "1996",
+   "ozet": "Dünyaca ünlü bir gizem yazarı olan Jimmy Kudo'nun oğlu, yerel polise bir öğrenci dedektifi olarak yardım ederek ün kazandı. Zekasını ve muhakeme gücünü kullanarak her zaman en zor ceza davalarını çözebilmiştir. HD Kaliteli Olsun Hemde Tam Bolum Turkce Seslendirmeli Olsun",
+   "poster": "/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+   "arkaplan": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+   "turler": [
+    "Animasyon",
+    "Suç",
+    "Gizem",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.0,
+   "oySayisi": 788,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q5363072",
+   "wiki": {
+    "tr": null,
+    "en": "Case Closed (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 1916,
+     "onceki7": 2533,
+     "degisim": 0.756
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-26",
+   "sonBolum": "2026-09-19"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-615",
+   "tmdbId": 615,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Futurama",
+   "orijinalAd": "Futurama",
+   "yil": "1999",
+   "ozet": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
+   "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+   "arkaplan": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.365,
+   "oySayisi": 3914,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q73622",
+   "wiki": {
+    "tr": "Futurama",
+    "en": "Futurama"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 45,
+     "onceki7": 67,
+     "degisim": 0.672
+    },
+    "en": {
+     "son7": 21850,
+     "onceki7": 21254,
+     "degisim": 1.028
+    },
+    "trEnOran": 0.0021
+   },
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-21"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-60694",
    "tmdbId": 60694,
    "tur": "dizi",
@@ -2909,7 +2909,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.764,
+   "puan": 7.754,
    "oySayisi": 842,
    "platformlar": {
     "flatrate": [
@@ -2928,6 +2928,59 @@ SAHNE_GUN({
      "son7": 6861,
      "onceki7": 7316,
      "degisim": 0.938
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-37854",
+   "tmdbId": 37854,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "One Piece",
+   "orijinalAd": "ワンピース",
+   "yil": "1999",
+   "ozet": "Korsanlar Kralı Gold Roger, bu dünyadaki herşeyi elde eder ve idam edilirken, tüm servetinin Grand Line'da olduğunu, onu arayıp bulmaları gerektiğini söyler. Bu olaydan sonra herkes Grand Line'a gider. Ancak Grand Line'a girmek çok zor, Grand Line'da canlı kalabilmek imkansızdır. Kahramanımız Monkey D. Luffy'nin hayali, Korsanlar kralı olmak ve One Piece denen kimsenin bilmediği, görmediği hazineyi ele geçirmektir. Küçük yaşlardan beri hep korsan olmak isteyen Luffy, kazara bir şeytan meyvesi (Akuma No Mi) yemiştir. 3 farklı şeytan meyvesi vardır ve bu meyvalar yiyenlere çok üstün güçler sağlamaktadır ancak bu güçlerin bedeli asla yüzememektir. Luffy'nin yediği meyve onu bir lastik çocuğa çevirir. Bu olaydan yıllar sonra Luffy denize açılır. Yolculuğu sırasında ekibini toplayacak ve One Piece'i bulmak için Grand Line'da birbirinden tehlikeli ve komik maceralara atılacaktır.",
+   "poster": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
+   "arkaplan": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+   "turler": [
+    "Aksiyon & Macera",
+    "Komedi",
+    "Animasyon"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.749,
+   "oySayisi": 5554,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q710324",
+   "wiki": {
+    "tr": null,
+    "en": "One Piece (1999 TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 11598,
+     "onceki7": 11859,
+     "degisim": 0.978
     },
     "trEnOran": null
    },
@@ -3041,59 +3094,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-18"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-37854",
-   "tmdbId": 37854,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "One Piece",
-   "orijinalAd": "ワンピース",
-   "yil": "1999",
-   "ozet": "Korsanlar Kralı Gold Roger, bu dünyadaki herşeyi elde eder ve idam edilirken, tüm servetinin Grand Line'da olduğunu, onu arayıp bulmaları gerektiğini söyler. Bu olaydan sonra herkes Grand Line'a gider. Ancak Grand Line'a girmek çok zor, Grand Line'da canlı kalabilmek imkansızdır. Kahramanımız Monkey D. Luffy'nin hayali, Korsanlar kralı olmak ve One Piece denen kimsenin bilmediği, görmediği hazineyi ele geçirmektir. Küçük yaşlardan beri hep korsan olmak isteyen Luffy, kazara bir şeytan meyvesi (Akuma No Mi) yemiştir. 3 farklı şeytan meyvesi vardır ve bu meyvalar yiyenlere çok üstün güçler sağlamaktadır ancak bu güçlerin bedeli asla yüzememektir. Luffy'nin yediği meyve onu bir lastik çocuğa çevirir. Bu olaydan yıllar sonra Luffy denize açılır. Yolculuğu sırasında ekibini toplayacak ve One Piece'i bulmak için Grand Line'da birbirinden tehlikeli ve komik maceralara atılacaktır.",
-   "poster": "/8f33Q5AuM2G5ZqFeusbIqDjr3cI.jpg",
-   "arkaplan": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
-   "turler": [
-    "Aksiyon & Macera",
-    "Komedi",
-    "Animasyon"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.749,
-   "oySayisi": 5554,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ],
-    "ads": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q710324",
-   "wiki": {
-    "tr": null,
-    "en": "One Piece (1999 TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 11598,
-     "onceki7": 11859,
-     "degisim": 0.978
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
-  },
-  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3118,8 +3118,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.876,
-   "oySayisi": 852,
+   "puan": 7.879,
+   "oySayisi": 853,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -3430,10 +3430,10 @@ SAHNE_GUN({
    "puan": 8.281,
    "oySayisi": 306,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3770,8 +3770,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.424,
-   "oySayisi": 72,
+   "puan": 8.418,
+   "oySayisi": 73,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -4113,7 +4113,7 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.333,
+   "puan": 9.3,
    "oySayisi": 27,
    "platformlar": {
     "flatrate": [
@@ -4443,7 +4443,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.357,
+   "puan": 7.4,
    "oySayisi": 300,
    "platformlar": {
     "flatrate": [
@@ -4543,8 +4543,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.291,
-   "oySayisi": 91,
+   "puan": 6.261,
+   "oySayisi": 90,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -4737,10 +4737,10 @@ SAHNE_GUN({
    "puan": 8.268,
    "oySayisi": 125,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
