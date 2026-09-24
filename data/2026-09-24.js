@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-18",
   "bit": "2026-09-24"
  },
- "uretildi": "2026-09-24T07:13:48+03:00",
+ "uretildi": "2026-09-24T13:13:55+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.353,
-   "oySayisi": 34,
+   "puan": 8.1,
+   "oySayisi": 46,
    "platformlar": {},
    "wikidata": "Q136540069",
    "wiki": {
@@ -98,7 +98,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 5.731,
+   "puan": 5.7,
    "oySayisi": 39,
    "platformlar": {
     "flatrate": [
@@ -691,8 +691,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-06-05"
   },
   {
    "goster": true,
@@ -1248,8 +1248,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-23",
-   "sonBolum": "2026-09-16"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": true,
@@ -1737,8 +1737,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.235,
-   "oySayisi": 1615,
+   "puan": 8.2,
+   "oySayisi": 1620,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -1787,8 +1787,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.251,
-   "oySayisi": 418,
+   "puan": 8.25,
+   "oySayisi": 420,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -1890,8 +1890,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.793,
-   "oySayisi": 375,
+   "puan": 6.786,
+   "oySayisi": 376,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2046,7 +2046,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.073,
-   "oySayisi": 6179,
+   "oySayisi": 6180,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2121,8 +2121,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-23",
-   "sonBolum": "2026-09-16"
+   "sonrakiBolum": "2026-09-30",
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": true,
@@ -2148,7 +2148,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.261,
+   "puan": 8.3,
    "oySayisi": 1414,
    "platformlar": {
     "flatrate": [
@@ -2412,7 +2412,7 @@ SAHNE_GUN({
     "JP"
    ],
    "puan": 8.749,
-   "oySayisi": 5554,
+   "oySayisi": 5555,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2727,10 +2727,10 @@ SAHNE_GUN({
    "puan": 8.418,
    "oySayisi": 984,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2831,7 +2831,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
+   "puan": 8.438,
    "oySayisi": 814,
    "platformlar": {
     "ads": [
@@ -2925,7 +2925,7 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.511,
+   "puan": 8.5,
    "oySayisi": 46,
    "platformlar": {
     "flatrate": [
@@ -3020,10 +3020,10 @@ SAHNE_GUN({
    "puan": 8.281,
    "oySayisi": 306,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3114,8 +3114,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.692,
-   "oySayisi": 52,
+   "puan": 6.679,
+   "oySayisi": 53,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -3407,7 +3407,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.5,
+   "puan": 7.545,
    "oySayisi": 55,
    "platformlar": {
     "flatrate": [
@@ -3506,8 +3506,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 9.0,
-   "oySayisi": 17,
+   "puan": 8.95,
+   "oySayisi": 20,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3640,8 +3640,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.3,
-   "oySayisi": 27,
+   "puan": 9.4,
+   "oySayisi": 28,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3763,8 +3763,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-23",
-   "sonBolum": "2026-09-16"
+   "sonrakiBolum": "2026-09-30",
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": true,
@@ -3896,10 +3896,10 @@ SAHNE_GUN({
    "puan": 8.0,
    "oySayisi": 105,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3943,7 +3943,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.4,
+   "puan": 7.36,
    "oySayisi": 300,
    "platformlar": {
     "flatrate": [
@@ -4145,7 +4145,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.5,
+   "puan": 7.554,
    "oySayisi": 101,
    "platformlar": {
     "flatrate": [
@@ -4162,8 +4162,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-23",
-   "sonBolum": "2026-09-16"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": false,
@@ -4195,10 +4195,10 @@ SAHNE_GUN({
    "puan": 8.268,
    "oySayisi": 125,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
