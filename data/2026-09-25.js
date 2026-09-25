@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-19",
   "bit": "2026-09-25"
  },
- "uretildi": "2026-09-25T07:14:15+03:00",
+ "uretildi": "2026-09-25T13:14:10+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.1,
-   "oySayisi": 109,
+   "puan": 8.297,
+   "oySayisi": 133,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -310,11 +310,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 41,
    "platformlar": {
-    "ads": [
-     "puhutv"
-    ],
     "flatrate": [
      "Amazon Prime Video"
+    ],
+    "ads": [
+     "puhutv"
     ]
    },
    "wikidata": "Q131195670",
@@ -560,8 +560,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-09-17"
+   "sonrakiBolum": "2026-10-08",
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -1197,8 +1197,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-09-17"
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -1305,8 +1305,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 4.0,
-   "oySayisi": 3,
+   "puan": 3.5,
+   "oySayisi": 4,
    "platformlar": {},
    "wikidata": "Q141405792",
    "wiki": {
@@ -1623,11 +1623,11 @@ SAHNE_GUN({
    "puan": 8.416,
    "oySayisi": 1730,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -1674,8 +1674,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.4,
-   "oySayisi": 895,
+   "puan": 8.414,
+   "oySayisi": 897,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1827,7 +1827,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.1,
-   "oySayisi": 6180,
+   "oySayisi": 6181,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2011,6 +2011,60 @@ SAHNE_GUN({
    "sonBolum": "2026-09-21"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-45790",
+   "tmdbId": 45790,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "JoJo's Bizarre Adventure",
+   "orijinalAd": "ジョジョの奇妙な冒険",
+   "yil": "2012",
+   "ozet": "Jonathan Joestar zengin, asil, herkesin arzu edeceği hayata sahip bir çocuktur. Dio Brando ise babasının ölmesiyle JoJo ailesine evlatlık gelmiş hırslı ve yetenekli bir çocuktur. Hikaye, Jonathan Joestar ve Dio Brando'dan başlayarak iki ailenin birkaç nesil boyunca birbiri ile olan mücadelesini konu almaktadır.",
+   "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+   "arkaplan": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.6,
+   "oySayisi": 1656,
+   "platformlar": {
+    "flatrate": [
+     "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q28930028",
+   "wiki": {
+    "tr": null,
+    "en": "JoJo's Bizarre Adventure (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 5048,
+     "onceki7": 4136,
+     "degisim": 1.221
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-25",
+   "sonBolum": "2026-03-19"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -2069,60 +2123,6 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-45790",
-   "tmdbId": 45790,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "JoJo's Bizarre Adventure",
-   "orijinalAd": "ジョジョの奇妙な冒険",
-   "yil": "2012",
-   "ozet": "Jonathan Joestar zengin, asil, herkesin arzu edeceği hayata sahip bir çocuktur. Dio Brando ise babasının ölmesiyle JoJo ailesine evlatlık gelmiş hırslı ve yetenekli bir çocuktur. Hikaye, Jonathan Joestar ve Dio Brando'dan başlayarak iki ailenin birkaç nesil boyunca birbiri ile olan mücadelesini konu almaktadır.",
-   "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-   "arkaplan": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.6,
-   "oySayisi": 1656,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Netflix",
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q28930028",
-   "wiki": {
-    "tr": null,
-    "en": "JoJo's Bizarre Adventure (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 5048,
-     "onceki7": 4136,
-     "degisim": 1.221
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-03-19"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-30983",
    "tmdbId": 30983,
    "tur": "dizi",
@@ -2145,7 +2145,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.0,
+   "puan": 8.01,
    "oySayisi": 788,
    "platformlar": {
     "flatrate": [
@@ -2352,7 +2352,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.749,
+   "puan": 8.7,
    "oySayisi": 5557,
    "platformlar": {
     "ads": [
@@ -2378,6 +2378,59 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-27",
    "sonBolum": "2026-09-20"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-103516",
+   "tmdbId": 103516,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Star Trek: Strange New Worlds",
+   "orijinalAd": "Star Trek: Strange New Worlds",
+   "yil": "2022",
+   "ozet": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
+   "poster": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
+   "arkaplan": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
+   "turler": [
+    "Bilim Kurgu & Fantazi",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.9,
+   "oySayisi": 853,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q94527193",
+   "wiki": {
+    "tr": "Uzay Yolu: Yeni Dünyalar",
+    "en": "Star Trek: Strange New Worlds"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 27,
+     "onceki7": 36,
+     "degisim": 0.75
+    },
+    "en": {
+     "son7": 67883,
+     "onceki7": 72984,
+     "degisim": 0.93
+    },
+    "trEnOran": 0.0004
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -2436,59 +2489,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-103516",
-   "tmdbId": 103516,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Star Trek: Strange New Worlds",
-   "orijinalAd": "Star Trek: Strange New Worlds",
-   "yil": "2022",
-   "ozet": "Star Trek: The Original Series’in öncesince geçecek olan bir Star Trek prequel’i. Federasyon Gemisi Enterprise (Atılgan)’ın Kaptan Kirk’ten önceki kaptanı olan Kaptan Christopher Pike ve ekibinin hikayelerini konu ediniyor",
-   "poster": "/511LZFZJIbxhGjclesSBGQ2ygnE.jpg",
-   "arkaplan": "/fZJs6xgU9dqIg9phIXjZAZOInzy.jpg",
-   "turler": [
-    "Bilim Kurgu & Fantazi",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.9,
-   "oySayisi": 853,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q94527193",
-   "wiki": {
-    "tr": "Uzay Yolu: Yeni Dünyalar",
-    "en": "Star Trek: Strange New Worlds"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 27,
-     "onceki7": 36,
-     "degisim": 0.75
-    },
-    "en": {
-     "son7": 67883,
-     "onceki7": 72984,
-     "degisim": 0.93
-    },
-    "trEnOran": 0.0004
-   },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-09-17"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-2370",
    "tmdbId": 2370,
    "tur": "dizi",
@@ -2529,8 +2529,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-01-22"
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -2589,6 +2589,55 @@ SAHNE_GUN({
   {
    "goster": false,
    "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-207468",
+   "tmdbId": 207468,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Kaiju No. 8",
+   "orijinalAd": "怪獣８号",
+   "yil": "2024",
+   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
+   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.438,
+   "oySayisi": 814,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q115777186",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2025-09-27"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-82684",
@@ -2641,42 +2690,38 @@ SAHNE_GUN({
    "sonBolum": "2026-09-18"
   },
   {
-   "goster": false,
-   "kategori": "anime",
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": true,
-   "id": "dizi-207468",
-   "tmdbId": 207468,
+   "id": "dizi-312557",
+   "tmdbId": 312557,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Kaiju No. 8",
-   "orijinalAd": "怪獣８号",
-   "yil": "2024",
-   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
-   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
-   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+   "ad": "Minerva Akademisi",
+   "orijinalAd": "Minerva - La scuola",
+   "yil": "2026",
+   "ozet": "Minerva Askerî Lisesi'ne yeni öğrenciler gelir. Salvo, ortadan kaybolan arkadaşına dair ipuçları ararken rekabet, aşklar ve güç dinamikleri hemen patlak verir.",
+   "poster": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+   "arkaplan": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
    "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
+    "Dram",
+    "Gizem"
    ],
    "ulkeler": [
-    "JP"
+    "IT"
    ],
-   "puan": 8.438,
-   "oySayisi": 814,
+   "puan": 7.0,
+   "oySayisi": 6,
    "platformlar": {
     "flatrate": [
-     "Crunchyroll"
-    ],
-    "ads": [
-     "Crunchyroll"
+     "Netflix"
     ]
    },
-   "wikidata": "Q115777186",
+   "wikidata": null,
    "wiki": {
     "tr": null,
     "en": null
@@ -2687,7 +2732,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2025-09-27"
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -2738,51 +2783,6 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-312557",
-   "tmdbId": 312557,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Minerva Akademisi",
-   "orijinalAd": "Minerva - La scuola",
-   "yil": "2026",
-   "ozet": "Minerva Askerî Lisesi'ne yeni öğrenciler gelir. Salvo, ortadan kaybolan arkadaşına dair ipuçları ararken rekabet, aşklar ve güç dinamikleri hemen patlak verir.",
-   "poster": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
-   "arkaplan": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-   "turler": [
-    "Dram",
-    "Gizem"
-   ],
-   "ulkeler": [
-    "IT"
-   ],
-   "puan": 7.0,
-   "oySayisi": 6,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
    "sonBolum": "2026-09-22"
   },
   {
@@ -3000,8 +3000,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.679,
-   "oySayisi": 53,
+   "puan": 6.741,
+   "oySayisi": 54,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -3169,54 +3169,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-207484",
-   "tmdbId": 207484,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Outlander: Blood of My Blood",
-   "orijinalAd": "Outlander: Blood of My Blood",
-   "yil": "2025",
-   "ozet": "Outlander”dan uyarlanan bu yeni dizi, Fraser ve Beauchamp ailelerinin kaderini şekillendiren ve iki farklı zaman diliminde geçen paralel aşkların hikayesini anlatıyor.",
-   "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-   "arkaplan": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.606,
-   "oySayisi": 108,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q125305426",
-   "wiki": {
-    "tr": null,
-    "en": "Outlander: Blood of My Blood"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 30130,
-     "onceki7": 15036,
-     "degisim": 2.004
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-255055",
    "tmdbId": 255055,
    "tur": "dizi",
@@ -3307,6 +3259,54 @@ SAHNE_GUN({
    "sonBolum": "2026-09-18"
   },
   {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-207484",
+   "tmdbId": 207484,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Outlander: Blood of My Blood",
+   "orijinalAd": "Outlander: Blood of My Blood",
+   "yil": "2025",
+   "ozet": "Outlander”dan uyarlanan bu yeni dizi, Fraser ve Beauchamp ailelerinin kaderini şekillendiren ve iki farklı zaman diliminde geçen paralel aşkların hikayesini anlatıyor.",
+   "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+   "arkaplan": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.606,
+   "oySayisi": 108,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q125305426",
+   "wiki": {
+    "tr": null,
+    "en": "Outlander: Blood of My Blood"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 30130,
+     "onceki7": 15036,
+     "degisim": 2.004
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-25",
+   "sonBolum": "2026-09-18"
+  },
+  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": false,
@@ -3331,8 +3331,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.01,
-   "oySayisi": 51,
+   "puan": 8.9,
+   "oySayisi": 53,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -3348,8 +3348,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-24",
-   "sonBolum": "2026-09-17"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": false,
@@ -4126,10 +4126,10 @@ SAHNE_GUN({
    "puan": 8.268,
    "oySayisi": 125,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
