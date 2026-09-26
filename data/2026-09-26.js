@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-20",
   "bit": "2026-09-26"
  },
- "uretildi": "2026-09-26T07:13:46+03:00",
+ "uretildi": "2026-09-26T13:13:19+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -613,6 +613,47 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-306118",
+   "tmdbId": 306118,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Arafta",
+   "orijinalAd": "Arafta",
+   "yil": "2025",
+   "ozet": null,
+   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
+   "turler": [
+    "Dram",
+    "Aile"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 9.1,
+   "oySayisi": 26,
+   "platformlar": {},
+   "wikidata": "Q138012917",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-28",
+   "sonBolum": "2026-09-25"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-320516",
    "tmdbId": 320516,
    "tur": "dizi",
@@ -648,47 +689,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-24"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-306118",
-   "tmdbId": 306118,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Arafta",
-   "orijinalAd": "Arafta",
-   "yil": "2025",
-   "ozet": null,
-   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-   "turler": [
-    "Dram",
-    "Aile"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 9.1,
-   "oySayisi": 26,
-   "platformlar": {},
-   "wikidata": "Q138012917",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-21"
   },
   {
    "goster": true,
@@ -1675,6 +1675,57 @@ SAHNE_GUN({
    "sonBolum": "2026-09-21"
   },
   {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-247718",
+   "tmdbId": 247718,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "MobLand",
+   "orijinalAd": "MobLand",
+   "yil": "2025",
+   "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
+   "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
+   "arkaplan": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "GB",
+    "US"
+   ],
+   "puan": 8.427,
+   "oySayisi": 905,
+   "platformlar": {
+    "flatrate": [
+     "Netflix",
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q131324617",
+   "wiki": {
+    "tr": "MobLand",
+    "en": "MobLand"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 233090,
+     "onceki7": 129662,
+     "degisim": 1.798
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-02",
+   "sonBolum": "2026-09-25"
+  },
+  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": true,
@@ -1700,7 +1751,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.416,
+   "puan": 8.415,
    "oySayisi": 1730,
    "platformlar": {
     "flatrate": [
@@ -1727,57 +1778,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-247718",
-   "tmdbId": 247718,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "MobLand",
-   "orijinalAd": "MobLand",
-   "yil": "2025",
-   "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
-   "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "arkaplan": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "GB",
-    "US"
-   ],
-   "puan": 8.421,
-   "oySayisi": 902,
-   "platformlar": {
-    "flatrate": [
-     "Netflix",
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q131324617",
-   "wiki": {
-    "tr": "MobLand",
-    "en": "MobLand"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 233090,
-     "onceki7": 129662,
-     "degisim": 1.798
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
   },
   {
    "goster": true,
@@ -1856,8 +1856,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.1,
-   "oySayisi": 6187,
+   "puan": 8.074,
+   "oySayisi": 6189,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1882,7 +1882,7 @@ SAHNE_GUN({
     "trEnOran": 0.0019
    },
    "sonrakiBolum": "2026-10-01",
-   "sonBolum": "2024-04-24"
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": false,
@@ -2039,57 +2039,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-23"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-65942",
-   "tmdbId": 65942,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Re:Zero kara Hajimeru Isekai Seikatsu",
-   "orijinalAd": "Re:ゼロから始める異世界生活",
-   "yil": "2016",
-   "ozet": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
-   "poster": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
-   "arkaplan": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
-   "turler": [
-    "Animasyon",
-    "Gizem",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.113,
-   "oySayisi": 789,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q65086934",
-   "wiki": {
-    "tr": null,
-    "en": "Re:Zero (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 6039,
-     "onceki7": 5742,
-     "degisim": 1.052
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-30",
-   "sonBolum": "2026-09-23"
-  },
-  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -2140,6 +2089,57 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-65942",
+   "tmdbId": 65942,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Re:Zero kara Hajimeru Isekai Seikatsu",
+   "orijinalAd": "Re:ゼロから始める異世界生活",
+   "yil": "2016",
+   "ozet": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
+   "poster": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+   "arkaplan": "/7ZruEnSnHD6Jx5mF0hBt1E306Vt.jpg",
+   "turler": [
+    "Animasyon",
+    "Gizem",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.115,
+   "oySayisi": 790,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q65086934",
+   "wiki": {
+    "tr": null,
+    "en": "Re:Zero (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 6039,
+     "onceki7": 5742,
+     "degisim": 1.052
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-30",
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": true,
@@ -2403,8 +2403,8 @@ SAHNE_GUN({
     },
     "trEnOran": 0.0238
    },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
+   "sonrakiBolum": "2026-10-02",
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": false,
@@ -2464,60 +2464,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-287620",
-   "tmdbId": 287620,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Stuart Fails to Save the Universe",
-   "orijinalAd": "Stuart Fails to Save the Universe",
-   "yil": "2026",
-   "ozet": "Çizgi roman dükkânı sahibi Stuart Bloom, yanlışlıkla çoklu evren kıyametini başlatınca gerçekliği eski hâline getirmekle görevlendirilir.",
-   "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-   "arkaplan": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-   "turler": [
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.628,
-   "oySayisi": 195,
-   "platformlar": {
-    "flatrate": [
-     "TV+",
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q138836131",
-   "wiki": {
-    "tr": "Stuart Fails to Save the Universe",
-    "en": "Stuart Fails to Save the Universe"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 124,
-     "onceki7": 126,
-     "degisim": 0.984
-    },
-    "en": {
-     "son7": 124356,
-     "onceki7": 93645,
-     "degisim": 1.328
-    },
-    "trEnOran": 0.001
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-24"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-103516",
    "tmdbId": 103516,
    "tur": "dizi",
@@ -2562,6 +2508,60 @@ SAHNE_GUN({
      "degisim": 1.004
     },
     "trEnOran": 0.0003
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-24"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-287620",
+   "tmdbId": 287620,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Stuart Fails to Save the Universe",
+   "orijinalAd": "Stuart Fails to Save the Universe",
+   "yil": "2026",
+   "ozet": "Çizgi roman dükkânı sahibi Stuart Bloom, yanlışlıkla çoklu evren kıyametini başlatınca gerçekliği eski hâline getirmekle görevlendirilir.",
+   "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+   "arkaplan": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
+   "turler": [
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.6,
+   "oySayisi": 197,
+   "platformlar": {
+    "flatrate": [
+     "TV+",
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q138836131",
+   "wiki": {
+    "tr": "Stuart Fails to Save the Universe",
+    "en": "Stuart Fails to Save the Universe"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 124,
+     "onceki7": 126,
+     "degisim": 0.984
+    },
+    "en": {
+     "son7": 124356,
+     "onceki7": 93645,
+     "degisim": 1.328
+    },
+    "trEnOran": 0.001
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-24"
@@ -2766,8 +2766,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-25",
-   "sonBolum": "2026-09-18"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -2956,6 +2956,52 @@ SAHNE_GUN({
    "sonBolum": "2026-09-21"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-312949",
+   "tmdbId": 312949,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "ヤニねこ",
+   "orijinalAd": "ヤニねこ",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.421,
+   "oySayisi": 70,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q137971300",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3129,8 +3175,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.827,
-   "oySayisi": 55,
+   "puan": 8.813,
+   "oySayisi": 56,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -3173,8 +3219,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 9.1,
-   "oySayisi": 28,
+   "puan": 9.226,
+   "oySayisi": 31,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3289,49 +3335,51 @@ SAHNE_GUN({
    "sonBolum": "2026-09-23"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-312949",
-   "tmdbId": 312949,
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-207484",
+   "tmdbId": 207484,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "ヤニねこ",
-   "orijinalAd": "ヤニねこ",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "ad": "Outlander: Blood of My Blood",
+   "orijinalAd": "Outlander: Blood of My Blood",
+   "yil": "2025",
+   "ozet": "Outlander”dan uyarlanan bu yeni dizi, Fraser ve Beauchamp ailelerinin kaderini şekillendiren ve iki farklı zaman diliminde geçen paralel aşkların hikayesini anlatıyor.",
+   "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
+   "arkaplan": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
    "turler": [
-    "Animasyon",
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
+    "Dram"
    ],
    "ulkeler": [
-    "JP"
+    "US"
    ],
-   "puan": 8.421,
-   "oySayisi": 70,
+   "puan": 8.632,
+   "oySayisi": 110,
    "platformlar": {
     "flatrate": [
-     "Netflix"
+     "TOD TV"
     ]
    },
-   "wikidata": "Q137971300",
+   "wikidata": "Q125305426",
    "wiki": {
     "tr": null,
-    "en": null
+    "en": "Outlander: Blood of My Blood"
    },
    "ilgi": {
     "tr": null,
-    "en": null,
+    "en": {
+     "son7": 28425,
+     "onceki7": 18300,
+     "degisim": 1.553
+    },
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-02",
    "sonBolum": "2026-09-25"
   },
   {
@@ -3382,54 +3430,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-03",
    "sonBolum": "2026-09-20"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-207484",
-   "tmdbId": 207484,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Outlander: Blood of My Blood",
-   "orijinalAd": "Outlander: Blood of My Blood",
-   "yil": "2025",
-   "ozet": "Outlander”dan uyarlanan bu yeni dizi, Fraser ve Beauchamp ailelerinin kaderini şekillendiren ve iki farklı zaman diliminde geçen paralel aşkların hikayesini anlatıyor.",
-   "poster": "/1pGBdq4ssO2p5H2WFMlADH6pwZ6.jpg",
-   "arkaplan": "/lCnOoI8eYo6sTbnoSI2qwt2ZzVb.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.632,
-   "oySayisi": 110,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q125305426",
-   "wiki": {
-    "tr": null,
-    "en": "Outlander: Blood of My Blood"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 28425,
-     "onceki7": 18300,
-     "degisim": 1.553
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-02",
-   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -4195,8 +4195,8 @@ SAHNE_GUN({
     "AR",
     "CL"
    ],
-   "puan": 5.3,
-   "oySayisi": 3,
+   "puan": 5.8,
+   "oySayisi": 4,
    "platformlar": {
     "flatrate": [
      "Netflix"
