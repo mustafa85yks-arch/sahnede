@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-21",
   "bit": "2026-09-27"
  },
- "uretildi": "2026-09-27T07:14:25+03:00",
+ "uretildi": "2026-09-27T13:13:13+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,10 +17,10 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 94,
-  "turk": 34,
+  "toplam": 93,
+  "turk": 33,
   "yabanci": 60,
-  "gosterilen": 71,
+  "gosterilen": 70,
   "anime": 23,
   "wikiEslesen": 53,
   "ilgiVerisiOlan": 53,
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.198,
-   "oySayisi": 242,
+   "puan": 8.275,
+   "oySayisi": 267,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -103,8 +103,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.182,
-   "oySayisi": 74,
+   "puan": 7.25,
+   "oySayisi": 90,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -278,11 +278,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 41,
    "platformlar": {
-    "ads": [
-     "puhutv"
-    ],
     "flatrate": [
      "Amazon Prime Video"
+    ],
+    "ads": [
+     "puhutv"
     ]
    },
    "wikidata": "Q131195670",
@@ -343,8 +343,54 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-119806",
+   "tmdbId": 119806,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Teşkilat",
+   "orijinalAd": "Teşkilat",
+   "yil": "2021",
+   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
+   "poster": "/vnfHELllrXpqMHJ9QjNUzpnI2PF.jpg",
+   "arkaplan": "/hb1X6gQ33yu3JHTngUStqPQqO0l.jpg",
+   "turler": [
+    "Savaş & Politik",
+    "Dram",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.2,
+   "oySayisi": 37,
+   "platformlar": {},
+   "wikidata": "Q105755428",
+   "wiki": {
+    "tr": "Teşkilat (dizi)",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 11087,
+     "onceki7": 5629,
+     "degisim": 1.97
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -439,52 +485,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-08",
    "sonBolum": "2026-09-24"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-119806",
-   "tmdbId": 119806,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Teşkilat",
-   "orijinalAd": "Teşkilat",
-   "yil": "2021",
-   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
-   "poster": "/vnfHELllrXpqMHJ9QjNUzpnI2PF.jpg",
-   "arkaplan": "/ivCkWwtsmxkt78CwtdVlqMgzE1i.jpg",
-   "turler": [
-    "Savaş & Politik",
-    "Dram",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.2,
-   "oySayisi": 37,
-   "platformlar": {},
-   "wikidata": "Q105755428",
-   "wiki": {
-    "tr": "Teşkilat (dizi)",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 11087,
-     "onceki7": 5629,
-     "degisim": 1.97
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -841,6 +841,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-245841",
+   "tmdbId": 245841,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Gelin",
+   "orijinalAd": "Gelin",
+   "yil": "2024",
+   "ozet": "Zengin ve soylu Develioğlu ailesinin yaşadıkları konakta kara bulutlar dolaşmaktadır. Bu köklü ailenin soyunun devam etmesi, Cihan Develioğlu’nun doğacak olan erkek çocuğuna bağlıdır ancak Cihan, eşinden dolayı çocuk sahibi olamamıştır. Ailesine, geleneklerine özellikle de tüm mal varlığının yegane mirasçısı olarak gördüğü doğacak torunlarına çok önem veren Mukadder Develioğlu, oğlu Cihan Develioğlu’nun erkek çocuk sahibi olabilmesi için acımasız bir oyun oynar. Cihan’ın eşi Beyza’ya tehlikeli bir teklifle giden anne Mukadder Develioğlu, oğlundan boşanmasını ister. Tek amacı erkek torun sahibi olmak olan Mukadder Develioğlu, oğlunun çocuk sahibi olduktan sonra tekrar Beyza ile evleneceğinin sözünü verir.",
+   "poster": "/zXRnWrAooZyGzHQFmelixDTGOet.jpg",
+   "arkaplan": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.0,
+   "oySayisi": 3,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-331380",
    "tmdbId": 331380,
    "tur": "dizi",
@@ -875,46 +915,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-245841",
-   "tmdbId": 245841,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Gelin",
-   "orijinalAd": "Gelin",
-   "yil": "2024",
-   "ozet": "Zengin ve soylu Develioğlu ailesinin yaşadıkları konakta kara bulutlar dolaşmaktadır. Bu köklü ailenin soyunun devam etmesi, Cihan Develioğlu’nun doğacak olan erkek çocuğuna bağlıdır ancak Cihan, eşinden dolayı çocuk sahibi olamamıştır. Ailesine, geleneklerine özellikle de tüm mal varlığının yegane mirasçısı olarak gördüğü doğacak torunlarına çok önem veren Mukadder Develioğlu, oğlu Cihan Develioğlu’nun erkek çocuk sahibi olabilmesi için acımasız bir oyun oynar. Cihan’ın eşi Beyza’ya tehlikeli bir teklifle giden anne Mukadder Develioğlu, oğlundan boşanmasını ister. Tek amacı erkek torun sahibi olmak olan Mukadder Develioğlu, oğlunun çocuk sahibi olduktan sonra tekrar Beyza ile evleneceğinin sözünü verir.",
-   "poster": "/zXRnWrAooZyGzHQFmelixDTGOet.jpg",
-   "arkaplan": "/doIUOsdeCKkRNQxMvV4MKp0uoTT.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.0,
-   "oySayisi": 3,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -1054,19 +1054,19 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-332679",
-   "tmdbId": 332679,
+   "id": "dizi-320296",
+   "tmdbId": 320296,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Sevdan Bir Ateş",
-   "orijinalAd": "Sevdan Bir Ateş",
+   "ad": "Başkalarının Hayatı",
+   "orijinalAd": "Başkalarının Hayatı",
    "yil": "2026",
-   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
-   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
-   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
+   "ozet": "Üniversiteye henüz adım atan Hülya’nın (Eylül Lize Kandemir), köklü ve zengin bir aileden gelen Fikret Özkaran’ın (Mehmet Aslantuğ) kızı Neslihan (Doğa Bayram) ile tanışmasıyla hayatı değişir.",
+   "poster": "/hjeB5dW5QKdBtlzS3FZrqqDHXNi.jpg",
+   "arkaplan": "/wUy7GGDiKAHvBBIJHyRw3SyzveQ.jpg",
    "turler": [
     "Dram"
    ],
@@ -1076,7 +1076,7 @@ SAHNE_GUN({
    "puan": 0.0,
    "oySayisi": 0,
    "platformlar": {},
-   "wikidata": "Q141452320",
+   "wikidata": null,
    "wiki": {
     "tr": null,
     "en": null
@@ -1086,8 +1086,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-23"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": true,
@@ -1168,46 +1168,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-320296",
-   "tmdbId": 320296,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Başkalarının Hayatı",
-   "orijinalAd": "Başkalarının Hayatı",
-   "yil": "2026",
-   "ozet": "Üniversiteye henüz adım atan Hülya’nın (Eylül Lize Kandemir), köklü ve zengin bir aileden gelen Fikret Özkaran’ın (Mehmet Aslantuğ) kızı Neslihan (Doğa Bayram) ile tanışmasıyla hayatı değişir.",
-   "poster": "/hjeB5dW5QKdBtlzS3FZrqqDHXNi.jpg",
-   "arkaplan": "/wUy7GGDiKAHvBBIJHyRw3SyzveQ.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": null
   },
   {
    "goster": true,
@@ -1451,8 +1411,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-05-31"
   },
   {
    "goster": true,
@@ -1607,7 +1567,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.023,
+   "puan": 8.0,
    "oySayisi": 11035,
    "platformlar": {
     "flatrate": [
@@ -1713,8 +1673,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.425,
-   "oySayisi": 909,
+   "puan": 8.428,
+   "oySayisi": 911,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2032,11 +1992,11 @@ SAHNE_GUN({
    "puan": 8.6,
    "oySayisi": 1661,
    "platformlar": {
-    "flatrate": [
-     "Netflix",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Netflix",
      "Crunchyroll"
     ]
    },
@@ -2056,56 +2016,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-02",
    "sonBolum": "2026-09-25"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-223911",
-   "tmdbId": 223911,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "仙逆",
-   "orijinalAd": "仙逆",
-   "yil": "2023",
-   "ozet": null,
-   "poster": "/4lJHR8UrL4oMTomhtZXDV8w0Dp0.jpg",
-   "arkaplan": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "CN"
-   ],
-   "puan": 8.3,
-   "oySayisi": 44,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q135639525",
-   "wiki": {
-    "tr": null,
-    "en": "Renegade Immortal"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 671,
-     "onceki7": 780,
-     "degisim": 0.86
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
   },
   {
    "goster": false,
@@ -2262,6 +2172,56 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-28",
    "sonBolum": "2026-09-21"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-223911",
+   "tmdbId": 223911,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "仙逆",
+   "orijinalAd": "仙逆",
+   "yil": "2023",
+   "ozet": null,
+   "poster": "/4lJHR8UrL4oMTomhtZXDV8w0Dp0.jpg",
+   "arkaplan": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "CN"
+   ],
+   "puan": 8.3,
+   "oySayisi": 44,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q135639525",
+   "wiki": {
+    "tr": null,
+    "en": "Renegade Immortal"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 671,
+     "onceki7": 780,
+     "degisim": 0.86
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": true,
@@ -2503,10 +2463,10 @@ SAHNE_GUN({
    "puan": 8.7,
    "oySayisi": 5559,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2737,6 +2697,100 @@ SAHNE_GUN({
   {
    "goster": false,
    "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-207468",
+   "tmdbId": 207468,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Kaiju No. 8",
+   "orijinalAd": "怪獣８号",
+   "yil": "2024",
+   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
+   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.439,
+   "oySayisi": 815,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ],
+    "ads": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q115777186",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2025-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-312557",
+   "tmdbId": 312557,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Minerva Akademisi",
+   "orijinalAd": "Minerva - La scuola",
+   "yil": "2026",
+   "ozet": "Minerva Askerî Lisesi'ne yeni öğrenciler gelir. Salvo, ortadan kaybolan arkadaşına dair ipuçları ararken rekabet, aşklar ve güç dinamikleri hemen patlak verir.",
+   "poster": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
+   "arkaplan": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
+   "turler": [
+    "Dram",
+    "Gizem"
+   ],
+   "ulkeler": [
+    "IT"
+   ],
+   "puan": 7.2,
+   "oySayisi": 11,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-22"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-82684",
@@ -2764,10 +2818,10 @@ SAHNE_GUN({
    "puan": 8.42,
    "oySayisi": 988,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2787,100 +2841,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-25"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-312557",
-   "tmdbId": 312557,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Minerva Akademisi",
-   "orijinalAd": "Minerva - La scuola",
-   "yil": "2026",
-   "ozet": "Minerva Askerî Lisesi'ne yeni öğrenciler gelir. Salvo, ortadan kaybolan arkadaşına dair ipuçları ararken rekabet, aşklar ve güç dinamikleri hemen patlak verir.",
-   "poster": "/cTTXRklz5tJWX6wrN3XrjHo34H1.jpg",
-   "arkaplan": "/zynoUI9kwDQKkGW5KqvxQp8Kj1Q.jpg",
-   "turler": [
-    "Dram",
-    "Gizem"
-   ],
-   "ulkeler": [
-    "IT"
-   ],
-   "puan": 6.9,
-   "oySayisi": 10,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-22"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-207468",
-   "tmdbId": 207468,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Kaiju No. 8",
-   "orijinalAd": "怪獣８号",
-   "yil": "2024",
-   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
-   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
-   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.439,
-   "oySayisi": 815,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q115777186",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2025-09-27"
   },
   {
    "goster": false,
@@ -2925,8 +2885,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": false,
@@ -3003,10 +2963,10 @@ SAHNE_GUN({
    "puan": 8.3,
    "oySayisi": 307,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3020,8 +2980,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-26",
-   "sonBolum": "2026-09-19"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": false,
@@ -3238,8 +3198,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 9.25,
-   "oySayisi": 32,
+   "puan": 9.273,
+   "oySayisi": 33,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3524,8 +3484,8 @@ SAHNE_GUN({
    "ulkeler": [
     "ES"
    ],
-   "puan": 6.9,
-   "oySayisi": 5,
+   "puan": 6.278,
+   "oySayisi": 9,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3674,8 +3634,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.426,
-   "oySayisi": 175,
+   "puan": 6.446,
+   "oySayisi": 176,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3813,8 +3773,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.133,
-   "oySayisi": 30,
+   "puan": 9.161,
+   "oySayisi": 31,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3836,6 +3796,55 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-27",
    "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-258348",
+   "tmdbId": 258348,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Clevatess",
+   "orijinalAd": "クレバテス-魔獣の王と赤子と屍の勇者",
+   "yil": "2025",
+   "ozet": "Çocukluğundan beri bir kahraman olmayı hayal eden Alicia, kral tarafından on üç kahramandan biri olarak seçilir. Efsanevi bir kılıçla donanan kahramanlar, İblis Kral Clevatess'i yenmek için yola çıkarlar. Ancak, pervasızlıkları Edsea kıtasındaki tüm insanlığı yok edebilecek korkunç bir krizi tetikler. Artık dünyanın tek umudu, İblis Kral'a emanet edilen bir bebektir.",
+   "poster": "/avajalKjBP5QjwIEb5Xs8QXg1K.jpg",
+   "arkaplan": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.0,
+   "oySayisi": 105,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q126959847",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-30",
+   "sonBolum": "2026-09-23"
   },
   {
    "goster": true,
@@ -3945,55 +3954,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-24"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-258348",
-   "tmdbId": 258348,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Clevatess",
-   "orijinalAd": "クレバテス-魔獣の王と赤子と屍の勇者",
-   "yil": "2025",
-   "ozet": "Çocukluğundan beri bir kahraman olmayı hayal eden Alicia, kral tarafından on üç kahramandan biri olarak seçilir. Efsanevi bir kılıçla donanan kahramanlar, İblis Kral Clevatess'i yenmek için yola çıkarlar. Ancak, pervasızlıkları Edsea kıtasındaki tüm insanlığı yok edebilecek korkunç bir krizi tetikler. Artık dünyanın tek umudu, İblis Kral'a emanet edilen bir bebektir.",
-   "poster": "/avajalKjBP5QjwIEb5Xs8QXg1K.jpg",
-   "arkaplan": "/5nmg2cEZxA09VyDvioAuqd5jOW0.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.0,
-   "oySayisi": 105,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q126959847",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-30",
-   "sonBolum": "2026-09-23"
-  },
-  {
    "goster": true,
    "kategori": null,
    "sinyalVar": false,
@@ -4018,8 +3978,8 @@ SAHNE_GUN({
    "ulkeler": [
     "BR"
    ],
-   "puan": 6.1,
-   "oySayisi": 6,
+   "puan": 6.643,
+   "oySayisi": 7,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4118,8 +4078,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.4,
-   "oySayisi": 7,
+   "puan": 6.2,
+   "oySayisi": 8,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4185,6 +4145,52 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-02",
    "sonBolum": "2026-09-25"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-153217",
+   "tmdbId": 153217,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Sparks of Tomorrow",
+   "orijinalAd": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+   "yil": "2026",
+   "ozet": "Alternatif bir geçmişte uyumsuz bir ikili, Kyoto'nun duman içindeki sokaklarına elektriği getirecek kayıp kataloğu aramak için birlik olur.",
+   "poster": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+   "arkaplan": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 7.9,
+   "oySayisi": 11,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q136644014",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": "2026-09-20"
   },
   {
    "goster": false,
@@ -4263,10 +4269,10 @@ SAHNE_GUN({
    "puan": 8.266,
    "oySayisi": 126,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4286,52 +4292,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-01",
    "sonBolum": "2026-09-24"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-153217",
-   "tmdbId": 153217,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Sparks of Tomorrow",
-   "orijinalAd": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-   "yil": "2026",
-   "ozet": "Alternatif bir geçmişte uyumsuz bir ikili, Kyoto'nun duman içindeki sokaklarına elektriği getirecek kayıp kataloğu aramak için birlik olur.",
-   "poster": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
-   "arkaplan": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 7.9,
-   "oySayisi": 11,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q136644014",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
   },
   {
    "goster": false,
