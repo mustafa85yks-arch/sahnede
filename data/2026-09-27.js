@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-21",
   "bit": "2026-09-27"
  },
- "uretildi": "2026-09-27T13:13:13+03:00",
+ "uretildi": "2026-09-27T19:13:46+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,10 +17,10 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 93,
-  "turk": 33,
+  "toplam": 94,
+  "turk": 34,
   "yabanci": 60,
-  "gosterilen": 70,
+  "gosterilen": 71,
   "anime": 23,
   "wikiEslesen": 53,
   "ilgiVerisiOlan": 53,
@@ -89,8 +89,8 @@ SAHNE_GUN({
    "listeler": [
     "dijital-cikis"
    ],
-   "ad": "UNABOMBER",
-   "orijinalAd": "UNABOMBER",
+   "ad": "Unabomber",
+   "orijinalAd": "Unabomber",
    "yil": "2026",
    "ozet": "Gerçek olaylardan ilham alan bu dramada, FBI'ı peşine takan Ted Kaczynski'nin Harvardlı bir dâhi ve denekten Unabomber'lığa uzanan serüveni gözler önüne seriliyor.",
    "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
@@ -103,8 +103,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.25,
-   "oySayisi": 90,
+   "puan": 7.235,
+   "oySayisi": 102,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -278,11 +278,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 41,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "ads": [
      "puhutv"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q131195670",
@@ -1094,6 +1094,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-332679",
+   "tmdbId": 332679,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Sevdan Bir Ateş",
+   "orijinalAd": "Sevdan Bir Ateş",
+   "yil": "2026",
+   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
+   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
+   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": "Q141452320",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-23"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-332614",
    "tmdbId": 332614,
    "tur": "dizi",
@@ -1174,27 +1214,27 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-333438",
-   "tmdbId": 333438,
+   "id": "dizi-322280",
+   "tmdbId": 322280,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Güneşin Doğduğu Yer",
-   "orijinalAd": "Güneşin Doğduğu Yer",
+   "ad": "Ömür Usta",
+   "orijinalAd": "Ömür Usta",
    "yil": "2026",
-   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
-   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
-   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
+   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
+   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
+   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
    "turler": [
     "Dram"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.0,
-   "oySayisi": 1,
+   "puan": 0.0,
+   "oySayisi": 0,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1206,8 +1246,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-01",
-   "sonBolum": "2026-09-24"
+   "sonrakiBolum": "2026-09-27",
+   "sonBolum": null
   },
   {
    "goster": true,
@@ -1254,27 +1294,27 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-322280",
-   "tmdbId": 322280,
+   "id": "dizi-333438",
+   "tmdbId": 333438,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Ömür Usta",
-   "orijinalAd": "Ömür Usta",
+   "ad": "Güneşin Doğduğu Yer",
+   "orijinalAd": "Güneşin Doğduğu Yer",
    "yil": "2026",
-   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
-   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
-   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
+   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
+   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
+   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
    "turler": [
     "Dram"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 0.0,
-   "oySayisi": 0,
+   "puan": 7.0,
+   "oySayisi": 1,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1286,8 +1326,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": null
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -1724,14 +1764,14 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.416,
+   "puan": 8.417,
    "oySayisi": 1731,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -1778,8 +1818,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.248,
-   "oySayisi": 429,
+   "puan": 8.252,
+   "oySayisi": 430,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -1884,7 +1924,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.115,
+   "puan": 8.1,
    "oySayisi": 790,
    "platformlar": {
     "flatrate": [
@@ -2250,7 +2290,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.365,
-   "oySayisi": 3918,
+   "oySayisi": 3919,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2723,10 +2763,10 @@ SAHNE_GUN({
    "puan": 8.439,
    "oySayisi": 815,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3009,8 +3049,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 72,
+   "puan": 8.404,
+   "oySayisi": 73,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3484,7 +3524,7 @@ SAHNE_GUN({
    "ulkeler": [
     "ES"
    ],
-   "puan": 6.278,
+   "puan": 6.3,
    "oySayisi": 9,
    "platformlar": {
     "flatrate": [
@@ -3826,10 +3866,10 @@ SAHNE_GUN({
    "puan": 8.0,
    "oySayisi": 105,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4309,7 +4349,7 @@ SAHNE_GUN({
    "orijinalAd": "転生貴族、鑑定スキルで成り上がる",
    "yil": "2024",
    "ozet": null,
-   "poster": "/6Wmyefo83QKX0Bn4HE8H3EuMXIA.jpg",
+   "poster": "/qBbiMcQZinmEdhs1cUrBrvzmJgR.jpg",
    "arkaplan": "/n493br0MLJHASsqEsUwG5PvxDkN.jpg",
    "turler": [
     "Animasyon",
@@ -4318,7 +4358,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.415,
+   "puan": 7.4,
    "oySayisi": 65,
    "platformlar": {
     "flatrate": [
