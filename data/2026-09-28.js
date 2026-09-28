@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-22",
   "bit": "2026-09-28"
  },
- "uretildi": "2026-09-28T07:15:03+03:00",
+ "uretildi": "2026-09-28T13:16:28+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.181,
-   "oySayisi": 307,
+   "puan": 8.203,
+   "oySayisi": 320,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -89,8 +89,8 @@ SAHNE_GUN({
    "listeler": [
     "dijital-cikis"
    ],
-   "ad": "Unabomber",
-   "orijinalAd": "Unabomber",
+   "ad": "UNABOMBER",
+   "orijinalAd": "UNABOMBER",
    "yil": "2026",
    "ozet": "Gerçek olaylardan ilham alan bu dramada, FBI'ı peşine takan Ted Kaczynski'nin Harvardlı bir dâhi ve denekten Unabomber'lığa uzanan serüveni gözler önüne seriliyor.",
    "poster": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
@@ -103,8 +103,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.1,
-   "oySayisi": 128,
+   "puan": 7.107,
+   "oySayisi": 140,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -238,11 +238,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 41,
    "platformlar": {
-    "ads": [
-     "puhutv"
-    ],
     "flatrate": [
      "Amazon Prime Video"
+    ],
+    "ads": [
+     "puhutv"
     ]
    },
    "wikidata": "Q131195670",
@@ -398,8 +398,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -443,8 +443,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1125,8 +1125,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": null
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1420,8 +1420,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1448,7 +1448,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.023,
+   "puan": 8.0,
    "oySayisi": 11036,
    "platformlar": {
     "flatrate": [
@@ -1502,8 +1502,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.4,
-   "oySayisi": 915,
+   "puan": 8.435,
+   "oySayisi": 917,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1605,8 +1605,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.42,
-   "oySayisi": 1737,
+   "puan": 8.423,
+   "oySayisi": 1741,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1650,7 +1650,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
    "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
-   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+   "arkaplan": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
    "turler": [
     "Dram",
     "Gizem",
@@ -1659,8 +1659,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.3,
-   "oySayisi": 434,
+   "puan": 8.291,
+   "oySayisi": 446,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -1681,8 +1681,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1711,7 +1711,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.074,
-   "oySayisi": 6195,
+   "oySayisi": 6196,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1925,8 +1925,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.0,
-   "oySayisi": 789,
+   "puan": 8.015,
+   "oySayisi": 790,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -2049,8 +2049,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -2260,8 +2260,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -2557,10 +2557,10 @@ SAHNE_GUN({
    "puan": 8.422,
    "oySayisi": 989,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2610,10 +2610,10 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 816,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2798,7 +2798,7 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.511,
+   "puan": 8.5,
    "oySayisi": 46,
    "platformlar": {
     "flatrate": [
@@ -2843,8 +2843,8 @@ SAHNE_GUN({
    "ulkeler": [
     "ES"
    ],
-   "puan": 7.038,
-   "oySayisi": 13,
+   "puan": 7.2,
+   "oySayisi": 14,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3031,7 +3031,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.741,
+   "puan": 6.7,
    "oySayisi": 54,
    "platformlar": {
     "flatrate": [
@@ -3052,8 +3052,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-20"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": false,
@@ -3080,8 +3080,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.8,
-   "oySayisi": 56,
+   "puan": 8.833,
+   "oySayisi": 57,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -3323,8 +3323,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.322,
-   "oySayisi": 107,
+   "puan": 7.319,
+   "oySayisi": 108,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3485,8 +3485,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-27",
-   "sonBolum": "2026-09-26"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -4204,8 +4204,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.6,
-   "oySayisi": 9,
+   "puan": 6.3,
+   "oySayisi": 10,
    "platformlar": {
     "flatrate": [
      "Netflix"
