@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-23",
   "bit": "2026-09-29"
  },
- "uretildi": "2026-09-29T07:14:17+03:00",
+ "uretildi": "2026-09-29T13:15:14+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,14 +17,14 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 93,
+  "toplam": 92,
   "turk": 33,
-  "yabanci": 60,
-  "gosterilen": 70,
+  "yabanci": 59,
+  "gosterilen": 69,
   "anime": 23,
-  "wikiEslesen": 57,
-  "ilgiVerisiOlan": 57,
-  "platformBilinen": 67
+  "wikiEslesen": 56,
+  "ilgiVerisiOlan": 56,
+  "platformBilinen": 66
  },
  "hatalar": [],
  "yapimlar": [
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.2,
-   "oySayisi": 346,
+   "puan": 8.137,
+   "oySayisi": 353,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -103,8 +103,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.0,
-   "oySayisi": 167,
+   "puan": 6.972,
+   "oySayisi": 177,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -580,6 +580,47 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-306118",
+   "tmdbId": 306118,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Arafta",
+   "orijinalAd": "Arafta",
+   "yil": "2025",
+   "ozet": null,
+   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
+   "turler": [
+    "Dram",
+    "Aile"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 9.1,
+   "oySayisi": 26,
+   "platformlar": {},
+   "wikidata": "Q138012917",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-298629",
@@ -625,47 +666,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-01",
    "sonBolum": "2026-09-24"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-306118",
-   "tmdbId": 306118,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Arafta",
-   "orijinalAd": "Arafta",
-   "yil": "2025",
-   "ozet": null,
-   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-   "turler": [
-    "Dram",
-    "Aile"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 9.1,
-   "oySayisi": 26,
-   "platformlar": {},
-   "wikidata": "Q138012917",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -833,8 +833,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-26"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": true,
@@ -1212,8 +1212,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": "2026-10-05",
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": true,
@@ -1545,8 +1545,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": null
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": true,
@@ -1606,6 +1606,58 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-4656",
+   "tmdbId": 4656,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "WWE Raw",
+   "orijinalAd": "Raw",
+   "yil": "1993",
+   "ozet": "WWE Raw, Pazartesi geceleri, WWE'nin hazırladığı, ABD'de USA Network kanalında yayınlanan profesyonel güreş programıdır.",
+   "poster": "/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
+   "arkaplan": "/gjRnFAQk4EVg1P1s5512FT1Lq9c.jpg",
+   "turler": [
+    "Gerçeklik"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 6.8,
+   "oySayisi": 376,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q111918477",
+   "wiki": {
+    "tr": "WWE Raw",
+    "en": "WWE Raw"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 37,
+     "onceki7": 37,
+     "degisim": 1.0
+    },
+    "en": {
+     "son7": 3308,
+     "onceki7": 3721,
+     "degisim": 0.889
+    },
+    "trEnOran": 0.0112
+   },
+   "sonrakiBolum": "2026-10-05",
+   "sonBolum": "2026-09-28"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-247718",
    "tmdbId": 247718,
    "tur": "dizi",
@@ -1627,8 +1679,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.44,
-   "oySayisi": 923,
+   "puan": 8.445,
+   "oySayisi": 926,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1683,7 +1735,7 @@ SAHNE_GUN({
     "JP"
    ],
    "puan": 8.426,
-   "oySayisi": 1746,
+   "oySayisi": 1748,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -1709,58 +1761,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-28"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-4656",
-   "tmdbId": 4656,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "WWE Raw",
-   "orijinalAd": "Raw",
-   "yil": "1993",
-   "ozet": "WWE Raw, Pazartesi geceleri, WWE'nin hazırladığı, ABD'de USA Network kanalında yayınlanan profesyonel güreş programıdır.",
-   "poster": "/fstEe6RsyNyPUnMwNcL20iNl0nE.jpg",
-   "arkaplan": "/fvnxFPUsTFMh81cMoIGBrJo8F6z.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 6.8,
-   "oySayisi": 376,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q111918477",
-   "wiki": {
-    "tr": "WWE Raw",
-    "en": "WWE Raw"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 37,
-     "onceki7": 37,
-     "degisim": 1.0
-    },
-    "en": {
-     "son7": 3308,
-     "onceki7": 3721,
-     "degisim": 0.889
-    },
-    "trEnOran": 0.0112
-   },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
   },
   {
    "goster": true,
@@ -1814,6 +1814,57 @@ SAHNE_GUN({
    "sonBolum": "2026-09-27"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-65942",
+   "tmdbId": 65942,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Re:Zero kara Hajimeru Isekai Seikatsu",
+   "orijinalAd": "Re:ゼロから始める異世界生活",
+   "yil": "2016",
+   "ozet": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
+   "poster": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
+   "arkaplan": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
+   "turler": [
+    "Animasyon",
+    "Gizem",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.12,
+   "oySayisi": 793,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q65086934",
+   "wiki": {
+    "tr": null,
+    "en": "Re:Zero (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 6052,
+     "onceki7": 5961,
+     "degisim": 1.015
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-30",
+   "sonBolum": "2026-09-23"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -1840,7 +1891,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.074,
-   "oySayisi": 6198,
+   "oySayisi": 6197,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1872,57 +1923,6 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-65942",
-   "tmdbId": 65942,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Re:Zero kara Hajimeru Isekai Seikatsu",
-   "orijinalAd": "Re:ゼロから始める異世界生活",
-   "yil": "2016",
-   "ozet": "Lise öğrencisi Subaru Natsuki, bir gün bakkaldan dönerken öteki dünyaya çağırılır ve böylece hayatının en büyük dönüm noktası başlar. Kim tarafından çağrıldığını henüz bilmemekteydi ve saldırıya uğradığında işler çok daha kötü bir hal alır. Ancak gümüş saçlı gizemli bir kız ve onun sihirli kedisi kendisini kurtadığında Subaru, ona olan iyilik borcunu ödemek için iş birliği yapar. İkisi beraber ipuçlarını bir araya getirdiğinde Subaru ve kız, saldırıya uğrayıp öldürülür. Bundan sonra Subaru, \"Ölümden Dönüş\" adlı yeteneği kazanmış halde uyanır ve zamanı ölümden geri alabilen, çaresiz biri haline gelir ve umutsuzluğun ötesinde kızı, ölümün kaderinden kurtarmaya çalışır.(Acaba başarabilecek mi?)",
-   "poster": "/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg",
-   "arkaplan": "/x6y59dJBE1o0r4YRsWVQXE2nnlB.jpg",
-   "turler": [
-    "Animasyon",
-    "Gizem",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.118,
-   "oySayisi": 791,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q65086934",
-   "wiki": {
-    "tr": null,
-    "en": "Re:Zero (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 6052,
-     "onceki7": 5961,
-     "degisim": 1.015
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-30",
-   "sonBolum": "2026-09-23"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-45790",
    "tmdbId": 45790,
    "tur": "dizi",
@@ -1944,14 +1944,14 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.6,
-   "oySayisi": 1663,
+   "puan": 8.544,
+   "oySayisi": 1665,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2054,8 +2054,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.0,
-   "oySayisi": 790,
+   "puan": 8.02,
+   "oySayisi": 791,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -2147,7 +2147,7 @@ SAHNE_GUN({
    "orijinalAd": "Futurama",
    "yil": "1999",
    "ozet": "Fry pizza dağıtıcısıdır. 2000 yılına girilen yılbaşı gecesi kazara teslimat yaptığı laboratuvarda bir makineye girer. 31 Aralık 2999 gecesi yeniden uyanır. Tek gözlü Leela ve robot Bender ile tanışır. Ortak noktaları yapmak zorunda oldukları işten nefret etmeleri ve bundan kaçmalarıdır. Fry ve arkadaşları, Fry'ın hayattaki tek akrabası olan yaşlı yeğeni Farnsworth'a ulaşırlar ve macera başlar.",
-   "poster": "/eM8bbTn8C8vUwwS6upzzm7gX31u.jpg",
+   "poster": "/7RRHbCUtAsVmKI6FEMzZB6Re88P.jpg",
    "arkaplan": "/4xKG4S1IyLIglHbCYGJDsptgQNh.jpg",
    "turler": [
     "Animasyon",
@@ -2157,7 +2157,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.4,
+   "puan": 8.364,
    "oySayisi": 3920,
    "platformlar": {
     "flatrate": [
@@ -2182,8 +2182,8 @@ SAHNE_GUN({
     },
     "trEnOran": 0.0021
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": false,
@@ -2418,8 +2418,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.75,
-   "oySayisi": 5563,
+   "puan": 8.8,
+   "oySayisi": 5566,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2496,60 +2496,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-02",
    "sonBolum": "2026-09-25"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-287620",
-   "tmdbId": 287620,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Stuart Fails to Save the Universe",
-   "orijinalAd": "Stuart Fails to Save the Universe",
-   "yil": "2026",
-   "ozet": "Çizgi roman dükkânı sahibi Stuart Bloom, yanlışlıkla çoklu evren kıyametini başlatınca gerçekliği eski hâline getirmekle görevlendirilir.",
-   "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
-   "arkaplan": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
-   "turler": [
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.5,
-   "oySayisi": 208,
-   "platformlar": {
-    "flatrate": [
-     "TV+",
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q138836131",
-   "wiki": {
-    "tr": "Stuart Fails to Save the Universe",
-    "en": "Stuart Fails to Save the Universe"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 102,
-     "onceki7": 122,
-     "degisim": 0.836
-    },
-    "en": {
-     "son7": 104451,
-     "onceki7": 119675,
-     "degisim": 0.873
-    },
-    "trEnOran": 0.001
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -2671,7 +2617,7 @@ SAHNE_GUN({
    "ad": "魔入りました！入間くん",
    "orijinalAd": "魔入りました！入間くん",
    "yil": "2019",
-   "ozet": null,
+   "ozet": "14 yaşındaki Suzuki Iruma, bir gün kendini kendi iradesine karşı iblislerin dünyasında bulur. İçinde bulunduğu çıkmaza ek olarak, kendi kendini tayin eden \"Büyükbaba\", yeni okulunun başkan-iblisidir. Iruma, hayatta kalmak için kendisini düelloya davet eden kibirli bir öğrenciyle, uyum sorunları olan bir kızla ve daha pek çok korkunç varlıkla uğraşmak zorunda! Bu nihai pasifist, önüne fırlatılan sapanlardan ve oklardan kaçabilir mi? Çılgınca mücadele ederken, Iruma'nın doğuştan gelen nezaketi düşmanları kazanmaya başlar.",
    "poster": "/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
    "arkaplan": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
    "turler": [
@@ -2682,8 +2628,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.3,
-   "oySayisi": 308,
+   "puan": 8.291,
+   "oySayisi": 309,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2780,8 +2726,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 989,
+   "puan": 8.421,
+   "oySayisi": 990,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -2836,10 +2782,10 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 816,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3019,8 +2965,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 75,
+   "puan": 8.3,
+   "oySayisi": 76,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3115,8 +3061,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.7,
-   "oySayisi": 57,
+   "puan": 6.776,
+   "oySayisi": 58,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -3199,10 +3145,10 @@ SAHNE_GUN({
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "スーパーの裏でヤニ吸うふたり",
+   "ad": "Süpermarketin Arkasında, Seninle Bir Sigara",
    "orijinalAd": "スーパーの裏でヤニ吸うふたり",
    "yil": "2026",
-   "ozet": null,
+   "ozet": "Yorgun bir kurumsal çalışan olan Sasaki, hayatındaki tek küçük mutluluğu sigara molalarında ve sık gittiği süpermarkette çalışan Yamada'nın sıcak ilgisinde buluyor. Zorlu bir iş gününün ardından biraz teselli aramak için markete gittiğinde Yamada'yı bulamaz, üstelik artık sigara içebileceği bir yer de kalmamıştır. Moralinin bozulduğu bu anda, \"burada içilebilir\" diyen biriyle karşılaşması, ikisi arasında beklenmedik ve tatlı bir bağın başlangıcı olur.",
    "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
    "arkaplan": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
    "turler": [
@@ -3212,7 +3158,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.853,
+   "puan": 8.9,
    "oySayisi": 58,
    "platformlar": {
     "flatrate": [
@@ -3668,6 +3614,52 @@ SAHNE_GUN({
    "sonBolum": "2026-09-23"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-153217",
+   "tmdbId": 153217,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Sparks of Tomorrow",
+   "orijinalAd": "二十世紀電氣目録-ユーレカ・エヴリカ-",
+   "yil": "2026",
+   "ozet": "Alternatif bir geçmişte uyumsuz bir ikili, Kyoto'nun duman içindeki sokaklarına elektriği getirecek kayıp kataloğu aramak için birlik olur.",
+   "poster": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
+   "arkaplan": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 7.658,
+   "oySayisi": 19,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q136644014",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-27"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3714,54 +3706,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-28",
-   "sonBolum": "2026-09-21"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-153217",
-   "tmdbId": 153217,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Sparks of Tomorrow",
-   "orijinalAd": "二十世紀電氣目録-ユーレカ・エヴリカ-",
-   "yil": "2026",
-   "ozet": "Alternatif bir geçmişte uyumsuz bir ikili, Kyoto'nun duman içindeki sokaklarına elektriği getirecek kayıp kataloğu aramak için birlik olur.",
-   "poster": "/plIdrypzsCXRGE3xF6A0UH742LY.jpg",
-   "arkaplan": "/fx5JyhFvPn1GSm5ITtNNM6hmpUa.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 7.639,
-   "oySayisi": 18,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q136644014",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-27"
+   "sonrakiBolum": "2026-10-05",
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": false,
@@ -3889,10 +3835,10 @@ SAHNE_GUN({
    "puan": 8.0,
    "oySayisi": 105,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3934,7 +3880,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.682,
+   "puan": 6.7,
    "oySayisi": 11,
    "platformlar": {
     "flatrate": [
@@ -4190,8 +4136,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.118,
-   "oySayisi": 17,
+   "puan": 7.278,
+   "oySayisi": 18,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -4333,10 +4279,10 @@ SAHNE_GUN({
    "puan": 8.3,
    "oySayisi": 126,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
