@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-23",
   "bit": "2026-09-29"
  },
- "uretildi": "2026-09-29T13:15:14+03:00",
+ "uretildi": "2026-09-29T19:16:24+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -20,10 +20,10 @@ SAHNE_GUN({
   "toplam": 92,
   "turk": 33,
   "yabanci": 59,
-  "gosterilen": 69,
-  "anime": 23,
-  "wikiEslesen": 56,
-  "ilgiVerisiOlan": 56,
+  "gosterilen": 70,
+  "anime": 22,
+  "wikiEslesen": 57,
+  "ilgiVerisiOlan": 57,
   "platformBilinen": 66
  },
  "hatalar": [],
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.137,
-   "oySayisi": 353,
+   "puan": 8.147,
+   "oySayisi": 356,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -103,8 +103,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.972,
-   "oySayisi": 177,
+   "puan": 6.945,
+   "oySayisi": 182,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -254,44 +254,45 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-300388",
-   "tmdbId": 300388,
+   "id": "dizi-317883",
+   "tmdbId": 317883,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Güller ve Günahlar",
-   "orijinalAd": "Güller ve Günahlar",
-   "yil": "2025",
-   "ozet": "Hayatını dürüstlük, aile sevgisi ve güven üzerine kuran Serhat’ın, eşi Berrak’ın yıllardır sakladığı büyük bir sırrı öğrenmesiyle alt üst olan hayatına odaklanıyor. Serhat’ın yolu, dobra ve cesur tavırlarıyla dikkat çeken Zeynep’le kesiştiğinde ikili kendilerini büyük bir fırtınanın içinde buluyor.",
-   "poster": "/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg",
-   "arkaplan": "/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
+   "ad": "Daha 17",
+   "orijinalAd": "Daha 17",
+   "yil": "2026",
+   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
+   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
+   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
    "turler": [
-    "Dram"
+    "Dram",
+    "Komedi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.3,
-   "oySayisi": 10,
+   "puan": 7.8,
+   "oySayisi": 14,
    "platformlar": {},
-   "wikidata": "Q136485029",
+   "wikidata": "Q140004956",
    "wiki": {
-    "tr": "Güller ve Günahlar",
+    "tr": "Daha 17 (dizi)",
     "en": null
    },
    "ilgi": {
     "tr": {
-     "son7": 5132,
-     "onceki7": 6006,
-     "degisim": 0.854
+     "son7": 9975,
+     "onceki7": 9727,
+     "degisim": 1.025
     },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-03",
-   "sonBolum": "2026-09-26"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -352,45 +353,44 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-317883",
-   "tmdbId": 317883,
+   "id": "dizi-300388",
+   "tmdbId": 300388,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Daha 17",
-   "orijinalAd": "Daha 17",
-   "yil": "2026",
-   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
-   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
-   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
+   "ad": "Güller ve Günahlar",
+   "orijinalAd": "Güller ve Günahlar",
+   "yil": "2025",
+   "ozet": "Hayatını dürüstlük, aile sevgisi ve güven üzerine kuran Serhat’ın, eşi Berrak’ın yıllardır sakladığı büyük bir sırrı öğrenmesiyle alt üst olan hayatına odaklanıyor. Serhat’ın yolu, dobra ve cesur tavırlarıyla dikkat çeken Zeynep’le kesiştiğinde ikili kendilerini büyük bir fırtınanın içinde buluyor.",
+   "poster": "/3Qwhs7xxf9LILllWLnxbSaCBNDf.jpg",
+   "arkaplan": "/e2hpVdY2WVJDz3y0nEHszhtR24q.jpg",
    "turler": [
-    "Dram",
-    "Komedi"
+    "Dram"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.8,
-   "oySayisi": 14,
+   "puan": 8.3,
+   "oySayisi": 10,
    "platformlar": {},
-   "wikidata": "Q140004956",
+   "wikidata": "Q136485029",
    "wiki": {
-    "tr": "Daha 17 (dizi)",
+    "tr": "Güller ve Günahlar",
     "en": null
    },
    "ilgi": {
     "tr": {
-     "son7": 9975,
-     "onceki7": 9727,
-     "degisim": 1.025
+     "son7": 5132,
+     "onceki7": 6006,
+     "degisim": 0.854
     },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": true,
@@ -616,7 +616,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
+   "sonBolum": "2026-09-28"
   },
   {
    "goster": true,
@@ -670,6 +670,47 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-320516",
+   "tmdbId": 320516,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Ask Yarası",
+   "orijinalAd": "Ask Yarası",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/t5uM9N0Hz8d5uDuI1dlX3Ce8bWX.jpg",
+   "arkaplan": "/o6v7lnxGTaPewNkkZLNTkL9OZEo.jpg",
+   "turler": [
+    "Dram",
+    "Pembe Dizi"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-28"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-306529",
@@ -716,22 +757,21 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-320516",
-   "tmdbId": 320516,
+   "id": "dizi-322280",
+   "tmdbId": 322280,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Ask Yarası",
-   "orijinalAd": "Ask Yarası",
+   "ad": "Ömür Usta",
+   "orijinalAd": "Ömür Usta",
    "yil": "2026",
-   "ozet": null,
-   "poster": "/t5uM9N0Hz8d5uDuI1dlX3Ce8bWX.jpg",
-   "arkaplan": "/o6v7lnxGTaPewNkkZLNTkL9OZEo.jpg",
+   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
+   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
+   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
    "turler": [
-    "Dram",
-    "Pembe Dizi"
+    "Dram"
    ],
    "ulkeler": [
     "TR"
@@ -749,8 +789,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-01",
-   "sonBolum": "2026-09-28"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -840,6 +880,50 @@ SAHNE_GUN({
    "goster": true,
    "kategori": null,
    "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-315179",
+   "tmdbId": 315179,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Çirkin",
+   "orijinalAd": "Çirkin",
+   "yil": "2026",
+   "ozet": "Bütün Türkiye’nin tanıdığı Meryem Tunalı’nın kayboluşuyla başlayan hikaye, bir mahalleden yükselen büyük bir dönüşümün izini sürüyor. Küçük yaşta ailesini kaybeden ve kaderin sert yüzüyle tanışan Meryem’in, kalbinde büyüttüğü tek bir aşk vardır: Kadir.\n\nYıllar sonra güç, para ve ihtirasla şekillenen Kadir’in dünyasıyla, saf duygularla hayata tutunan Meryem’in yolları yeniden kesişir. Ancak bu karşılaşma, bir aşk hikayesinden çok daha fazlasını beraberinde getirir: Sırlar, hesaplaşmalar ve geri dönüşü olmayan kararlar…",
+   "poster": "/aQQBZoC6PFaVuKksTdJiF2NPPMc.jpg",
+   "arkaplan": "/8XNpVVE1QWwgtp8nuSBhrQUi1nv.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 4.0,
+   "oySayisi": 3,
+   "platformlar": {
+    "ads": [
+     "puhutv"
+    ]
+   },
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
    "yeniSayilir": false,
    "id": "dizi-320296",
    "tmdbId": 320296,
@@ -860,8 +944,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 0.0,
-   "oySayisi": 0,
+   "puan": 1.0,
+   "oySayisi": 1,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -875,92 +959,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-03",
    "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-111685",
-   "tmdbId": 111685,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Gönül Dağı",
-   "orijinalAd": "Gönül Dağı",
-   "yil": "2020",
-   "ozet": "Sapsarı toprakların, yıllarca dile gelen efsanelerin, unutulmaz aşkların hikayesidir Gönül Dağı...\n\nKüçük dünyalarında büyük hayaller yeşerten Anadolu çocuklarının hikayesidir Gönül Dağı…\n\nBozkırda hayallerinin peşinden koşan ve tüm engellere rağmen imkansızı başarmaya çalışan 3 kuzenin hikayesidir Gönül Dağı…",
-   "poster": "/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg",
-   "arkaplan": "/mbXdKaGRtx72aoAUlXe99bR1T9T.jpg",
-   "turler": [
-    "Aile",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 8.4,
-   "oySayisi": 10,
-   "platformlar": {},
-   "wikidata": "Q100930223",
-   "wiki": {
-    "tr": "Gönül Dağı",
-    "en": "Gönül Dağı"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 2788,
-     "onceki7": 2782,
-     "degisim": 1.002
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-03",
-   "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-322280",
-   "tmdbId": 322280,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Ömür Usta",
-   "orijinalAd": "Ömür Usta",
-   "yil": "2026",
-   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
-   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
-   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1014,6 +1012,52 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-111685",
+   "tmdbId": 111685,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Gönül Dağı",
+   "orijinalAd": "Gönül Dağı",
+   "yil": "2020",
+   "ozet": "Sapsarı toprakların, yıllarca dile gelen efsanelerin, unutulmaz aşkların hikayesidir Gönül Dağı...\n\nKüçük dünyalarında büyük hayaller yeşerten Anadolu çocuklarının hikayesidir Gönül Dağı…\n\nBozkırda hayallerinin peşinden koşan ve tüm engellere rağmen imkansızı başarmaya çalışan 3 kuzenin hikayesidir Gönül Dağı…",
+   "poster": "/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg",
+   "arkaplan": "/mbXdKaGRtx72aoAUlXe99bR1T9T.jpg",
+   "turler": [
+    "Aile",
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 8.4,
+   "oySayisi": 10,
+   "platformlar": {},
+   "wikidata": "Q100930223",
+   "wiki": {
+    "tr": "Gönül Dağı",
+    "en": "Gönül Dağı"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 2788,
+     "onceki7": 2782,
+     "degisim": 1.002
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
    "id": "dizi-331693",
@@ -1050,50 +1094,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-28"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-315179",
-   "tmdbId": 315179,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Çirkin",
-   "orijinalAd": "Çirkin",
-   "yil": "2026",
-   "ozet": "Bütün Türkiye’nin tanıdığı Meryem Tunalı’nın kayboluşuyla başlayan hikaye, bir mahalleden yükselen büyük bir dönüşümün izini sürüyor. Küçük yaşta ailesini kaybeden ve kaderin sert yüzüyle tanışan Meryem’in, kalbinde büyüttüğü tek bir aşk vardır: Kadir.\n\nYıllar sonra güç, para ve ihtirasla şekillenen Kadir’in dünyasıyla, saf duygularla hayata tutunan Meryem’in yolları yeniden kesişir. Ancak bu karşılaşma, bir aşk hikayesinden çok daha fazlasını beraberinde getirir: Sırlar, hesaplaşmalar ve geri dönüşü olmayan kararlar…",
-   "poster": "/aQQBZoC6PFaVuKksTdJiF2NPPMc.jpg",
-   "arkaplan": "/8XNpVVE1QWwgtp8nuSBhrQUi1nv.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 4.0,
-   "oySayisi": 3,
-   "platformlar": {
-    "ads": [
-     "puhutv"
-    ]
-   },
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1522,8 +1522,8 @@ SAHNE_GUN({
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "QUWET EL HOB",
-   "orijinalAd": "AŞKIN GÜCÜ / POWER OF LOVE / KISMETSE OLUR",
+   "ad": "Quwet El Hob",
+   "orijinalAd": "Quwet El Hob",
    "yil": "2026",
    "ozet": "Aşkın Gücü, Kısmetse Olur, Power Of Love, El Poder Del Amor",
    "poster": "/sIPLKfKkJ68WSElT8hWXphsAS67.jpg",
@@ -1574,7 +1574,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.023,
-   "oySayisi": 11037,
+   "oySayisi": 11039,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1670,7 +1670,7 @@ SAHNE_GUN({
    "yil": "2025",
    "ozet": "İki düşman Londra suç ailesi olan Harrigan’lar ve Stevenson’lar arasında, imparatorlukları yıkma ve hayatları mahvetme tehdidi oluşturan öl ya da öldür savaşında güç ele geçirilmeyi bekliyor. Çatışmanın ortasında kalan ve tehlikeli olduğu kadar yakışıklı da olan ’çözümleyici’ Harry Da Souza, karşıt güçler çarpıştığında sadakatin nerede yattığını çok iyi biliyor. Krallıklar karşı karşıya gelirken, sınırlar aşılacak ve tek kurtuluş garantisi var: Her şeyin üstünde aile.",
    "poster": "/5Xc7WpWsgflfgEMoBlf9TmWhfbH.jpg",
-   "arkaplan": "/mdkhMbqAhPf66VWDqscMAFwIEQQ.jpg",
+   "arkaplan": "/h0OC7ouop8YLwbAVfS3UUE2Lw4T.jpg",
    "turler": [
     "Suç",
     "Dram"
@@ -1679,8 +1679,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.445,
-   "oySayisi": 926,
+   "puan": 8.5,
+   "oySayisi": 930,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1788,8 +1788,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.3,
-   "oySayisi": 464,
+   "puan": 8.343,
+   "oySayisi": 467,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -1944,7 +1944,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.544,
+   "puan": 8.5,
    "oySayisi": 1665,
    "platformlar": {
     "flatrate": [
@@ -2157,7 +2157,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.364,
+   "puan": 8.4,
    "oySayisi": 3920,
    "platformlar": {
     "flatrate": [
@@ -2313,8 +2313,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.3,
-   "oySayisi": 1419,
+   "puan": 8.253,
+   "oySayisi": 1420,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2522,8 +2522,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.87,
-   "oySayisi": 857,
+   "puan": 7.869,
+   "oySayisi": 858,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -2603,53 +2603,58 @@ SAHNE_GUN({
    "sonBolum": "2026-09-23"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-91801",
-   "tmdbId": 91801,
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-287620",
+   "tmdbId": 287620,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "魔入りました！入間くん",
-   "orijinalAd": "魔入りました！入間くん",
-   "yil": "2019",
-   "ozet": "14 yaşındaki Suzuki Iruma, bir gün kendini kendi iradesine karşı iblislerin dünyasında bulur. İçinde bulunduğu çıkmaza ek olarak, kendi kendini tayin eden \"Büyükbaba\", yeni okulunun başkan-iblisidir. Iruma, hayatta kalmak için kendisini düelloya davet eden kibirli bir öğrenciyle, uyum sorunları olan bir kızla ve daha pek çok korkunç varlıkla uğraşmak zorunda! Bu nihai pasifist, önüne fırlatılan sapanlardan ve oklardan kaçabilir mi? Çılgınca mücadele ederken, Iruma'nın doğuştan gelen nezaketi düşmanları kazanmaya başlar.",
-   "poster": "/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
-   "arkaplan": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+   "ad": "Stuart Fails to Save the Universe",
+   "orijinalAd": "Stuart Fails to Save the Universe",
+   "yil": "2026",
+   "ozet": "Çizgi roman dükkânı sahibi Stuart Bloom, yanlışlıkla çoklu evren kıyametini başlatınca gerçekliği eski hâline getirmekle görevlendirilir.",
+   "poster": "/txj8ujTZwGUjpCdhCsQBnTlh4aS.jpg",
+   "arkaplan": "/nW7oUFiJrIWwll4mZ8tYays7XRm.jpg",
    "turler": [
-    "Animasyon",
     "Komedi",
     "Bilim Kurgu & Fantazi"
    ],
    "ulkeler": [
-    "JP"
+    "US"
    ],
-   "puan": 8.291,
-   "oySayisi": 309,
+   "puan": 8.495,
+   "oySayisi": 209,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
-     "Crunchyroll"
+     "TV+",
+     "HBO Max"
     ]
    },
-   "wikidata": "Q91092801",
+   "wikidata": "Q138836131",
    "wiki": {
-    "tr": null,
-    "en": null
+    "tr": "Stuart Fails to Save the Universe",
+    "en": "Stuart Fails to Save the Universe"
    },
    "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
+    "tr": {
+     "son7": 102,
+     "onceki7": 122,
+     "degisim": 0.836
+    },
+    "en": {
+     "son7": 104451,
+     "onceki7": 119675,
+     "degisim": 0.873
+    },
+    "trEnOran": 0.001
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-09-26"
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -2698,6 +2703,104 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-01",
    "sonBolum": "2026-09-24"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-207468",
+   "tmdbId": 207468,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Kaiju No. 8",
+   "orijinalAd": "怪獣８号",
+   "yil": "2024",
+   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
+   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
+   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.4,
+   "oySayisi": 816,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ],
+    "ads": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q115777186",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2025-09-27"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-91801",
+   "tmdbId": 91801,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "魔入りました！入間くん",
+   "orijinalAd": "魔入りました！入間くん",
+   "yil": "2019",
+   "ozet": "14 yaşındaki Suzuki Iruma, bir gün kendini kendi iradesine karşı iblislerin dünyasında bulur. İçinde bulunduğu çıkmaza ek olarak, kendi kendini tayin eden \"Büyükbaba\", yeni okulunun başkan-iblisidir. Iruma, hayatta kalmak için kendisini düelloya davet eden kibirli bir öğrenciyle, uyum sorunları olan bir kızla ve daha pek çok korkunç varlıkla uğraşmak zorunda! Bu nihai pasifist, önüne fırlatılan sapanlardan ve oklardan kaçabilir mi? Çılgınca mücadele ederken, Iruma'nın doğuştan gelen nezaketi düşmanları kazanmaya başlar.",
+   "poster": "/5o1PjfSTASqjUH6giJXiskDbXpj.jpg",
+   "arkaplan": "/d8bAI2EDM7L2q94wDZfjb82KRoh.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.291,
+   "oySayisi": 309,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q91092801",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": false,
@@ -2758,55 +2861,6 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": false,
    "yeniSayilir": true,
-   "id": "dizi-207468",
-   "tmdbId": 207468,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Kaiju No. 8",
-   "orijinalAd": "怪獣８号",
-   "yil": "2024",
-   "ozet": "Kaiju olarak bilinen yaratıklar tarafından rahatsız olan bir dünyada Kafka Hibino, savunma gücüne katılmak istedi. Çocukluk arkadaşı Mina Ashiro'ya katılma sözü veriyor. Yakında, hayat onları ayrı şekillerde alıyor. Kaiju savaşlarından sonra temizlik yaparken Kafka Reno Ichikawa ile tanışır. Reno'nun savunma gücüne katılma kararlılığı Kafka'nın Mina'ya katılma ve insanlığı koruma vaadini Rewakens.",
-   "poster": "/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg",
-   "arkaplan": "/htGeuCcNhlBe8GTx3izKOsd8frw.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.4,
-   "oySayisi": 816,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q115777186",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2025-09-27"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
    "id": "dizi-101172",
    "tmdbId": 101172,
    "tur": "dizi",
@@ -2847,194 +2901,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-05",
    "sonBolum": "2026-09-28"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-290720",
-   "tmdbId": 290720,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Son Vaka",
-   "orijinalAd": "El problema final",
-   "yil": "2026",
-   "ozet": "1959 baharında, Mallorca yakınlarındaki küçük bir adada, on üç kişi bir fırtına nedeniyle mahsur kalır. Küçük bir otelde konaklayan bu insanlar, başlarına geleceklerden habersizdir. Bu sırada İngiliz kökenli, ketum bir turist olan Elisa Mander ölü bulunur. Başta intihar gibi görünen olay, kısa sürede çok daha rahatsız edici bir şeye, bir cinayete işaret etmeye başlar. Bir zamanlar beyaz perdede Sherlock Holmes karakterini canlandırmış olan emekli oyuncu Basil, istemeden de olsa bu gizemi çözme görevini üstlenir. Ne kimsenin ayrılabildiği ne de dışarıdan birinin gelebildiği bu kapalı ortamda, tüm misafirler ve otel çalışanları birer şüpheliye dönüşür. Her geçen dakika, bu suçun düşündüklerinden çok daha karmaşık ve anlaşılması güç olduğu ortaya çıkar.",
-   "poster": "/2TtMEicy4BwUTv6mw5TWcM0KdN5.jpg",
-   "arkaplan": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
-   "turler": [
-    "Suç",
-    "Gizem"
-   ],
-   "ulkeler": [
-    "ES"
-   ],
-   "puan": 7.2,
-   "oySayisi": 15,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-91768",
-   "tmdbId": 91768,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
-   "yil": "2019",
-   "ozet": null,
-   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
-   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.1,
-   "oySayisi": 144,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q61998245",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-03",
-   "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-312949",
-   "tmdbId": 312949,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "ヤニねこ",
-   "orijinalAd": "ヤニねこ",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
-   "turler": [
-    "Animasyon",
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.3,
-   "oySayisi": 76,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q137971300",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-302074",
-   "tmdbId": 302074,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "R.J. Decker",
-   "orijinalAd": "R.J. Decker",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
-   "arkaplan": "/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
-   "turler": [
-    "Dram",
-    "Komedi",
-    "Suç",
-    "Gizem"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.6,
-   "oySayisi": 57,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q138555024",
-   "wiki": {
-    "tr": null,
-    "en": "R.J. Decker"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 31989,
-     "onceki7": 44133,
-     "degisim": 0.725
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -3090,48 +2956,142 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-255055",
-   "tmdbId": 255055,
+   "id": "dizi-302074",
+   "tmdbId": 302074,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Doc",
-   "orijinalAd": "Doc",
-   "yil": "2025",
-   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
-   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+   "ad": "R.J. Decker",
+   "orijinalAd": "R.J. Decker",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
+   "arkaplan": "/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
    "turler": [
-    "Dram"
+    "Dram",
+    "Komedi",
+    "Suç",
+    "Gizem"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.3,
-   "oySayisi": 76,
+   "puan": 7.6,
+   "oySayisi": 57,
    "platformlar": {
     "flatrate": [
-     "TOD TV"
+     "Disney Plus"
     ]
    },
-   "wikidata": "Q129676773",
+   "wikidata": "Q138555024",
    "wiki": {
     "tr": null,
-    "en": "Doc (2025 TV series)"
+    "en": "R.J. Decker"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 38670,
-     "onceki7": 15803,
-     "degisim": 2.447
+     "son7": 31989,
+     "onceki7": 44133,
+     "degisim": 0.725
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-09-29",
    "sonBolum": "2026-09-22"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-290720",
+   "tmdbId": 290720,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Son Vaka",
+   "orijinalAd": "El problema final",
+   "yil": "2026",
+   "ozet": "1959 baharında, Mallorca yakınlarındaki küçük bir adada, on üç kişi bir fırtına nedeniyle mahsur kalır. Küçük bir otelde konaklayan bu insanlar, başlarına geleceklerden habersizdir. Bu sırada İngiliz kökenli, ketum bir turist olan Elisa Mander ölü bulunur. Başta intihar gibi görünen olay, kısa sürede çok daha rahatsız edici bir şeye, bir cinayete işaret etmeye başlar. Bir zamanlar beyaz perdede Sherlock Holmes karakterini canlandırmış olan emekli oyuncu Basil, istemeden de olsa bu gizemi çözme görevini üstlenir. Ne kimsenin ayrılabildiği ne de dışarıdan birinin gelebildiği bu kapalı ortamda, tüm misafirler ve otel çalışanları birer şüpheliye dönüşür. Her geçen dakika, bu suçun düşündüklerinden çok daha karmaşık ve anlaşılması güç olduğu ortaya çıkar.",
+   "poster": "/2TtMEicy4BwUTv6mw5TWcM0KdN5.jpg",
+   "arkaplan": "/m9QKL9smb61v1XSYJoHdl7p5yUd.jpg",
+   "turler": [
+    "Suç",
+    "Gizem"
+   ],
+   "ulkeler": [
+    "ES"
+   ],
+   "puan": 7.2,
+   "oySayisi": 15,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-312949",
+   "tmdbId": 312949,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "ヤニねこ",
+   "orijinalAd": "ヤニねこ",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.3,
+   "oySayisi": 76,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q137971300",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": false,
@@ -3158,8 +3118,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.9,
-   "oySayisi": 58,
+   "puan": 8.873,
+   "oySayisi": 59,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -3226,6 +3186,155 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-04",
    "sonBolum": "2026-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-46080",
+   "tmdbId": 46080,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Maşa ile Koca Ayı",
+   "orijinalAd": "Маша и Медведь",
+   "yil": "2009",
+   "ozet": "Maşa ile Koca Ayı, Rus yapımı bir animasyon televizyon dizisidir. Dizinin hikayesi bir Rus halk masalına dayanmaktadır. Maşa adında küçük bir Rus kızı ile sirkten emekli, Mişka adında bir ayı arasında geçen maceraları konu edinmektedir.",
+   "poster": "/5kPSIxxZ98rA93XRHEwn8V0r4OB.jpg",
+   "arkaplan": "/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
+   "turler": [
+    "Animasyon",
+    "Aile",
+    "Çocuklar",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "RU"
+   ],
+   "puan": 6.8,
+   "oySayisi": 421,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q2667119",
+   "wiki": {
+    "tr": "Maşa ile Koca Ayı",
+    "en": "Masha and the Bear"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 300,
+     "onceki7": 272,
+     "degisim": 1.103
+    },
+    "en": {
+     "son7": 4190,
+     "onceki7": 4405,
+     "degisim": 0.951
+    },
+    "trEnOran": 0.0716
+   },
+   "sonrakiBolum": "2026-10-05",
+   "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-91768",
+   "tmdbId": 91768,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "orijinalAd": "本好きの下剋上 司書になるためには手段を選んでいられません",
+   "yil": "2019",
+   "ozet": null,
+   "poster": "/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg",
+   "arkaplan": "/2ta3O7D1Nh42nTZof9qxJCVAvwk.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.1,
+   "oySayisi": 144,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q61998245",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-255055",
+   "tmdbId": 255055,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Doc",
+   "orijinalAd": "Doc",
+   "yil": "2025",
+   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
+   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.3,
+   "oySayisi": 76,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q129676773",
+   "wiki": {
+    "tr": null,
+    "en": "Doc (2025 TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 38670,
+     "onceki7": 15803,
+     "degisim": 2.447
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-09-29",
+   "sonBolum": "2026-09-22"
   },
   {
    "goster": true,
@@ -3325,61 +3434,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-46080",
-   "tmdbId": 46080,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Maşa ile Koca Ayı",
-   "orijinalAd": "Маша и Медведь",
-   "yil": "2009",
-   "ozet": "Maşa ile Koca Ayı, Rus yapımı bir animasyon televizyon dizisidir. Dizinin hikayesi bir Rus halk masalına dayanmaktadır. Maşa adında küçük bir Rus kızı ile sirkten emekli, Mişka adında bir ayı arasında geçen maceraları konu edinmektedir.",
-   "poster": "/5kPSIxxZ98rA93XRHEwn8V0r4OB.jpg",
-   "arkaplan": "/mZmxNM7XMMT1QroznAQWmRf7duP.jpg",
-   "turler": [
-    "Animasyon",
-    "Aile",
-    "Çocuklar",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "RU"
-   ],
-   "puan": 6.8,
-   "oySayisi": 421,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q2667119",
-   "wiki": {
-    "tr": "Maşa ile Koca Ayı",
-    "en": "Masha and the Bear"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 300,
-     "onceki7": 272,
-     "degisim": 1.103
-    },
-    "en": {
-     "son7": 4190,
-     "onceki7": 4405,
-     "degisim": 0.951
-    },
-    "trEnOran": 0.0716
-   },
-   "sonrakiBolum": "2026-10-05",
-   "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-305644",
    "tmdbId": 305644,
    "tur": "dizi",
@@ -3424,53 +3478,6 @@ SAHNE_GUN({
    "sonBolum": "2026-09-27"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-260823",
-   "tmdbId": 260823,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Sıradan Bir Köylü Hünerli Bir Kılıç Ustası Oluyor",
-   "orijinalAd": "片田舎のおっさん、剣聖になる",
-   "yil": "2025",
-   "ozet": "Ücra bir dojoyu işleten orta yaşlı kılıç ustası Beryl Gardenant’ın sakin hayatı eski öğrencisi ve Kraliyet Şövalyeleri Birliği’nin Kumandanı Allucia’nın gelişiyle ciddi biçimde değişmek üzeredir! Şehir hayatı. Eski öğrenciler. Yeni dostlar ve zorlu düşmanlar. Bunlar ona biraz fazla gelse de yıllardır kılıç çalışan Beryl üstün yeteneklere ve “ücraların kılıç üstadı” ünvanına sahiptir.",
-   "poster": "/8YB2HPblQyF6EtMzIkuskrnCEfn.jpg",
-   "arkaplan": "/sEagMcuLL3beaHc3ToiZicMuYSb.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 7.3,
-   "oySayisi": 108,
-   "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ]
-   },
-   "wikidata": "Q128229869",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-23"
-  },
-  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -3494,8 +3501,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.6,
-   "oySayisi": 110,
+   "puan": 8.64,
+   "oySayisi": 111,
    "platformlar": {
     "flatrate": [
      "TOD TV"
