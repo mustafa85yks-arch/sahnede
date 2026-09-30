@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-24",
   "bit": "2026-09-30"
  },
- "uretildi": "2026-09-30T13:15:43+03:00",
+ "uretildi": "2026-09-30T19:16:56+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -54,8 +54,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.831,
-   "oySayisi": 201,
+   "puan": 6.8,
+   "oySayisi": 206,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -73,6 +73,46 @@ SAHNE_GUN({
      "onceki7": 16282,
      "degisim": 18.375
     },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "film-1514147",
+   "tmdbId": 1514147,
+   "tur": "film",
+   "koken": "turk",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "A Tape from Paris",
+   "orijinalAd": "A Tape from Paris",
+   "yil": "2026",
+   "ozet": "Genç kaykaycılardan oluşan bir grubun hikayesini anlatan gerilla tarzı bir video-belgesel.",
+   "poster": null,
+   "arkaplan": null,
+   "turler": [
+    "Belgesel"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
     "trEnOran": null
    },
    "sonrakiBolum": null,
@@ -205,51 +245,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-317883",
-   "tmdbId": 317883,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Daha 17",
-   "orijinalAd": "Daha 17",
-   "yil": "2026",
-   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
-   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
-   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
-   "turler": [
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.8,
-   "oySayisi": 14,
-   "platformlar": {},
-   "wikidata": "Q140004956",
-   "wiki": {
-    "tr": "Daha 17 (dizi)",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 10012,
-     "onceki7": 9695,
-     "degisim": 1.033
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-274556",
    "tmdbId": 274556,
    "tur": "dizi",
@@ -348,46 +343,90 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-119806",
-   "tmdbId": 119806,
+   "id": "dizi-317883",
+   "tmdbId": 317883,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Teşkilat",
-   "orijinalAd": "Teşkilat",
-   "yil": "2021",
-   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
-   "poster": "/vnfHELllrXpqMHJ9QjNUzpnI2PF.jpg",
-   "arkaplan": "/hb1X6gQ33yu3JHTngUStqPQqO0l.jpg",
+   "ad": "Daha 17",
+   "orijinalAd": "Daha 17",
+   "yil": "2026",
+   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
+   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
+   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
    "turler": [
-    "Savaş & Politik",
     "Dram",
-    "Aksiyon & Macera"
+    "Komedi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.2,
-   "oySayisi": 37,
+   "puan": 7.8,
+   "oySayisi": 14,
    "platformlar": {},
-   "wikidata": "Q105755428",
+   "wikidata": "Q140004956",
    "wiki": {
-    "tr": "Teşkilat (dizi)",
+    "tr": "Daha 17 (dizi)",
     "en": null
    },
    "ilgi": {
     "tr": {
-     "son7": 7955,
-     "onceki7": 10707,
-     "degisim": 0.743
+     "son7": 10012,
+     "onceki7": 9695,
+     "degisim": 1.033
     },
     "en": null,
     "trEnOran": null
    },
    "sonrakiBolum": "2026-10-04",
    "sonBolum": "2026-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-213194",
+   "tmdbId": 213194,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Kızılcık Şerbeti",
+   "orijinalAd": "Kızılcık Şerbeti",
+   "yil": "2022",
+   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
+   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
+   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
+   "turler": [
+    "Aile",
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.9,
+   "oySayisi": 19,
+   "platformlar": {},
+   "wikidata": "Q115343361",
+   "wiki": {
+    "tr": "Kızılcık Şerbeti",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 5625,
+     "onceki7": 7432,
+     "degisim": 0.757
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-02",
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -435,7 +474,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-08",
+   "sonrakiBolum": "2026-10-01",
    "sonBolum": "2026-09-24"
   },
   {
@@ -443,45 +482,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-213194",
-   "tmdbId": 213194,
+   "id": "dizi-119806",
+   "tmdbId": 119806,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Kızılcık Şerbeti",
-   "orijinalAd": "Kızılcık Şerbeti",
-   "yil": "2022",
-   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
-   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
-   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
+   "ad": "Teşkilat",
+   "orijinalAd": "Teşkilat",
+   "yil": "2021",
+   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
+   "poster": "/vnfHELllrXpqMHJ9QjNUzpnI2PF.jpg",
+   "arkaplan": "/hb1X6gQ33yu3JHTngUStqPQqO0l.jpg",
    "turler": [
-    "Aile",
-    "Dram"
+    "Savaş & Politik",
+    "Dram",
+    "Aksiyon & Macera"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 6.9,
-   "oySayisi": 19,
+   "puan": 7.2,
+   "oySayisi": 37,
    "platformlar": {},
-   "wikidata": "Q115343361",
+   "wikidata": "Q105755428",
    "wiki": {
-    "tr": "Kızılcık Şerbeti",
+    "tr": "Teşkilat (dizi)",
     "en": null
    },
    "ilgi": {
     "tr": {
-     "son7": 5625,
-     "onceki7": 7432,
-     "degisim": 0.757
+     "son7": 7955,
+     "onceki7": 10707,
+     "degisim": 0.743
     },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-02",
-   "sonBolum": "2026-09-25"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -706,46 +746,6 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-322280",
-   "tmdbId": 322280,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Ömür Usta",
-   "orijinalAd": "Ömür Usta",
-   "yil": "2026",
-   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
-   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
-   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
-  },
-  {
-   "goster": true,
-   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-322499",
@@ -792,6 +792,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-322280",
+   "tmdbId": 322280,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Ömür Usta",
+   "orijinalAd": "Ömür Usta",
+   "yil": "2026",
+   "ozet": "Aile bağları, ihanet, aşk, sınıf çatışmaları ve ikinci şanslar üzerine kurulan “Ömür Usta”; tüm yaralarına rağmen hayata tutunmayı başaran bir kadının, kendi ışığını yeniden keşfetme hikayesini anlatacak.",
+   "poster": "/tNU9FZWQ9vtobH6G4HS9USVGEP4.jpg",
+   "arkaplan": "/6jf0DNKtbparHHQ3u40UAAONnqc.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-245841",
    "tmdbId": 245841,
    "tur": "dizi",
@@ -830,46 +870,48 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-315179",
-   "tmdbId": 315179,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-111685",
+   "tmdbId": 111685,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Çirkin",
-   "orijinalAd": "Çirkin",
-   "yil": "2026",
-   "ozet": "Bütün Türkiye’nin tanıdığı Meryem Tunalı’nın kayboluşuyla başlayan hikaye, bir mahalleden yükselen büyük bir dönüşümün izini sürüyor. Küçük yaşta ailesini kaybeden ve kaderin sert yüzüyle tanışan Meryem’in, kalbinde büyüttüğü tek bir aşk vardır: Kadir.\n\nYıllar sonra güç, para ve ihtirasla şekillenen Kadir’in dünyasıyla, saf duygularla hayata tutunan Meryem’in yolları yeniden kesişir. Ancak bu karşılaşma, bir aşk hikayesinden çok daha fazlasını beraberinde getirir: Sırlar, hesaplaşmalar ve geri dönüşü olmayan kararlar…",
-   "poster": "/aQQBZoC6PFaVuKksTdJiF2NPPMc.jpg",
-   "arkaplan": "/8XNpVVE1QWwgtp8nuSBhrQUi1nv.jpg",
+   "ad": "Gönül Dağı",
+   "orijinalAd": "Gönül Dağı",
+   "yil": "2020",
+   "ozet": "Sapsarı toprakların, yıllarca dile gelen efsanelerin, unutulmaz aşkların hikayesidir Gönül Dağı...\n\nKüçük dünyalarında büyük hayaller yeşerten Anadolu çocuklarının hikayesidir Gönül Dağı…\n\nBozkırda hayallerinin peşinden koşan ve tüm engellere rağmen imkansızı başarmaya çalışan 3 kuzenin hikayesidir Gönül Dağı…",
+   "poster": "/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg",
+   "arkaplan": "/mbXdKaGRtx72aoAUlXe99bR1T9T.jpg",
    "turler": [
-    "Dram"
+    "Aile",
+    "Dram",
+    "Komedi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 4.0,
-   "oySayisi": 3,
-   "platformlar": {
-    "ads": [
-     "puhutv"
-    ]
-   },
-   "wikidata": null,
+   "puan": 8.4,
+   "oySayisi": 10,
+   "platformlar": {},
+   "wikidata": "Q100930223",
    "wiki": {
-    "tr": null,
-    "en": null
+    "tr": "Gönül Dağı",
+    "en": "Gönül Dağı"
    },
    "ilgi": {
-    "tr": null,
+    "tr": {
+     "son7": 2780,
+     "onceki7": 2791,
+     "degisim": 0.996
+    },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
+   "sonrakiBolum": "2026-10-03",
+   "sonBolum": "2026-09-26"
   },
   {
    "goster": true,
@@ -963,76 +1005,34 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-111685",
-   "tmdbId": 111685,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Gönül Dağı",
-   "orijinalAd": "Gönül Dağı",
-   "yil": "2020",
-   "ozet": "Sapsarı toprakların, yıllarca dile gelen efsanelerin, unutulmaz aşkların hikayesidir Gönül Dağı...\n\nKüçük dünyalarında büyük hayaller yeşerten Anadolu çocuklarının hikayesidir Gönül Dağı…\n\nBozkırda hayallerinin peşinden koşan ve tüm engellere rağmen imkansızı başarmaya çalışan 3 kuzenin hikayesidir Gönül Dağı…",
-   "poster": "/lZL5RSSgLSewP0pi8rK4znb9FYZ.jpg",
-   "arkaplan": "/mbXdKaGRtx72aoAUlXe99bR1T9T.jpg",
-   "turler": [
-    "Aile",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 8.4,
-   "oySayisi": 10,
-   "platformlar": {},
-   "wikidata": "Q100930223",
-   "wiki": {
-    "tr": "Gönül Dağı",
-    "en": "Gönül Dağı"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 2780,
-     "onceki7": 2791,
-     "degisim": 0.996
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-03",
-   "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": true,
-   "kategori": null,
    "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-331693",
-   "tmdbId": 331693,
+   "yeniSayilir": true,
+   "id": "dizi-315179",
+   "tmdbId": 315179,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Sevdam Karadeniz",
-   "orijinalAd": "Sevdam Karadeniz",
+   "ad": "Çirkin",
+   "orijinalAd": "Çirkin",
    "yil": "2026",
-   "ozet": "Karadeniz’in iki köklü ailesi Hafize Alazlı ve Durali Yeniceli’nin yarım kalmış aşkıyla başlayan düşmanlık, yıllar sonra torunları Kuzey ve Zeyşan’ı zoraki bir evliliğin içine sürükleyişini konu alıyor. Sırlar, yasak aşklar ve intikam yeminleri arasında iki genç, ailelerinin kaderini değiştirecek bir seçim yapmak zorunda kalır.",
-   "poster": "/zOqcJuBcEgzwKax9jHQM4MGAy0y.jpg",
-   "arkaplan": "/iR0uB1YKK4jOF2pqlL4Sy2XdprY.jpg",
+   "ozet": "Bütün Türkiye’nin tanıdığı Meryem Tunalı’nın kayboluşuyla başlayan hikaye, bir mahalleden yükselen büyük bir dönüşümün izini sürüyor. Küçük yaşta ailesini kaybeden ve kaderin sert yüzüyle tanışan Meryem’in, kalbinde büyüttüğü tek bir aşk vardır: Kadir.\n\nYıllar sonra güç, para ve ihtirasla şekillenen Kadir’in dünyasıyla, saf duygularla hayata tutunan Meryem’in yolları yeniden kesişir. Ancak bu karşılaşma, bir aşk hikayesinden çok daha fazlasını beraberinde getirir: Sırlar, hesaplaşmalar ve geri dönüşü olmayan kararlar…",
+   "poster": "/aQQBZoC6PFaVuKksTdJiF2NPPMc.jpg",
+   "arkaplan": "/8XNpVVE1QWwgtp8nuSBhrQUi1nv.jpg",
    "turler": [
     "Dram"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.5,
-   "oySayisi": 2,
-   "platformlar": {},
+   "puan": 4.0,
+   "oySayisi": 3,
+   "platformlar": {
+    "ads": [
+     "puhutv"
+    ]
+   },
    "wikidata": null,
    "wiki": {
     "tr": null,
@@ -1043,8 +1043,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-28"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1085,46 +1085,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-06",
    "sonBolum": "2026-09-29"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-238522",
-   "tmdbId": 238522,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Kod Adı: Kırlangıç",
-   "orijinalAd": "Kod Adı: Kırlangıç",
-   "yil": "2023",
-   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
-   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
-   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
-   "turler": [
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 10.0,
-   "oySayisi": 1,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1211,26 +1171,26 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-333438",
-   "tmdbId": 333438,
+   "id": "dizi-238522",
+   "tmdbId": 238522,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Güneşin Doğduğu Yer",
-   "orijinalAd": "Güneşin Doğduğu Yer",
-   "yil": "2026",
-   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
-   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
-   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
+   "ad": "Kod Adı: Kırlangıç",
+   "orijinalAd": "Kod Adı: Kırlangıç",
+   "yil": "2023",
+   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
+   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
+   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
    "turler": [
-    "Dram"
+    "Aksiyon & Macera"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.0,
+   "puan": 10.0,
    "oySayisi": 1,
    "platformlar": {},
    "wikidata": null,
@@ -1243,8 +1203,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-01",
-   "sonBolum": "2026-09-24"
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -1289,6 +1249,46 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-30",
    "sonBolum": "2026-09-23"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-333438",
+   "tmdbId": 333438,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Güneşin Doğduğu Yer",
+   "orijinalAd": "Güneşin Doğduğu Yer",
+   "yil": "2026",
+   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
+   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
+   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.0,
+   "oySayisi": 1,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-24"
   },
   {
    "goster": true,
@@ -1557,57 +1557,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-95350",
-   "tmdbId": 95350,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Lanterns",
-   "orijinalAd": "Lanterns",
-   "yil": "2026",
-   "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
-   "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
-   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
-   "turler": [
-    "Dram",
-    "Gizem",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.352,
-   "oySayisi": 472,
-   "platformlar": {
-    "flatrate": [
-     "TV+",
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q110556821",
-   "wiki": {
-    "tr": null,
-    "en": "Lanterns (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 448151,
-     "onceki7": 527533,
-     "degisim": 0.85
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
-   "sonBolum": "2026-09-27"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-4656",
    "tmdbId": 4656,
    "tur": "dizi",
@@ -1660,6 +1609,57 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-95350",
+   "tmdbId": 95350,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Lanterns",
+   "orijinalAd": "Lanterns",
+   "yil": "2026",
+   "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
+   "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
+   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+   "turler": [
+    "Dram",
+    "Gizem",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.352,
+   "oySayisi": 475,
+   "platformlar": {
+    "flatrate": [
+     "TV+",
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q110556821",
+   "wiki": {
+    "tr": null,
+    "en": "Lanterns (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 448151,
+     "onceki7": 527533,
+     "degisim": 0.85
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-247718",
    "tmdbId": 247718,
    "tur": "dizi",
@@ -1681,8 +1681,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.5,
-   "oySayisi": 934,
+   "puan": 8.451,
+   "oySayisi": 935,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1736,8 +1736,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 1750,
+   "puan": 8.427,
+   "oySayisi": 1751,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -1765,6 +1765,60 @@ SAHNE_GUN({
    "sonBolum": "2026-09-28"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-45790",
+   "tmdbId": 45790,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "JoJo's Bizarre Adventure",
+   "orijinalAd": "ジョジョの奇妙な冒険",
+   "yil": "2012",
+   "ozet": "Jonathan Joestar zengin, asil, herkesin arzu edeceği hayata sahip bir çocuktur. Dio Brando ise babasının ölmesiyle JoJo ailesine evlatlık gelmiş hırslı ve yetenekli bir çocuktur. Hikaye, Jonathan Joestar ve Dio Brando'dan başlayarak iki ailenin birkaç nesil boyunca birbiri ile olan mücadelesini konu almaktadır.",
+   "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
+   "arkaplan": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.5,
+   "oySayisi": 1665,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Netflix",
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q28930028",
+   "wiki": {
+    "tr": null,
+    "en": "JoJo's Bizarre Adventure (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 7877,
+     "onceki7": 4580,
+     "degisim": 1.72
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-02",
+   "sonBolum": "2026-09-25"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -1790,8 +1844,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.1,
-   "oySayisi": 6197,
+   "puan": 8.074,
+   "oySayisi": 6198,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1868,60 +1922,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-09-30",
    "sonBolum": "2026-09-23"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-45790",
-   "tmdbId": 45790,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "JoJo's Bizarre Adventure",
-   "orijinalAd": "ジョジョの奇妙な冒険",
-   "yil": "2012",
-   "ozet": "Jonathan Joestar zengin, asil, herkesin arzu edeceği hayata sahip bir çocuktur. Dio Brando ise babasının ölmesiyle JoJo ailesine evlatlık gelmiş hırslı ve yetenekli bir çocuktur. Hikaye, Jonathan Joestar ve Dio Brando'dan başlayarak iki ailenin birkaç nesil boyunca birbiri ile olan mücadelesini konu almaktadır.",
-   "poster": "/2Sc0veFPh9CcHMtNqMyiQqIW9ZF.jpg",
-   "arkaplan": "/5mUYDoFjDlPmDvnUWSknhYjGBBh.jpg",
-   "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.5,
-   "oySayisi": 1665,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Netflix",
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q28930028",
-   "wiki": {
-    "tr": null,
-    "en": "JoJo's Bizarre Adventure (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 7877,
-     "onceki7": 4580,
-     "degisim": 1.72
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-02",
-   "sonBolum": "2026-09-25"
   },
   {
    "goster": false,
@@ -2034,58 +2034,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-2710",
-   "tmdbId": 2710,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "It's Always Sunny in Philadelphia",
-   "orijinalAd": "It's Always Sunny in Philadelphia",
-   "yil": "2005",
-   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
-   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-   "arkaplan": "/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-   "turler": [
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.253,
-   "oySayisi": 1420,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q23670",
-   "wiki": {
-    "tr": "It's Always Sunny in Philadelphia",
-    "en": "It's Always Sunny in Philadelphia"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 66,
-     "onceki7": 55,
-     "degisim": 1.2
-    },
-    "en": {
-     "son7": 40088,
-     "onceki7": 38261,
-     "degisim": 1.048
-    },
-    "trEnOran": 0.0016
-   },
-   "sonrakiBolum": "2026-10-05",
-   "sonBolum": "2026-09-28"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-615",
    "tmdbId": 615,
    "tur": "dizi",
@@ -2133,6 +2081,58 @@ SAHNE_GUN({
     "trEnOran": 0.0016
    },
    "sonrakiBolum": null,
+   "sonBolum": "2026-09-28"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-2710",
+   "tmdbId": 2710,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "It's Always Sunny in Philadelphia",
+   "orijinalAd": "It's Always Sunny in Philadelphia",
+   "yil": "2005",
+   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
+   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
+   "arkaplan": "/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.253,
+   "oySayisi": 1420,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q23670",
+   "wiki": {
+    "tr": "It's Always Sunny in Philadelphia",
+    "en": "It's Always Sunny in Philadelphia"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 66,
+     "onceki7": 55,
+     "degisim": 1.2
+    },
+    "en": {
+     "son7": 40088,
+     "onceki7": 38261,
+     "degisim": 1.048
+    },
+    "trEnOran": 0.0016
+   },
+   "sonrakiBolum": "2026-10-05",
    "sonBolum": "2026-09-28"
   },
   {
@@ -2266,7 +2266,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.75,
+   "puan": 8.8,
    "oySayisi": 5569,
    "platformlar": {
     "flatrate": [
@@ -2291,56 +2291,6 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-09-27"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-223911",
-   "tmdbId": 223911,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "仙逆",
-   "orijinalAd": "仙逆",
-   "yil": "2023",
-   "ozet": null,
-   "poster": "/zlJ4dqSnoraUSB821BZEGUcveP9.jpg",
-   "arkaplan": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "CN"
-   ],
-   "puan": 8.3,
-   "oySayisi": 45,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q135639525",
-   "wiki": {
-    "tr": null,
-    "en": "Renegade Immortal"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 611,
-     "onceki7": 779,
-     "degisim": 0.784
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-04",
    "sonBolum": "2026-09-27"
   },
   {
@@ -2394,6 +2344,56 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-02",
    "sonBolum": "2026-09-25"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-223911",
+   "tmdbId": 223911,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "仙逆",
+   "orijinalAd": "仙逆",
+   "yil": "2023",
+   "ozet": null,
+   "poster": "/zlJ4dqSnoraUSB821BZEGUcveP9.jpg",
+   "arkaplan": "/crn53sSGWRZ8wAtEGso52nepEkz.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "CN"
+   ],
+   "puan": 8.3,
+   "oySayisi": 45,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q135639525",
+   "wiki": {
+    "tr": null,
+    "en": "Renegade Immortal"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 611,
+     "onceki7": 779,
+     "degisim": 0.784
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-04",
+   "sonBolum": "2026-09-27"
   },
   {
    "goster": true,
@@ -2473,8 +2473,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.462,
-   "oySayisi": 211,
+   "puan": 8.45,
+   "oySayisi": 212,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2873,7 +2873,7 @@ SAHNE_GUN({
    "ulkeler": [
     "ES"
    ],
-   "puan": 7.559,
+   "puan": 7.6,
    "oySayisi": 17,
    "platformlar": {
     "flatrate": [
@@ -2919,8 +2919,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.331,
-   "oySayisi": 77,
+   "puan": 8.353,
+   "oySayisi": 78,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3003,7 +3003,7 @@ SAHNE_GUN({
    "orijinalAd": "スーパーの裏でヤニ吸うふたり",
    "yil": "2026",
    "ozet": "Yorgun bir kurumsal çalışan olan Sasaki, hayatındaki tek küçük mutluluğu sigara molalarında ve sık gittiği süpermarkette çalışan Yamada'nın sıcak ilgisinde buluyor. Zorlu bir iş gününün ardından biraz teselli aramak için markete gittiğinde Yamada'yı bulamaz, üstelik artık sigara içebileceği bir yer de kalmamıştır. Moralinin bozulduğu bu anda, \"burada içilebilir\" diyen biriyle karşılaşması, ikisi arasında beklenmedik ve tatlı bir bağın başlangıcı olur.",
-   "poster": "/v8BEP2T5OvZvbLREIxSYWaPW3yR.jpg",
+   "poster": "/aRTMLZWEtBUy4fG01aqVicRD2wx.jpg",
    "arkaplan": "/gkmE41A5ev5M299hLgX3JrWAM16.jpg",
    "turler": [
     "Animasyon",
@@ -3980,9 +3980,10 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Emma, ölüleri görebilmektedir. Ama yeğeni çıkageldiğinde binlerce hayat geri dönülmez biçimde sarsılır. Bu ürpertici mini dizi, Mariana Enriquez'in eserlerinden uyarlandı.",
    "poster": "/7Yv3av3ULmndtGYC4n0zWNVakY5.jpg",
-   "arkaplan": "/y3q1LeVYBU00ASSyjFSX9KerLzz.jpg",
+   "arkaplan": "/gvBZ7qSCsszgUX74y8VLNw2in03.jpg",
    "turler": [
-    "Dram"
+    "Dram",
+    "Bilim Kurgu & Fantazi"
    ],
    "ulkeler": [
     "AR",
