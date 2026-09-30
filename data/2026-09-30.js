@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-24",
   "bit": "2026-09-30"
  },
- "uretildi": "2026-09-30T07:15:36+03:00",
+ "uretildi": "2026-09-30T13:15:43+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -54,8 +54,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.883,
-   "oySayisi": 196,
+   "puan": 6.831,
+   "oySayisi": 201,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -275,11 +275,11 @@ SAHNE_GUN({
    "puan": 8.2,
    "oySayisi": 41,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "ads": [
      "puhutv"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q131195670",
@@ -525,8 +525,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
+   "sonrakiBolum": "2026-10-06",
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": true,
@@ -825,7 +825,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-09-28"
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": true,
@@ -957,8 +957,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
+   "sonrakiBolum": "2026-10-06",
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": true,
@@ -1083,8 +1083,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
+   "sonrakiBolum": "2026-10-06",
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": true,
@@ -1524,7 +1524,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.023,
+   "puan": 8.0,
    "oySayisi": 11040,
    "platformlar": {
     "flatrate": [
@@ -1569,7 +1569,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
    "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
-   "arkaplan": "/mdbWfpbWhvxgG3k5MHpo90UgAUe.jpg",
+   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
    "turler": [
     "Dram",
     "Gizem",
@@ -1578,8 +1578,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.3,
-   "oySayisi": 471,
+   "puan": 8.352,
+   "oySayisi": 472,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2000,7 +2000,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 8.065,
+   "puan": 8.1,
    "oySayisi": 4681,
    "platformlar": {
     "flatrate": [
@@ -2107,8 +2107,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.364,
-   "oySayisi": 3923,
+   "puan": 8.365,
+   "oySayisi": 3924,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2186,8 +2186,8 @@ SAHNE_GUN({
     },
     "trEnOran": 0.0066
    },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
+   "sonrakiBolum": "2026-10-06",
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": true,
@@ -2266,8 +2266,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.8,
-   "oySayisi": 5567,
+   "puan": 8.75,
+   "oySayisi": 5569,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -2526,8 +2526,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.9,
-   "oySayisi": 340,
+   "puan": 6.859,
+   "oySayisi": 341,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -2549,6 +2549,60 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-01",
    "sonBolum": "2026-09-24"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-82684",
+   "tmdbId": 82684,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Tensei shitara Slime Datta Ken",
+   "orijinalAd": "転生したらスライムだった件",
+   "yil": "2018",
+   "ozet": "Rimuru Tempest, 37 yaşındaki eski bir insan olan Satou Mikami’nin geçen bir soyguncu tarafından öldürüldükten sonra aldığı fantezi dünyasındaki balçığın yeni adıdır. Sıradan, boş geçmiş yaşamını geride bırakıp, eşsiz yeteneklere sahip balçık canavarı olarak yeni bir hayata başlar.",
+   "poster": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
+   "arkaplan": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
+   "turler": [
+    "Aksiyon & Macera",
+    "Animasyon",
+    "Bilim Kurgu & Fantazi",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.424,
+   "oySayisi": 992,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q61779950",
+   "wiki": {
+    "tr": null,
+    "en": "That Time I Got Reincarnated as a Slime (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 7853,
+     "onceki7": 5643,
+     "degisim": 1.392
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": false,
@@ -2579,10 +2633,10 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 816,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2647,60 +2701,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-09-26"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-82684",
-   "tmdbId": 82684,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Tensei shitara Slime Datta Ken",
-   "orijinalAd": "転生したらスライムだった件",
-   "yil": "2018",
-   "ozet": "Rimuru Tempest, 37 yaşındaki eski bir insan olan Satou Mikami’nin geçen bir soyguncu tarafından öldürüldükten sonra aldığı fantezi dünyasındaki balçığın yeni adıdır. Sıradan, boş geçmiş yaşamını geride bırakıp, eşsiz yeteneklere sahip balçık canavarı olarak yeni bir hayata başlar.",
-   "poster": "/9YcNx1dnNkZ3PZzrMqc52WjCEcw.jpg",
-   "arkaplan": "/eJOy7YWAHgOS3V477sdTsq4v9jp.jpg",
-   "turler": [
-    "Aksiyon & Macera",
-    "Animasyon",
-    "Bilim Kurgu & Fantazi",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.421,
-   "oySayisi": 990,
-   "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q61779950",
-   "wiki": {
-    "tr": null,
-    "en": "That Time I Got Reincarnated as a Slime (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 7853,
-     "onceki7": 5643,
-     "degisim": 1.392
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
   },
   {
    "goster": false,
@@ -2773,8 +2773,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.8,
-   "oySayisi": 58,
+   "puan": 6.763,
+   "oySayisi": 59,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -2984,8 +2984,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-29",
-   "sonBolum": "2026-09-22"
+   "sonrakiBolum": "2026-10-06",
+   "sonBolum": "2026-09-29"
   },
   {
    "goster": false,
@@ -3528,7 +3528,7 @@ SAHNE_GUN({
    "orijinalAd": "Youth",
    "yil": "2026",
    "ozet": null,
-   "poster": "/zKaTNcWmP2dxYnxmOAVhBvSqNy9.jpg",
+   "poster": "/bk1zbzbu0xaYQuIANv4Pe8HHyAY.jpg",
    "arkaplan": "/7pwybpJ2VSqqWgxZHTYqzRz01qH.jpg",
    "turler": [
     "Komedi",
@@ -4189,8 +4189,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TH"
    ],
-   "puan": 8.3,
-   "oySayisi": 3,
+   "puan": 6.6,
+   "oySayisi": 5,
    "platformlar": {
     "flatrate": [
      "Netflix"
