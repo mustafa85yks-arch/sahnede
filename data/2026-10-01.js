@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-25",
   "bit": "2026-10-01"
  },
- "uretildi": "2026-10-01T07:15:29+03:00",
+ "uretildi": "2026-10-01T13:16:05+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -54,8 +54,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.745,
-   "oySayisi": 222,
+   "puan": 6.7,
+   "oySayisi": 227,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -1485,7 +1485,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Galaksiler arası iki polis olan çaylak John Stewart ve Fener efsanesi Hal Jordan, Amerika'nın kalbinde işlenen bir cinayeti soruştururken kendilerini Dünya'da geçen, karanlık bir gizemin ortasında bulurlar.",
    "poster": "/jawrZGhKVSfdUtoSh2rUXFF7b8G.jpg",
-   "arkaplan": "/wJjnJbVUwPz0GADAgpFt9nWtzUu.jpg",
+   "arkaplan": "/6gqezQJ2mkm4jreWwLyOZy2Vf6i.jpg",
    "turler": [
     "Dram",
     "Gizem",
@@ -1494,8 +1494,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.355,
-   "oySayisi": 476,
+   "puan": 8.4,
+   "oySayisi": 477,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -1545,8 +1545,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.453,
-   "oySayisi": 936,
+   "puan": 8.5,
+   "oySayisi": 938,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -1655,11 +1655,11 @@ SAHNE_GUN({
    "puan": 8.429,
    "oySayisi": 1753,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -1709,11 +1709,11 @@ SAHNE_GUN({
    "puan": 8.5,
    "oySayisi": 1665,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2076,7 +2076,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.253,
+   "puan": 8.3,
    "oySayisi": 1420,
    "platformlar": {
     "flatrate": [
@@ -2238,10 +2238,10 @@ SAHNE_GUN({
    "puan": 8.75,
    "oySayisi": 5569,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2490,10 +2490,10 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 816,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2540,10 +2540,10 @@ SAHNE_GUN({
    "puan": 8.426,
    "oySayisi": 993,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2635,8 +2635,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.786,
-   "oySayisi": 63,
+   "puan": 6.797,
+   "oySayisi": 64,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -2785,7 +2785,7 @@ SAHNE_GUN({
    "ulkeler": [
     "ES"
    ],
-   "puan": 7.214,
+   "puan": 7.2,
    "oySayisi": 21,
    "platformlar": {
     "flatrate": [
@@ -3253,8 +3253,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.6,
-   "oySayisi": 111,
+   "puan": 8.634,
+   "oySayisi": 112,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -3957,8 +3957,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-30",
-   "sonBolum": "2026-09-23"
+   "sonrakiBolum": "2026-10-07",
+   "sonBolum": "2026-09-30"
   },
   {
    "goster": false,
@@ -4309,8 +4309,8 @@ SAHNE_GUN({
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-09-30",
-   "sonBolum": "2026-04-22"
+   "sonrakiBolum": "2026-10-01",
+   "sonBolum": "2026-09-30"
   }
  ]
 });
