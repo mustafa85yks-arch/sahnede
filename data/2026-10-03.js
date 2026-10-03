@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-09-27",
   "bit": "2026-10-03"
  },
- "uretildi": "2026-10-03T12:44:39+03:00",
+ "uretildi": "2026-10-03T17:36:38+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -24,7 +24,7 @@ SAHNE_GUN({
   "anime": 23,
   "wikiEslesen": 60,
   "ilgiVerisiOlan": 60,
-  "platformBilinen": 66
+  "platformBilinen": 68
  },
  "hatalar": [],
  "yapimlar": [
@@ -55,8 +55,15 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 6.3,
-   "oySayisi": 227,
-   "platformlar": {},
+   "oySayisi": 229,
+   "platformlar": {
+    "buy": [
+     "Apple TV Store"
+    ],
+    "flatrate": [
+     "MUBI"
+    ]
+   },
    "wikidata": "Q134434223",
    "wiki": {
     "tr": null,
@@ -99,9 +106,13 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.846,
-   "oySayisi": 13,
-   "platformlar": {},
+   "puan": 6.4,
+   "oySayisi": 16,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
    "wikidata": "Q141410306",
    "wiki": {
     "tr": null,
@@ -313,7 +324,7 @@ SAHNE_GUN({
     "TR"
    ],
    "puan": 5.0,
-   "oySayisi": 2,
+   "oySayisi": 3,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1045,7 +1056,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-10-01"
+   "sonBolum": "2026-10-02"
   },
   {
    "goster": true,
@@ -1997,7 +2008,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.077,
-   "oySayisi": 6207,
+   "oySayisi": 6208,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2615,10 +2626,10 @@ SAHNE_GUN({
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Kill Jackie",
+   "ad": "KILL JACKIE",
    "orijinalAd": "Kill Jackie",
    "yil": "2026",
-   "ozet": "20 yıldır sessiz, lüks ama sıkıcı bir hayat süren eski kokain satıcısı Jackie Price, sıradan bir kararla beklenmedik olaylar yaşanınca, seçkin suikastçı ekibi Yedi Şeytan'ın kendisini öldürmek için görevlendirildiğini öğrenir. Jackie, onları avlamak için Avrupa'da çılgın bir yolculuğa çıkar ama kısa süre sonra kendi şeytanlarının çok daha korkunç olduğunu fark eder…",
+   "ozet": "20 yıldır sessiz, lüks ama sıkıcı bir hayat süren eski kokain satıcısı Jackie Price, sıradan bir kararla beklenmedik olaylar yaşanınca, seçkin suikastçı ekibi Yedi Şeytan'ın kendisini öldürmek için görevlendirildiğini öğrenir. Jackie, onları avlamak için Avrupa'da çılgın bir yolculuğa çıkar ama kısa süre sonra kendi şeytanlarının çok daha korkunç olduğunu fark eder...",
    "poster": "/adLvi3u7HhgpRwL4e389YnWkvhm.jpg",
    "arkaplan": "/bbX3UIghhjJG6BW7WOGqxn4iySh.jpg",
    "turler": [
@@ -2680,12 +2691,12 @@ SAHNE_GUN({
     "JP"
    ],
    "puan": 8.8,
-   "oySayisi": 5574,
+   "oySayisi": 5575,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2934,14 +2945,14 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 1353,
+   "puan": 8.392,
+   "oySayisi": 1354,
    "platformlar": {
-    "flatrate": [
-     "Disney Plus",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Disney Plus",
      "Crunchyroll"
     ]
    },
@@ -3219,8 +3230,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.8,
-   "oySayisi": 65,
+   "puan": 6.788,
+   "oySayisi": 66,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -3897,8 +3908,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.614,
-   "oySayisi": 22,
+   "puan": 7.587,
+   "oySayisi": 23,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4486,10 +4497,10 @@ SAHNE_GUN({
    "puan": 8.3,
    "oySayisi": 126,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4535,7 +4546,7 @@ SAHNE_GUN({
    "ulkeler": [
     "GB"
    ],
-   "puan": 7.556,
+   "puan": 7.6,
    "oySayisi": 9,
    "platformlar": {
     "flatrate": [
