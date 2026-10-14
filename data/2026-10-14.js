@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-08",
   "bit": "2026-10-14"
  },
- "uretildi": "2026-10-14T12:22:58+03:00",
+ "uretildi": "2026-10-14T17:56:46+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -45,7 +45,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Bir grup eski çocukluk arkadaşı tekrar bir araya gelir. Ancak tesadüfen tehlikeli, uluslararası bir komployu keşfettiklerinde buluşmaları çılgın bir hâl alır ve dünyayı kurtarmaları gerekir.",
    "poster": "/lFKA4GMz36dImEy3DQPdPF7G4V9.jpg",
-   "arkaplan": "/roawIpy5sigBB7LsU4AJDw70jPo.jpg",
+   "arkaplan": "/y6RIuwuxLG3Nsb37KUj5yatnTIp.jpg",
    "turler": [
     "Aksiyon",
     "Komedi",
@@ -54,8 +54,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.911,
-   "oySayisi": 285,
+   "puan": 7.9,
+   "oySayisi": 292,
    "platformlar": {},
    "wikidata": "Q131872896",
    "wiki": {
@@ -149,7 +149,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.478,
+   "puan": 7.5,
    "oySayisi": 484,
    "platformlar": {
     "flatrate": [
@@ -1430,7 +1430,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-20",
    "sonBolum": "2026-10-13"
   },
   {
@@ -1593,8 +1593,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-06"
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
   },
   {
    "goster": false,
@@ -1926,8 +1926,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.507,
-   "oySayisi": 1023,
+   "puan": 8.5,
+   "oySayisi": 1025,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2192,8 +2192,8 @@ SAHNE_GUN({
     "CA",
     "GB"
    ],
-   "puan": 7.307,
-   "oySayisi": 101,
+   "puan": 7.286,
+   "oySayisi": 105,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2348,12 +2348,12 @@ SAHNE_GUN({
    "puan": 8.254,
    "oySayisi": 1282,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q19848860",
@@ -2504,11 +2504,11 @@ SAHNE_GUN({
    "puan": 8.545,
    "oySayisi": 1676,
    "platformlar": {
-    "flatrate": [
-     "Netflix",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Netflix",
      "Crunchyroll"
     ]
    },
@@ -2608,7 +2608,7 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 8.875,
+   "puan": 8.9,
    "oySayisi": 8,
    "platformlar": {
     "flatrate": [
@@ -2797,7 +2797,7 @@ SAHNE_GUN({
    "yil": "2010",
    "ozet": null,
    "poster": "/9nLBX5Bf7PW4FAaWJLXpFFdeTlV.jpg",
-   "arkaplan": "/YaQ8YhHYpLkH3e7FRwBkcGoJhS.jpg",
+   "arkaplan": "/2ugy3IP3yvdRdEepHDOml82TKFT.jpg",
    "turler": [
     "Aksiyon & Macera",
     "Dram",
@@ -3277,11 +3277,11 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 1361,
    "platformlar": {
-    "flatrate": [
-     "Disney Plus",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Disney Plus",
      "Crunchyroll"
     ]
    },
@@ -3608,8 +3608,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.877,
-   "oySayisi": 106,
+   "puan": 7.9,
+   "oySayisi": 107,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3940,8 +3940,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.2,
-   "oySayisi": 130,
+   "puan": 8.221,
+   "oySayisi": 131,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4181,8 +4181,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.652,
-   "oySayisi": 115,
+   "puan": 7.655,
+   "oySayisi": 116,
    "platformlar": {
     "flatrate": [
      "Netflix",
