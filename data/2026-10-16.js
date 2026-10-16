@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-10",
   "bit": "2026-10-16"
  },
- "uretildi": "2026-10-16T11:51:22+03:00",
+ "uretildi": "2026-10-16T17:39:38+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,14 +17,14 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 93,
-  "turk": 33,
-  "yabanci": 60,
+  "toplam": 92,
+  "turk": 34,
+  "yabanci": 58,
   "gosterilen": 76,
-  "anime": 15,
-  "wikiEslesen": 64,
-  "ilgiVerisiOlan": 62,
-  "platformBilinen": 66
+  "anime": 14,
+  "wikiEslesen": 63,
+  "ilgiVerisiOlan": 61,
+  "platformBilinen": 64
  },
  "hatalar": [],
  "yapimlar": [
@@ -45,7 +45,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Olağanüstü gerçek bir hikâyeden uyarlanan bu film, Everest'in zirvesine ulaşan ilk insan olma hayalinin peşinden giden ve aşılması imkânsız gibi görünen tüm engellere meydan okuyan kararlı bir adamın nefes kesen mücadelesini konu alıyor.",
    "poster": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-   "arkaplan": "/9MdxBPjI58xkzA7RtKX9xRKvlZp.jpg",
+   "arkaplan": "/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
    "turler": [
     "Dram",
     "Tarih"
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.2,
-   "oySayisi": 4,
+   "puan": 7.0,
+   "oySayisi": 5,
    "platformlar": {},
    "wikidata": "Q134386482",
    "wiki": {
@@ -232,11 +232,11 @@ SAHNE_GUN({
    "puan": 8.391,
    "oySayisi": 46,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "ads": [
      "puhutv"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q131195670",
@@ -528,7 +528,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-18",
    "sonBolum": "2026-10-11"
   },
   {
@@ -1103,29 +1103,27 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-320754",
-   "tmdbId": 320754,
+   "id": "dizi-305062",
+   "tmdbId": 305062,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Organize İşler: Karun Hazinesi",
-   "orijinalAd": "Organize İşler: Karun Hazinesi",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
-   "arkaplan": "/yesmSpUREsDdSXgRe0L6l8PPw1c.jpg",
+   "ad": "Karma",
+   "orijinalAd": "Karma",
+   "yil": "2025",
+   "ozet": "30’lu yaşların sonunda olan ve aynı evi paylaşan iki yakın arkadaş Erman ve Ozan’ın hayatları, dışarıdan bakıldığında düzenli ve sıradan görünür. Fakat yaşadıkları apartman ve çevresindeki insanlar yüzünden her günleri hiç ummadıkları bir kaosa dönüşür. “Karma”, sakin tavırları ve çözüm odaklı bakışlarıyla bu kaosun üstesinden gelen iki arkadaşın hikayesini anlatıyor.",
+   "poster": "/hhsoEvFlf8R4ivCWEsusaovmkMG.jpg",
+   "arkaplan": "/6kLHb8RIxJrKaawzp4Sm0cy4jaY.jpg",
    "turler": [
-    "Komedi",
-    "Suç",
-    "Aksiyon & Macera"
+    "Komedi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 0.0,
-   "oySayisi": 0,
+   "puan": 4.0,
+   "oySayisi": 4,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1138,7 +1136,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": "2026-10-16",
-   "sonBolum": null
+   "sonBolum": "2026-10-09"
   },
   {
    "goster": true,
@@ -1185,6 +1183,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-301090",
+   "tmdbId": 301090,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Konuşanlar - Disney+",
+   "orijinalAd": "Konuşanlar - Disney+",
+   "yil": "2025",
+   "ozet": "‘Konuşanlar’, komedyen Hasan Can Kaya’nın eşsiz mizahı ve kıvrak zekasıyla sıradan insanların en komik, sıra dışı ve absürt hikayelerini sahneye taşıyor. Samimiyetin ve filtresiz mizahın tavan yaptığı, kahkahanın dinmediği bu talk show itiraflar ve farklı sürprizlerle dolu. Hasan Can Kaya, en cesur 'konuşanları' seçiyor, spontane şakaları ve sorularıyla kahkaha tufanının fitilini ateşliyor.",
+   "poster": "/uHnTjj3OYiJ50Kn9P1Cb3Wd2RqJ.jpg",
+   "arkaplan": "/exyrUEUANQAMgZQgL8UvBoTYDm0.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 4.0,
+   "oySayisi": 3,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-09"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-320916",
    "tmdbId": 320916,
    "tur": "dizi",
@@ -1225,46 +1263,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-332679",
-   "tmdbId": 332679,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Sevdan Bir Ateş",
-   "orijinalAd": "Sevdan Bir Ateş",
-   "yil": "2026",
-   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
-   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
-   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": "Q141452320",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-21",
-   "sonBolum": "2026-10-14"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
    "id": "dizi-332614",
    "tmdbId": 332614,
    "tur": "dizi",
@@ -1299,6 +1297,46 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-20",
    "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-332679",
+   "tmdbId": 332679,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Sevdan Bir Ateş",
+   "orijinalAd": "Sevdan Bir Ateş",
+   "yil": "2026",
+   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
+   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
+   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": "Q141452320",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-21",
+   "sonBolum": "2026-10-14"
   },
   {
    "goster": true,
@@ -1470,47 +1508,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-333426",
-   "tmdbId": 333426,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "RUSH",
-   "orijinalAd": "RUSH",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/jMJcQVWaireZnAtNjld1oBMRbmC.jpg",
-   "arkaplan": "/2vqCaMHR1l9hylz7UDFrUIVJJCo.jpg",
-   "turler": [
-    "Gerçeklik",
-    "Talk"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-14"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
    "id": "dizi-317839",
    "tmdbId": 317839,
    "tur": "dizi",
@@ -1543,6 +1540,47 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-333426",
+   "tmdbId": 333426,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "RUSH",
+   "orijinalAd": "RUSH",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/7Du9TCPXo8yp29P4qCv0V7KjDLj.jpg",
+   "arkaplan": "/2vqCaMHR1l9hylz7UDFrUIVJJCo.jpg",
+   "turler": [
+    "Gerçeklik",
+    "Talk"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-14"
   },
   {
    "goster": true,
@@ -1796,8 +1834,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.507,
-   "oySayisi": 1032,
+   "puan": 8.508,
+   "oySayisi": 1036,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2065,13 +2103,13 @@ SAHNE_GUN({
    "puan": 8.422,
    "oySayisi": 2646,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Netflix",
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q13218686",
@@ -2167,8 +2205,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.2,
-   "oySayisi": 2870,
+   "puan": 8.223,
+   "oySayisi": 2873,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2224,10 +2262,10 @@ SAHNE_GUN({
    "puan": 8.7,
    "oySayisi": 668,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -2432,13 +2470,13 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.299,
-   "oySayisi": 2824,
+   "oySayisi": 2825,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "TV+"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q111967146",
@@ -2483,7 +2521,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.25,
-   "oySayisi": 1437,
+   "oySayisi": 1438,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2536,8 +2574,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 8.9,
-   "oySayisi": 8,
+   "puan": 9.0,
+   "oySayisi": 9,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2737,7 +2775,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.955,
+   "puan": 8.0,
    "oySayisi": 398,
    "platformlar": {
     "flatrate": [
@@ -3246,11 +3284,11 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 1361,
    "platformlar": {
-    "flatrate": [
-     "Disney Plus",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Disney Plus",
      "Crunchyroll"
     ]
    },
@@ -3445,10 +3483,10 @@ SAHNE_GUN({
    "puan": 8.1,
    "oySayisi": 137,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3542,8 +3580,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.453,
-   "oySayisi": 182,
+   "puan": 6.5,
+   "oySayisi": 183,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3572,49 +3610,48 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-302074",
-   "tmdbId": 302074,
+   "id": "dizi-34634",
+   "tmdbId": 34634,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "R.J. Decker",
-   "orijinalAd": "R.J. Decker",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
-   "arkaplan": "/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
+   "ad": "Altın Peşinde",
+   "orijinalAd": "Gold Rush",
+   "yil": "2010",
+   "ozet": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
+   "poster": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
+   "arkaplan": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
    "turler": [
-    "Suç",
-    "Gizem"
+    "Gerçeklik"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.508,
-   "oySayisi": 61,
+   "puan": 7.2,
+   "oySayisi": 195,
    "platformlar": {
     "flatrate": [
-     "Disney Plus"
+     "HBO Max"
     ]
    },
-   "wikidata": "Q138555024",
+   "wikidata": "Q1535987",
    "wiki": {
     "tr": null,
-    "en": "R.J. Decker"
+    "en": "Gold Rush (TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 19840,
-     "onceki7": 23714,
-     "degisim": 0.837
+     "son7": 5814,
+     "onceki7": 6798,
+     "degisim": 0.855
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
+   "sonrakiBolum": "2026-10-16",
+   "sonBolum": "2026-10-09"
   },
   {
    "goster": true,
@@ -3672,195 +3709,6 @@ SAHNE_GUN({
    "sonBolum": "2026-10-14"
   },
   {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-255055",
-   "tmdbId": 255055,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Doc",
-   "orijinalAd": "Doc",
-   "yil": "2025",
-   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
-   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.4,
-   "oySayisi": 78,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q129676773",
-   "wiki": {
-    "tr": null,
-    "en": "Doc (2025 TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 25461,
-     "onceki7": 32586,
-     "degisim": 0.781
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-205272",
-   "tmdbId": 205272,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Reasonable Doubt",
-   "orijinalAd": "Reasonable Doubt",
-   "yil": "2022",
-   "ozet": "Jax Stewart'ı sorgulatıcı ahlak anlayışı ve yasaları çılgınca yorumlaması nedeniyle yargılayacaksınız... ta ki başınız belaya girene kadar. O zaman onun ne olduğunu göreceksiniz: Los Angeles'ın en zeki ve korkusuz savunma avukatı, bulduğu her fırsatta adalet sistemine karşı gelir.",
-   "poster": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
-   "arkaplan": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 6.1,
-   "oySayisi": 67,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q113993929",
-   "wiki": {
-    "tr": null,
-    "en": "Reasonable Doubt (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 20998,
-     "onceki7": 16447,
-     "degisim": 1.277
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-34634",
-   "tmdbId": 34634,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Altın Peşinde",
-   "orijinalAd": "Gold Rush",
-   "yil": "2010",
-   "ozet": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
-   "poster": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
-   "arkaplan": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.2,
-   "oySayisi": 195,
-   "platformlar": {
-    "flatrate": [
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q1535987",
-   "wiki": {
-    "tr": null,
-    "en": "Gold Rush (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 5814,
-     "onceki7": 6798,
-     "degisim": 0.855
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-16",
-   "sonBolum": "2026-10-09"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-207347",
-   "tmdbId": 207347,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Blue Box",
-   "orijinalAd": "アオのハコ",
-   "yil": "2024",
-   "ozet": "Badminton oyuncusu Taiki, basketbol yıldızı Chinatsu'ya uzaktan da olsa hayranlık duymaktadır. Ancak bir bahar günü, şaşırtıcı bir gelişme onları beklenmedik şekilde yakınlaştırır.",
-   "poster": "/shXf4cTKUbMpx5AVBKi4V0dMwY3.jpg",
-   "arkaplan": "/8p39Ud6ZKMixBQ7R4frg2o3idzc.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 7.9,
-   "oySayisi": 107,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q123484832",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-18",
-   "sonBolum": "2026-10-11"
-  },
-  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": false,
@@ -3911,152 +3759,48 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-256695",
-   "tmdbId": 256695,
+   "id": "dizi-255055",
+   "tmdbId": 255055,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Sürekli Dizi: Kayıp Kasetler",
-   "orijinalAd": "Regular Show: The Lost Tapes",
-   "yil": "2026",
-   "ozet": "İki yakın arkadaş olan Mordecai ve Rigby yerel bir parkta çalışırlar ve onlar için sıradan işler her zaman gerçek dışı bir kaosa dönüşür.",
-   "poster": "/bvZDxWM2uiDp15iVVhHHfvpOADm.jpg",
-   "arkaplan": "/Zk5UmvJ634LhA56R18h8RfipFG.jpg",
+   "ad": "Doc",
+   "orijinalAd": "Doc",
+   "yil": "2025",
+   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
+   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
    "turler": [
-    "Animasyon",
-    "Komedi",
-    "Aksiyon & Macera",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 9.6,
-   "oySayisi": 123,
-   "platformlar": {
-    "flatrate": [
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q138821480",
-   "wiki": {
-    "tr": "Sürekli Dizi: Kayıp Kasetler",
-    "en": "Regular Show: The Lost Tapes"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 111,
-     "onceki7": 138,
-     "degisim": 0.804
-    },
-    "en": {
-     "son7": 12373,
-     "onceki7": 10312,
-     "degisim": 1.2
-    },
-    "trEnOran": 0.009
-   },
-   "sonrakiBolum": "2026-10-17",
-   "sonBolum": "2026-10-10"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-289560",
-   "tmdbId": 289560,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "CIA",
-   "orijinalAd": "CIA",
-   "yil": "2026",
-   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
-   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
-   "turler": [
-    "Suç",
     "Dram"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 8.449,
-   "oySayisi": 137,
+   "puan": 7.4,
+   "oySayisi": 78,
    "platformlar": {
     "flatrate": [
      "TOD TV"
     ]
    },
-   "wikidata": "Q137176858",
+   "wikidata": "Q129676773",
    "wiki": {
     "tr": null,
-    "en": "CIA (TV series)"
+    "en": "Doc (2025 TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 21577,
-     "onceki7": 21629,
-     "degisim": 0.998
+     "son7": 25461,
+     "onceki7": 32586,
+     "degisim": 0.781
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-19",
-   "sonBolum": "2026-10-12"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-154521",
-   "tmdbId": 154521,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "The Kardashians",
-   "orijinalAd": "The Kardashians",
-   "yil": "2022",
-   "ozet": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
-   "poster": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
-   "arkaplan": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.5,
-   "oySayisi": 2137,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q111160190",
-   "wiki": {
-    "tr": null,
-    "en": "The Kardashians"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 10960,
-     "onceki7": 8178,
-     "degisim": 1.34
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-22",
-   "sonBolum": "2026-10-15"
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
   },
   {
    "goster": false,
@@ -4153,6 +3897,55 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-289560",
+   "tmdbId": 289560,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "CIA",
+   "orijinalAd": "CIA",
+   "yil": "2026",
+   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
+   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.449,
+   "oySayisi": 137,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q137176858",
+   "wiki": {
+    "tr": null,
+    "en": "CIA (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 21577,
+     "onceki7": 21629,
+     "degisim": 0.998
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-19",
+   "sonBolum": "2026-10-12"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-314939",
    "tmdbId": 314939,
    "tur": "dizi",
@@ -4222,7 +4015,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.6,
+   "puan": 8.629,
    "oySayisi": 70,
    "platformlar": {
     "flatrate": [
@@ -4237,6 +4030,54 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-154521",
+   "tmdbId": 154521,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "The Kardashians",
+   "orijinalAd": "The Kardashians",
+   "yil": "2022",
+   "ozet": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
+   "poster": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
+   "arkaplan": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+   "turler": [
+    "Gerçeklik"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.5,
+   "oySayisi": 2137,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q111160190",
+   "wiki": {
+    "tr": null,
+    "en": "The Kardashians"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 10960,
+     "onceki7": 8178,
+     "degisim": 1.34
+    },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-10-22",
@@ -4330,6 +4171,110 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-302074",
+   "tmdbId": 302074,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "R.J. Decker",
+   "orijinalAd": "R.J. Decker",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/iNOXveSqB5tUTmGKxp5flQuQ72f.jpg",
+   "arkaplan": "/uahJs4jteV8pfVXPlBgBzjmoqFa.jpg",
+   "turler": [
+    "Suç",
+    "Gizem"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.508,
+   "oySayisi": 61,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q138555024",
+   "wiki": {
+    "tr": null,
+    "en": "R.J. Decker"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 19840,
+     "onceki7": 23714,
+     "degisim": 0.837
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-256695",
+   "tmdbId": 256695,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Sürekli Dizi: Kayıp Kasetler",
+   "orijinalAd": "Regular Show: The Lost Tapes",
+   "yil": "2026",
+   "ozet": "İki yakın arkadaş olan Mordecai ve Rigby yerel bir parkta çalışırlar ve onlar için sıradan işler her zaman gerçek dışı bir kaosa dönüşür.",
+   "poster": "/bvZDxWM2uiDp15iVVhHHfvpOADm.jpg",
+   "arkaplan": "/Zk5UmvJ634LhA56R18h8RfipFG.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Aksiyon & Macera",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 9.6,
+   "oySayisi": 123,
+   "platformlar": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q138821480",
+   "wiki": {
+    "tr": "Sürekli Dizi: Kayıp Kasetler",
+    "en": "Regular Show: The Lost Tapes"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 111,
+     "onceki7": 138,
+     "degisim": 0.804
+    },
+    "en": {
+     "son7": 12373,
+     "onceki7": 10312,
+     "degisim": 1.2
+    },
+    "trEnOran": 0.009
+   },
+   "sonrakiBolum": "2026-10-17",
+   "sonBolum": "2026-10-10"
   },
   {
    "goster": true,
@@ -4434,49 +4379,48 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-284736",
-   "tmdbId": 284736,
+   "id": "dizi-205272",
+   "tmdbId": 205272,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Boston Blue",
-   "orijinalAd": "Boston Blue",
-   "yil": "2025",
-   "ozet": "“Blue Bloods”ın sevilen karakteri Danny Reagan’ın hikayesi şimdi Boston’da devam ediyor! Danny, yeni ortağı Lena Silver'la birlikte suçun merkezine inerken sırlarla dolu bir ailenin içine çekilir. \"Boston Blue\" aile, görev ve sadakat temalarını yeni bir şehirde taze bir hikayeye dönüştürüyor.",
-   "poster": "/81IhL3ckAgJ9J8vHazlUA5BNs8G.jpg",
-   "arkaplan": "/lU3esiXkPlIccL8FUcrSE7LzOzy.jpg",
+   "ad": "Reasonable Doubt",
+   "orijinalAd": "Reasonable Doubt",
+   "yil": "2022",
+   "ozet": "Jax Stewart'ı sorgulatıcı ahlak anlayışı ve yasaları çılgınca yorumlaması nedeniyle yargılayacaksınız... ta ki başınız belaya girene kadar. O zaman onun ne olduğunu göreceksiniz: Los Angeles'ın en zeki ve korkusuz savunma avukatı, bulduğu her fırsatta adalet sistemine karşı gelir.",
+   "poster": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
+   "arkaplan": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
    "turler": [
-    "Suç",
     "Dram"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.047,
-   "oySayisi": 75,
+   "puan": 6.1,
+   "oySayisi": 67,
    "platformlar": {
     "flatrate": [
-     "TOD TV"
+     "Disney Plus"
     ]
    },
-   "wikidata": "Q133262326",
+   "wikidata": "Q113993929",
    "wiki": {
     "tr": null,
-    "en": "Boston Blue"
+    "en": "Reasonable Doubt (TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 22364,
-     "onceki7": 16736,
-     "degisim": 1.336
+     "son7": 20998,
+     "onceki7": 16447,
+     "degisim": 1.277
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-16",
-   "sonBolum": "2026-10-09"
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
   }
  ]
 });
