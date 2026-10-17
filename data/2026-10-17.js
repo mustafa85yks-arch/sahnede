@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-11",
   "bit": "2026-10-17"
  },
- "uretildi": "2026-10-17T16:31:16+03:00",
+ "uretildi": "2026-10-17T21:17:13+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,14 +17,14 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 94,
+  "toplam": 96,
   "turk": 34,
-  "yabanci": 60,
-  "gosterilen": 78,
-  "anime": 13,
-  "wikiEslesen": 62,
-  "ilgiVerisiOlan": 60,
-  "platformBilinen": 65
+  "yabanci": 62,
+  "gosterilen": 79,
+  "anime": 15,
+  "wikiEslesen": 64,
+  "ilgiVerisiOlan": 62,
+  "platformBilinen": 68
  },
  "hatalar": [],
  "yapimlar": [
@@ -91,7 +91,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "Olağanüstü gerçek bir hikâyeden uyarlanan bu film, Everest'in zirvesine ulaşan ilk insan olma hayalinin peşinden giden ve aşılması imkânsız gibi görünen tüm engellere meydan okuyan kararlı bir adamın nefes kesen mücadelesini konu alıyor.",
    "poster": "/eI0QW02PYqhnmIvLRdn9vrfVVP7.jpg",
-   "arkaplan": "/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+   "arkaplan": "/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
    "turler": [
     "Dram",
     "Tarih"
@@ -99,8 +99,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.917,
-   "oySayisi": 24,
+   "puan": 8.0,
+   "oySayisi": 28,
    "platformlar": {},
    "wikidata": "Q134386482",
    "wiki": {
@@ -120,10 +120,10 @@ SAHNE_GUN({
    "sonBolum": null
   },
   {
-   "goster": false,
+   "goster": true,
    "kategori": null,
    "sinyalVar": false,
-   "yeniSayilir": false,
+   "yeniSayilir": true,
    "id": "film-1512493",
    "tmdbId": 1512493,
    "tur": "film",
@@ -131,10 +131,10 @@ SAHNE_GUN({
    "listeler": [
     "dijital-cikis"
    ],
-   "ad": "LEGO Friends: Heartlake the Musical",
+   "ad": "LEGO Friends: Heartlake Müzikali",
    "orijinalAd": "LEGO Friends: Heartlake the Musical",
    "yil": "2026",
-   "ozet": null,
+   "ozet": "Lego parçalarından bir dünya kuran genç bir kız, kendini bir anda macera ve dostlukla dolu Heartlake City'de bulur.",
    "poster": "/6PMMEU8eHSN0TlPG6koC8EEvavx.jpg",
    "arkaplan": "/AabTg6wBsygQYoyOqpbe6miWovJ.jpg",
    "turler": [
@@ -147,7 +147,11 @@ SAHNE_GUN({
    ],
    "puan": 0.0,
    "oySayisi": 0,
-   "platformlar": {},
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
    "wikidata": null,
    "wiki": {
     "tr": null,
@@ -278,11 +282,11 @@ SAHNE_GUN({
    "puan": 8.391,
    "oySayisi": 46,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "ads": [
      "puhutv"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q131195670",
@@ -1151,86 +1155,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-238522",
-   "tmdbId": 238522,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Kod Adı: Kırlangıç",
-   "orijinalAd": "Kod Adı: Kırlangıç",
-   "yil": "2023",
-   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
-   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
-   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
-   "turler": [
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 10.0,
-   "oySayisi": 1,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-18",
-   "sonBolum": "2026-10-11"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-305062",
-   "tmdbId": 305062,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Karma",
-   "orijinalAd": "Karma",
-   "yil": "2025",
-   "ozet": "30’lu yaşların sonunda olan ve aynı evi paylaşan iki yakın arkadaş Erman ve Ozan’ın hayatları, dışarıdan bakıldığında düzenli ve sıradan görünür. Fakat yaşadıkları apartman ve çevresindeki insanlar yüzünden her günleri hiç ummadıkları bir kaosa dönüşür. “Karma”, sakin tavırları ve çözüm odaklı bakışlarıyla bu kaosun üstesinden gelen iki arkadaşın hikayesini anlatıyor.",
-   "poster": "/hhsoEvFlf8R4ivCWEsusaovmkMG.jpg",
-   "arkaplan": "/6kLHb8RIxJrKaawzp4Sm0cy4jaY.jpg",
-   "turler": [
-    "Komedi"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 4.0,
-   "oySayisi": 4,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
    "id": "dizi-329662",
    "tmdbId": 329662,
    "tur": "dizi",
@@ -1271,27 +1195,27 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-301090",
-   "tmdbId": 301090,
+   "id": "dizi-238522",
+   "tmdbId": 238522,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Konuşanlar - Disney+",
-   "orijinalAd": "Konuşanlar - Disney+",
-   "yil": "2025",
-   "ozet": "‘Konuşanlar’, komedyen Hasan Can Kaya’nın eşsiz mizahı ve kıvrak zekasıyla sıradan insanların en komik, sıra dışı ve absürt hikayelerini sahneye taşıyor. Samimiyetin ve filtresiz mizahın tavan yaptığı, kahkahanın dinmediği bu talk show itiraflar ve farklı sürprizlerle dolu. Hasan Can Kaya, en cesur 'konuşanları' seçiyor, spontane şakaları ve sorularıyla kahkaha tufanının fitilini ateşliyor.",
-   "poster": "/uHnTjj3OYiJ50Kn9P1Cb3Wd2RqJ.jpg",
-   "arkaplan": "/exyrUEUANQAMgZQgL8UvBoTYDm0.jpg",
+   "ad": "Kod Adı: Kırlangıç",
+   "orijinalAd": "Kod Adı: Kırlangıç",
+   "yil": "2023",
+   "ozet": "Aynı mahallede yaşayan çocukların ortak merakı teknolojidir. Drone tasarlamak için bir araya gelen çocuklara yardım edenler de olur, onları engellemeye çalışan kötüler de…",
+   "poster": "/zCdzrmQL1GKy7bsj2gh5t3wxHS6.jpg",
+   "arkaplan": "/v1OzlMem6bMPcG4dT9BJSeibXDG.jpg",
    "turler": [
-    "Komedi"
+    "Aksiyon & Macera"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 4.0,
-   "oySayisi": 3,
+   "puan": 10.0,
+   "oySayisi": 1,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1303,8 +1227,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-16"
+   "sonrakiBolum": "2026-10-18",
+   "sonBolum": "2026-10-11"
   },
   {
    "goster": true,
@@ -1351,29 +1275,29 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-332614",
-   "tmdbId": 332614,
+   "id": "dizi-305062",
+   "tmdbId": 305062,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Haysiyet",
-   "orijinalAd": "Haysiyet",
-   "yil": "2026",
-   "ozet": "Haysiyet, birbirine taban tabana zıt iki ailenin çatışmasını ve bu çatışmanın ortasında filizlenen imkânsız bir aşkı ekranlara taşıyacak. Doğukan Güngör’ün hayat verdiği Mehmet ise hedefleri ve idealleri olan; ancak ne olursa olsun doğrularından taviz vermeyen bir mahalle delikanlısı olarak izleyici karşısına çıkacak. Karakterin en büyük sınavı ise aşkıyla haysiyeti arasında yapacağı zorlu seçim olacak.",
-   "poster": "/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
-   "arkaplan": "/AexnPrejMj0HYOIZnf1nuaSxLeJ.jpg",
+   "ad": "Karma",
+   "orijinalAd": "Karma",
+   "yil": "2025",
+   "ozet": "30’lu yaşların sonunda olan ve aynı evi paylaşan iki yakın arkadaş Erman ve Ozan’ın hayatları, dışarıdan bakıldığında düzenli ve sıradan görünür. Fakat yaşadıkları apartman ve çevresindeki insanlar yüzünden her günleri hiç ummadıkları bir kaosa dönüşür. “Karma”, sakin tavırları ve çözüm odaklı bakışlarıyla bu kaosun üstesinden gelen iki arkadaşın hikayesini anlatıyor.",
+   "poster": "/hhsoEvFlf8R4ivCWEsusaovmkMG.jpg",
+   "arkaplan": "/6kLHb8RIxJrKaawzp4Sm0cy4jaY.jpg",
    "turler": [
-    "Dram"
+    "Komedi"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 3.5,
-   "oySayisi": 2,
+   "puan": 4.0,
+   "oySayisi": 4,
    "platformlar": {},
-   "wikidata": "Q141549783",
+   "wikidata": null,
    "wiki": {
     "tr": null,
     "en": null
@@ -1383,8 +1307,48 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-301090",
+   "tmdbId": 301090,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Konuşanlar - Disney+",
+   "orijinalAd": "Konuşanlar - Disney+",
+   "yil": "2025",
+   "ozet": "‘Konuşanlar’, komedyen Hasan Can Kaya’nın eşsiz mizahı ve kıvrak zekasıyla sıradan insanların en komik, sıra dışı ve absürt hikayelerini sahneye taşıyor. Samimiyetin ve filtresiz mizahın tavan yaptığı, kahkahanın dinmediği bu talk show itiraflar ve farklı sürprizlerle dolu. Hasan Can Kaya, en cesur 'konuşanları' seçiyor, spontane şakaları ve sorularıyla kahkaha tufanının fitilini ateşliyor.",
+   "poster": "/uHnTjj3OYiJ50Kn9P1Cb3Wd2RqJ.jpg",
+   "arkaplan": "/exyrUEUANQAMgZQgL8UvBoTYDm0.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 4.0,
+   "oySayisi": 3,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-16"
   },
   {
    "goster": true,
@@ -1431,6 +1395,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-332614",
+   "tmdbId": 332614,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Haysiyet",
+   "orijinalAd": "Haysiyet",
+   "yil": "2026",
+   "ozet": "Haysiyet, birbirine taban tabana zıt iki ailenin çatışmasını ve bu çatışmanın ortasında filizlenen imkânsız bir aşkı ekranlara taşıyacak. Doğukan Güngör’ün hayat verdiği Mehmet ise hedefleri ve idealleri olan; ancak ne olursa olsun doğrularından taviz vermeyen bir mahalle delikanlısı olarak izleyici karşısına çıkacak. Karakterin en büyük sınavı ise aşkıyla haysiyeti arasında yapacağı zorlu seçim olacak.",
+   "poster": "/1N3EctW7cweMUbq3aQZyV0GEEZH.jpg",
+   "arkaplan": "/AexnPrejMj0HYOIZnf1nuaSxLeJ.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 3.5,
+   "oySayisi": 2,
+   "platformlar": {},
+   "wikidata": "Q141549783",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-333821",
    "tmdbId": 333821,
    "tur": "dizi",
@@ -1466,6 +1470,44 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-20",
    "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-327524",
+   "tmdbId": 327524,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Hikayeden Adamlar",
+   "orijinalAd": "Hikayeden Adamlar",
+   "yil": "2024",
+   "ozet": "Radyonun Resimlisi",
+   "poster": "/rKaCi4PHCBklfno0nxXtedOBOkq.jpg",
+   "arkaplan": null,
+   "turler": [],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
   },
   {
    "goster": false,
@@ -1507,44 +1549,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-17",
    "sonBolum": "2026-10-14"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-327524",
-   "tmdbId": 327524,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Hikayeden Adamlar",
-   "orijinalAd": "Hikayeden Adamlar",
-   "yil": "2024",
-   "ozet": "Radyonun Resimlisi",
-   "poster": "/rKaCi4PHCBklfno0nxXtedOBOkq.jpg",
-   "arkaplan": null,
-   "turler": [],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
   },
   {
    "goster": true,
@@ -1696,17 +1700,17 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.96,
-   "oySayisi": 4380,
+   "puan": 7.959,
+   "oySayisi": 4379,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "Netflix",
      "Amazon Prime Video",
      "Disney Plus",
      "TOD TV"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q218567",
@@ -1755,15 +1759,15 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.289,
-   "oySayisi": 734,
+   "puan": 7.3,
+   "oySayisi": 733,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q321423",
@@ -1922,8 +1926,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.518,
-   "oySayisi": 1045,
+   "puan": 8.5,
+   "oySayisi": 1044,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2030,11 +2034,11 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 2450,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q1187416",
@@ -2113,60 +2117,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-58841",
-   "tmdbId": 58841,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Chicago P.D.",
-   "orijinalAd": "Chicago P.D.",
-   "yil": "2014",
-   "ozet": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
-   "poster": "/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
-   "arkaplan": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.419,
-   "oySayisi": 2647,
-   "platformlar": {
-    "flatrate": [
-     "Netflix",
-     "Amazon Prime Video",
-     "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
-    ]
-   },
-   "wikidata": "Q13218686",
-   "wiki": {
-    "tr": null,
-    "en": "Chicago P.D. (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 20030,
-     "onceki7": 19057,
-     "degisim": 1.051
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-21",
-   "sonBolum": "2026-10-14"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-65334",
    "tmdbId": 65334,
    "tur": "dizi",
@@ -2222,6 +2172,113 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-58841",
+   "tmdbId": 58841,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Chicago P.D.",
+   "orijinalAd": "Chicago P.D.",
+   "yil": "2014",
+   "ozet": "Chicago Fire'ın uzantısı (Spin-off) olan ve NBC kanalı için çekilmiş bir Amerikan dizisidir. Chicago Polis Departmanı, iki farklı gruptan oluşur: Üniformalı polisler ve İstihbarat Birimi. İstihbarat Birimi, organize suçlar, uyuşturucu kaçakçılığı ve üst düzey cinayetlerle ilgilenirken, Üniformalı Polisler ise şehrin sokak suçlarıyla ve devriye gezmekle meşguldürler.",
+   "poster": "/w7R4ooo2IbOfBKOoMDwaiMGsNQf.jpg",
+   "arkaplan": "/18KSsDgcGQds7yOMC6MVRTbVJwt.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.419,
+   "oySayisi": 2647,
+   "platformlar": {
+    "flatrate": [
+     "Netflix",
+     "Amazon Prime Video",
+     "TOD TV"
+    ],
+    "buy": [
+     "Amazon Video"
+    ]
+   },
+   "wikidata": "Q13218686",
+   "wiki": {
+    "tr": null,
+    "en": "Chicago P.D. (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 20030,
+     "onceki7": 19057,
+     "degisim": 1.051
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-21",
+   "sonBolum": "2026-10-14"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-153312",
+   "tmdbId": 153312,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Tulsa King",
+   "orijinalAd": "Tulsa King",
+   "yil": "2022",
+   "ozet": "25 yıl hapis cezasının ardından cezaevinden yeni çıkan, \"General\" olarak bilinen eski New York mafya babası Dwight Manfredi, bağlı olduğu suç lordu tarafından törensiz bir şekilde kovulur. Oklahoma, Tulsa'ya sürgüne gönderilen Dwight, renkli karakterlerle kendi takımını kurmaya karar verir.",
+   "poster": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "arkaplan": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+   "turler": [
+    "Suç",
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.3,
+   "oySayisi": 2831,
+   "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
+    "flatrate": [
+     "TV+"
+    ]
+   },
+   "wikidata": "Q111967146",
+   "wiki": {
+    "tr": null,
+    "en": "Tulsa King"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 33306,
+     "onceki7": 27946,
+     "degisim": 1.192
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-80748",
    "tmdbId": 80748,
    "tur": "dizi",
@@ -2266,55 +2323,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-19",
    "sonBolum": "2026-10-12"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-213562",
-   "tmdbId": 213562,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Crystal Lake",
-   "orijinalAd": "Crystal Lake",
-   "yil": "2026",
-   "ozet": "Oğlunun ölümünden sonra, Pamela Voorhees'in geçmişi ve karanlık bir sır ortaya çıkar.",
-   "poster": "/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
-   "arkaplan": "/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
-   "turler": [
-    "Gizem",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.184,
-   "oySayisi": 49,
-   "platformlar": {
-    "flatrate": [
-     "TV+"
-    ]
-   },
-   "wikidata": "Q135166893",
-   "wiki": {
-    "tr": null,
-    "en": "Crystal Lake (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 147158,
-     "onceki7": 39365,
-     "degisim": 3.738
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-15"
   },
   {
    "goster": true,
@@ -2375,6 +2383,55 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-213562",
+   "tmdbId": 213562,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Crystal Lake",
+   "orijinalAd": "Crystal Lake",
+   "yil": "2026",
+   "ozet": "Oğlunun ölümünden sonra, Pamela Voorhees'in geçmişi ve karanlık bir sır ortaya çıkar.",
+   "poster": "/sIj9WcA1LkcjGbYjrbfV3pGegbF.jpg",
+   "arkaplan": "/3qbNgNqMFrEEhIl43UKD9oxCkOw.jpg",
+   "turler": [
+    "Gizem",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.184,
+   "oySayisi": 49,
+   "platformlar": {
+    "flatrate": [
+     "TV+"
+    ]
+   },
+   "wikidata": "Q135166893",
+   "wiki": {
+    "tr": null,
+    "en": "Crystal Lake (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 147158,
+     "onceki7": 39365,
+     "degisim": 3.738
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-62650",
    "tmdbId": 62650,
    "tur": "dizi",
@@ -2421,6 +2478,57 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-21",
    "sonBolum": "2026-10-14"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-30983",
+   "tmdbId": 30983,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Dedektif Konan",
+   "orijinalAd": "名探偵コナン",
+   "yil": "1996",
+   "ozet": "Dünyaca ünlü bir gizem yazarı olan Jimmy Kudo'nun oğlu, yerel polise bir öğrenci dedektifi olarak yardım ederek ün kazandı. Zekasını ve muhakeme gücünü kullanarak her zaman en zor ceza davalarını çözebilmiştir. HD Kaliteli Olsun Hemde Tam Bolum Turkce Seslendirmeli Olsun",
+   "poster": "/gW14n6xxONXrya8CIDhRe5Ada7U.jpg",
+   "arkaplan": "/z67lpMtm8YGykJO4p89meuNMvj8.jpg",
+   "turler": [
+    "Animasyon",
+    "Suç",
+    "Gizem",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.0,
+   "oySayisi": 793,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q5363072",
+   "wiki": {
+    "tr": null,
+    "en": "Case Closed (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 1961,
+     "onceki7": 1763,
+     "degisim": 1.112
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-17",
+   "sonBolum": "2026-10-10"
   },
   {
    "goster": false,
@@ -2476,6 +2584,58 @@ SAHNE_GUN({
    "sonBolum": "2026-10-16"
   },
   {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-2710",
+   "tmdbId": 2710,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "It's Always Sunny in Philadelphia",
+   "orijinalAd": "It's Always Sunny in Philadelphia",
+   "yil": "2005",
+   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
+   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
+   "arkaplan": "/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.249,
+   "oySayisi": 1440,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q23670",
+   "wiki": {
+    "tr": "It's Always Sunny in Philadelphia",
+    "en": "It's Always Sunny in Philadelphia"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 31,
+     "onceki7": 58,
+     "degisim": 0.534
+    },
+    "en": {
+     "son7": 38100,
+     "onceki7": 32451,
+     "degisim": 1.174
+    },
+    "trEnOran": 0.0008
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-12"
+  },
+  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": true,
@@ -2501,8 +2661,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.5,
-   "oySayisi": 1677,
+   "puan": 8.547,
+   "oySayisi": 1678,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2581,111 +2741,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-153312",
-   "tmdbId": 153312,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Tulsa King",
-   "orijinalAd": "Tulsa King",
-   "yil": "2022",
-   "ozet": "25 yıl hapis cezasının ardından cezaevinden yeni çıkan, \"General\" olarak bilinen eski New York mafya babası Dwight Manfredi, bağlı olduğu suç lordu tarafından törensiz bir şekilde kovulur. Oklahoma, Tulsa'ya sürgüne gönderilen Dwight, renkli karakterlerle kendi takımını kurmaya karar verir.",
-   "poster": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-   "arkaplan": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-   "turler": [
-    "Suç",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.3,
-   "oySayisi": 2831,
-   "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
-    "flatrate": [
-     "TV+"
-    ]
-   },
-   "wikidata": "Q111967146",
-   "wiki": {
-    "tr": null,
-    "en": "Tulsa King"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 33306,
-     "onceki7": 27946,
-     "degisim": 1.192
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-2710",
-   "tmdbId": 2710,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "It's Always Sunny in Philadelphia",
-   "orijinalAd": "It's Always Sunny in Philadelphia",
-   "yil": "2005",
-   "ozet": "It's Always Sunny in Philadelphia 4 Ağustos, 2005'te FX kanalında yayına başlamış bir komedi dizisidir. Dizi aynı zamanda oyuncuları olan Rob McElhenney, Glenn Howerton ve Charlie Day tarafından yaratılıp geliştirilmiştir. Dizi, kişisel çıkarlarından başka hiçbir şey düşünmeyen ve Güney Philadelphia'da \"Paddy's\" adında oldukça başarısız bir İrlanda barı işleten bir arkadaş grubunun başından geçen maceraları anlatmaktadır.",
-   "poster": "/o0tMMK33JqmtpcWw0H41cEr9xQB.jpg",
-   "arkaplan": "/265v8OtLO4h8XgJu5eDRpJdf9e0.jpg",
-   "turler": [
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.249,
-   "oySayisi": 1440,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q23670",
-   "wiki": {
-    "tr": "It's Always Sunny in Philadelphia",
-    "en": "It's Always Sunny in Philadelphia"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 31,
-     "onceki7": 58,
-     "degisim": 0.534
-    },
-    "en": {
-     "son7": 38100,
-     "onceki7": 32451,
-     "degisim": 1.174
-    },
-    "trEnOran": 0.0008
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-12"
   },
   {
    "goster": true,
@@ -2818,7 +2873,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.96,
+   "puan": 8.0,
    "oySayisi": 399,
    "platformlar": {
     "buy": [
@@ -2972,7 +3027,7 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.091,
+   "puan": 9.1,
    "oySayisi": 11,
    "platformlar": {
     "flatrate": [
@@ -3645,6 +3700,60 @@ SAHNE_GUN({
   {
    "goster": false,
    "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-123542",
+   "tmdbId": 123542,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Shiguang Dailiren",
+   "orijinalAd": "时光代理人",
+   "yil": "2021",
+   "ozet": "Müşterilerinin fotoğraflarına birer birer girmek için güçlerini kullanan Cheng Xiaoshi ve Lu Guang işlerini modern bir şehirin arkalarında bir fotoğraf dükkânı olan \"Zaman Fotoğraf Stüdyosu\"nda yürütüyorlar. Her iş tehlike dolu olabilir, ancak hiçbir şey verilenleri yapmaktan daha önemli değil, isterse büyük olsun isterse can alsın.",
+   "poster": "/44cNZ5PmLOwTIOkYwlAewgzn8Bl.jpg",
+   "arkaplan": "/w3agwUSMpJ4X9t1jGrDtqqRPjDQ.jpg",
+   "turler": [
+    "Animasyon",
+    "Bilim Kurgu & Fantazi",
+    "Gizem",
+    "Dram"
+   ],
+   "ulkeler": [
+    "CN"
+   ],
+   "puan": 8.1,
+   "oySayisi": 137,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q107012574",
+   "wiki": {
+    "tr": null,
+    "en": "Link Click"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 5967,
+     "onceki7": 3668,
+     "degisim": 1.627
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
    "sinyalVar": false,
    "yeniSayilir": true,
    "id": "dizi-207347",
@@ -3763,7 +3872,7 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.6,
+   "puan": 8.573,
    "oySayisi": 48,
    "platformlar": {
     "flatrate": [
@@ -3782,54 +3891,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-19",
    "sonBolum": "2026-10-12"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-255055",
-   "tmdbId": 255055,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Doc",
-   "orijinalAd": "Doc",
-   "yil": "2025",
-   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
-   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
-   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.4,
-   "oySayisi": 78,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q129676773",
-   "wiki": {
-    "tr": null,
-    "en": "Doc (2025 TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 25461,
-     "onceki7": 32586,
-     "degisim": 0.781
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
   },
   {
    "goster": false,
@@ -3926,55 +3987,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-289560",
-   "tmdbId": 289560,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "CIA",
-   "orijinalAd": "CIA",
-   "yil": "2026",
-   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
-   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.449,
-   "oySayisi": 137,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q137176858",
-   "wiki": {
-    "tr": null,
-    "en": "CIA (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 21577,
-     "onceki7": 21629,
-     "degisim": 0.998
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-19",
-   "sonBolum": "2026-10-12"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-207484",
    "tmdbId": 207484,
    "tur": "dizi",
@@ -3994,7 +4006,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.675,
+   "puan": 8.7,
    "oySayisi": 117,
    "platformlar": {
     "flatrate": [
@@ -4023,142 +4035,48 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-314939",
-   "tmdbId": 314939,
+   "id": "dizi-255055",
+   "tmdbId": 255055,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Senden Başka Bir Aşk",
-   "orijinalAd": "너 말고 다른 연애",
-   "yil": "2026",
-   "ozet": "Onuncu yıllarında, rahat ilişkileri beklenmedik duygularla sınanan bir çift hakkında gerçekçi ve duygusal açıdan yankı uyandıran bir romantik hikâye.",
-   "poster": "/mryeyCsFApnwYDpDcy3I6fYx2Dd.jpg",
-   "arkaplan": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+   "ad": "Doc",
+   "orijinalAd": "Doc",
+   "yil": "2025",
+   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
+   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
    "turler": [
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "KR"
-   ],
-   "puan": 6.3,
-   "oySayisi": 3,
-   "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ]
-   },
-   "wikidata": "Q139815583",
-   "wiki": {
-    "tr": null,
-    "en": "A Love Other Than Yours"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 31534,
-     "onceki7": 28028,
-     "degisim": 1.125
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-17",
-   "sonBolum": "2026-10-11"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-283428",
-   "tmdbId": 283428,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "氷の城壁",
-   "orijinalAd": "氷の城壁",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
-   "arkaplan": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-   "turler": [
-    "Animasyon",
     "Dram"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.629,
-   "oySayisi": 70,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q131984499",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-22",
-   "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-154521",
-   "tmdbId": 154521,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "The Kardashians",
-   "orijinalAd": "The Kardashians",
-   "yil": "2022",
-   "ozet": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
-   "poster": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
-   "arkaplan": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
-   "turler": [
-    "Gerçeklik"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 8.5,
-   "oySayisi": 2137,
+   "puan": 7.4,
+   "oySayisi": 78,
    "platformlar": {
     "flatrate": [
-     "Disney Plus"
+     "TOD TV"
     ]
    },
-   "wikidata": "Q111160190",
+   "wikidata": "Q129676773",
    "wiki": {
     "tr": null,
-    "en": "The Kardashians"
+    "en": "Doc (2025 TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 10960,
-     "onceki7": 8178,
-     "degisim": 1.34
+     "son7": 25461,
+     "onceki7": 32586,
+     "degisim": 0.781
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-22",
-   "sonBolum": "2026-10-15"
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
   },
   {
    "goster": true,
@@ -4218,6 +4136,149 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-314939",
+   "tmdbId": 314939,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Senden Başka Bir Aşk",
+   "orijinalAd": "너 말고 다른 연애",
+   "yil": "2026",
+   "ozet": "Onuncu yıllarında, rahat ilişkileri beklenmedik duygularla sınanan bir çift hakkında gerçekçi ve duygusal açıdan yankı uyandıran bir romantik hikâye.",
+   "poster": "/mryeyCsFApnwYDpDcy3I6fYx2Dd.jpg",
+   "arkaplan": "/moUjiEzpJVNZc7hyNRBbLPt0CPX.jpg",
+   "turler": [
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "KR"
+   ],
+   "puan": 6.3,
+   "oySayisi": 3,
+   "platformlar": {
+    "flatrate": [
+     "Amazon Prime Video"
+    ]
+   },
+   "wikidata": "Q139815583",
+   "wiki": {
+    "tr": null,
+    "en": "A Love Other Than Yours"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 31534,
+     "onceki7": 28028,
+     "degisim": 1.125
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-17",
+   "sonBolum": "2026-10-11"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-289560",
+   "tmdbId": 289560,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "CIA",
+   "orijinalAd": "CIA",
+   "yil": "2026",
+   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
+   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.449,
+   "oySayisi": 137,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q137176858",
+   "wiki": {
+    "tr": null,
+    "en": "CIA (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 21577,
+     "onceki7": 21629,
+     "degisim": 0.998
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-19",
+   "sonBolum": "2026-10-12"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-283428",
+   "tmdbId": 283428,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "氷の城壁",
+   "orijinalAd": "氷の城壁",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+   "arkaplan": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.629,
+   "oySayisi": 70,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q131984499",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": true,
    "id": "dizi-283371",
@@ -4259,6 +4320,98 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-13"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-154521",
+   "tmdbId": 154521,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "The Kardashians",
+   "orijinalAd": "The Kardashians",
+   "yil": "2022",
+   "ozet": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
+   "poster": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
+   "arkaplan": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
+   "turler": [
+    "Gerçeklik"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.5,
+   "oySayisi": 2137,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q111160190",
+   "wiki": {
+    "tr": null,
+    "en": "The Kardashians"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 10960,
+     "onceki7": 8178,
+     "degisim": 1.34
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-295778",
+   "tmdbId": 295778,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Scrubs",
+   "orijinalAd": "Scrubs",
+   "yil": "2026",
+   "ozet": "J.D. ve Turk, uzun bir aradan sonra ilk kez yeniden birlikte iş başına geçiyor; tıp dünyası değişmiş, stajyerler değişmiş ama aralarındaki sıkı dostluk zamanın sınavını başarıyla geçmiş. Yeni ve eski karakterler, Sacred Heart’ın karmaşasında kahkaha, duygu ve bazı sürprizlerle yollarını buluyor.",
+   "poster": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
+   "arkaplan": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+   "turler": [
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.7,
+   "oySayisi": 118,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q138749439",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-21",
+   "sonBolum": "2026-10-14"
   },
   {
    "goster": true,
@@ -4312,46 +4465,50 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-295778",
-   "tmdbId": 295778,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-205272",
+   "tmdbId": 205272,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Scrubs",
-   "orijinalAd": "Scrubs",
-   "yil": "2026",
-   "ozet": "J.D. ve Turk, uzun bir aradan sonra ilk kez yeniden birlikte iş başına geçiyor; tıp dünyası değişmiş, stajyerler değişmiş ama aralarındaki sıkı dostluk zamanın sınavını başarıyla geçmiş. Yeni ve eski karakterler, Sacred Heart’ın karmaşasında kahkaha, duygu ve bazı sürprizlerle yollarını buluyor.",
-   "poster": "/l1EzNg0WMaoAu7oPa2oMXLizc4W.jpg",
-   "arkaplan": "/qkxgja3V0eSjQYX8oLKidRVJ2Md.jpg",
+   "ad": "Reasonable Doubt",
+   "orijinalAd": "Reasonable Doubt",
+   "yil": "2022",
+   "ozet": "Jax Stewart'ı sorgulatıcı ahlak anlayışı ve yasaları çılgınca yorumlaması nedeniyle yargılayacaksınız... ta ki başınız belaya girene kadar. O zaman onun ne olduğunu göreceksiniz: Los Angeles'ın en zeki ve korkusuz savunma avukatı, bulduğu her fırsatta adalet sistemine karşı gelir.",
+   "poster": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
+   "arkaplan": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
    "turler": [
-    "Komedi"
+    "Dram"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.7,
-   "oySayisi": 118,
+   "puan": 6.1,
+   "oySayisi": 67,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
     ]
    },
-   "wikidata": "Q138749439",
+   "wikidata": "Q113993929",
    "wiki": {
     "tr": null,
-    "en": null
+    "en": "Reasonable Doubt (TV series)"
    },
    "ilgi": {
     "tr": null,
-    "en": null,
+    "en": {
+     "son7": 20998,
+     "onceki7": 16447,
+     "degisim": 1.277
+    },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-21",
-   "sonBolum": "2026-10-14"
+   "sonrakiBolum": "2026-10-20",
+   "sonBolum": "2026-10-13"
   },
   {
    "goster": true,
@@ -4407,97 +4564,48 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-253391",
-   "tmdbId": 253391,
+   "id": "dizi-99353",
+   "tmdbId": 99353,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Sheriff Country",
-   "orijinalAd": "Sheriff Country",
-   "yil": "2025",
-   "ozet": "Küçük bir Kaliforniya kasabasının şerifi olan Mickey Fox, hem ailesini hem de kasabanın çürümüş düzenini ayakta tutmaya çalışıyor. Karanlık suçlar, açığa çıkan sırlar ve Mickey'nin kendi içindeki hesaplaşması, onu sadece görevini değil kimliğini de sorgulamaya itiyor.",
-   "poster": "/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
-   "arkaplan": "/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+   "ad": "Love Is Blind",
+   "orijinalAd": "Love Is Blind",
+   "yil": "2020",
+   "ozet": "Bekâr erkek ve kadınların yüz yüze görüşmeden önce aşkı aradıkları ve nişanlandıkları bu sosyal deneyin sunuculuğunu Nick ve Vanessa Lachey üstleniyor.",
+   "poster": "/8XhV6ke8ltRYoG4SYmibF2bGwrC.jpg",
+   "arkaplan": "/5sZyCtojLzqYAsz0qH9QMllu55I.jpg",
    "turler": [
-    "Dram",
-    "Suç"
+    "Gerçeklik"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.4,
-   "oySayisi": 54,
+   "puan": 6.232,
+   "oySayisi": 114,
    "platformlar": {
     "flatrate": [
-     "TOD TV"
+     "Netflix"
     ]
    },
-   "wikidata": "Q125920386",
+   "wikidata": "Q85846472",
    "wiki": {
     "tr": null,
-    "en": "Sheriff Country"
+    "en": "Love Is Blind (American TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 26809,
-     "onceki7": 17773,
-     "degisim": 1.508
+     "son7": 8578,
+     "onceki7": 5110,
+     "degisim": 1.679
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-205272",
-   "tmdbId": 205272,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Reasonable Doubt",
-   "orijinalAd": "Reasonable Doubt",
-   "yil": "2022",
-   "ozet": "Jax Stewart'ı sorgulatıcı ahlak anlayışı ve yasaları çılgınca yorumlaması nedeniyle yargılayacaksınız... ta ki başınız belaya girene kadar. O zaman onun ne olduğunu göreceksiniz: Los Angeles'ın en zeki ve korkusuz savunma avukatı, bulduğu her fırsatta adalet sistemine karşı gelir.",
-   "poster": "/v9p9VbljJdJ9GjLqp3l5YpWJ8HO.jpg",
-   "arkaplan": "/5Nu95w2oWsbmDeAjG2NJF4x33Ud.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 6.1,
-   "oySayisi": 67,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q113993929",
-   "wiki": {
-    "tr": null,
-    "en": "Reasonable Doubt (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 20998,
-     "onceki7": 16447,
-     "degisim": 1.277
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-20",
-   "sonBolum": "2026-10-13"
+   "sonrakiBolum": "2026-10-21",
+   "sonBolum": "2026-10-14"
   }
  ]
 });
