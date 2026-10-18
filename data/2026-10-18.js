@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-12",
   "bit": "2026-10-18"
  },
- "uretildi": "2026-10-18T11:42:04+03:00",
+ "uretildi": "2026-10-18T16:49:55+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -54,8 +54,8 @@ SAHNE_GUN({
     "FR",
     "US"
    ],
-   "puan": 7.216,
-   "oySayisi": 51,
+   "puan": 7.25,
+   "oySayisi": 56,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -99,8 +99,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.313,
-   "oySayisi": 48,
+   "puan": 8.3,
+   "oySayisi": 55,
    "platformlar": {},
    "wikidata": "Q134386482",
    "wiki": {
@@ -234,8 +234,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.391,
-   "oySayisi": 46,
+   "puan": 8.426,
+   "oySayisi": 47,
    "platformlar": {
     "ads": [
      "puhutv"
@@ -496,6 +496,51 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-213194",
+   "tmdbId": 213194,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Kızılcık Şerbeti",
+   "orijinalAd": "Kızılcık Şerbeti",
+   "yil": "2022",
+   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
+   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
+   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
+   "turler": [
+    "Aile",
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.7,
+   "oySayisi": 20,
+   "platformlar": {},
+   "wikidata": "Q115343361",
+   "wiki": {
+    "tr": "Kızılcık Şerbeti",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 5822,
+     "onceki7": 4414,
+     "degisim": 1.319
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-306215",
    "tmdbId": 306215,
    "tur": "dizi",
@@ -539,51 +584,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-29",
    "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-213194",
-   "tmdbId": 213194,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Kızılcık Şerbeti",
-   "orijinalAd": "Kızılcık Şerbeti",
-   "yil": "2022",
-   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
-   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
-   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
-   "turler": [
-    "Aile",
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 6.7,
-   "oySayisi": 20,
-   "platformlar": {},
-   "wikidata": "Q115343361",
-   "wiki": {
-    "tr": "Kızılcık Şerbeti",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 5822,
-     "onceki7": 4414,
-     "degisim": 1.319
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
   },
   {
    "goster": true,
@@ -680,47 +680,6 @@ SAHNE_GUN({
    "goster": true,
    "kategori": null,
    "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-306118",
-   "tmdbId": 306118,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Arafta",
-   "orijinalAd": "Arafta",
-   "yil": "2025",
-   "ozet": null,
-   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-   "turler": [
-    "Dram",
-    "Aile"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 9.1,
-   "oySayisi": 26,
-   "platformlar": {},
-   "wikidata": "Q138012917",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
    "yeniSayilir": true,
    "id": "dizi-320754",
    "tmdbId": 320754,
@@ -751,6 +710,47 @@ SAHNE_GUN({
     ]
    },
    "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-306118",
+   "tmdbId": 306118,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Arafta",
+   "orijinalAd": "Arafta",
+   "yil": "2025",
+   "ozet": null,
+   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
+   "turler": [
+    "Dram",
+    "Aile"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 9.1,
+   "oySayisi": 26,
+   "platformlar": {},
+   "wikidata": "Q138012917",
    "wiki": {
     "tr": null,
     "en": null
@@ -810,6 +810,46 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-22",
    "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-331693",
+   "tmdbId": 331693,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Sevdam Karadeniz",
+   "orijinalAd": "Sevdam Karadeniz",
+   "yil": "2026",
+   "ozet": "Karadeniz’in iki köklü ailesi Hafize Alazlı ve Durali Yeniceli’nin yarım kalmış aşkıyla başlayan düşmanlık, yıllar sonra torunları Kuzey ve Zeyşan’ı zoraki bir evliliğin içine sürükleyişini konu alıyor. Sırlar, yasak aşklar ve intikam yeminleri arasında iki genç, ailelerinin kaderini değiştirecek bir seçim yapmak zorunda kalır.",
+   "poster": "/zOqcJuBcEgzwKax9jHQM4MGAy0y.jpg",
+   "arkaplan": "/iR0uB1YKK4jOF2pqlL4Sy2XdprY.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.0,
+   "oySayisi": 1,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-19",
+   "sonBolum": "2026-10-12"
   },
   {
    "goster": true,
@@ -895,46 +935,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-331693",
-   "tmdbId": 331693,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Sevdam Karadeniz",
-   "orijinalAd": "Sevdam Karadeniz",
-   "yil": "2026",
-   "ozet": "Karadeniz’in iki köklü ailesi Hafize Alazlı ve Durali Yeniceli’nin yarım kalmış aşkıyla başlayan düşmanlık, yıllar sonra torunları Kuzey ve Zeyşan’ı zoraki bir evliliğin içine sürükleyişini konu alıyor. Sırlar, yasak aşklar ve intikam yeminleri arasında iki genç, ailelerinin kaderini değiştirecek bir seçim yapmak zorunda kalır.",
-   "poster": "/zOqcJuBcEgzwKax9jHQM4MGAy0y.jpg",
-   "arkaplan": "/iR0uB1YKK4jOF2pqlL4Sy2XdprY.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 6.0,
-   "oySayisi": 1,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-19",
-   "sonBolum": "2026-10-12"
   },
   {
    "goster": true,
@@ -1638,57 +1638,54 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-2734",
-   "tmdbId": 2734,
+   "id": "dizi-549",
+   "tmdbId": 549,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Law & Order: Special Victims Unit",
-   "orijinalAd": "Law & Order: Special Victims Unit",
-   "yil": "1999",
-   "ozet": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi. New York Polis Departmanı'nda cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorundadır. Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışırlar.",
-   "poster": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
-   "arkaplan": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
+   "ad": "Law & Order",
+   "orijinalAd": "Law & Order",
+   "yil": "1990",
+   "ozet": "Law & Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.",
+   "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "arkaplan": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
    "turler": [
     "Suç",
-    "Dram",
-    "Gizem"
+    "Dram"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.96,
-   "oySayisi": 4381,
+   "puan": 7.3,
+   "oySayisi": 735,
    "platformlar": {
     "flatrate": [
-     "Netflix",
      "Amazon Prime Video",
-     "Disney Plus",
      "TOD TV"
     ],
     "buy": [
      "Amazon Video"
     ]
    },
-   "wikidata": "Q218567",
+   "wikidata": "Q321423",
    "wiki": {
-    "tr": "Law & Order: Special Victims Unit",
-    "en": "Law & Order: Special Victims Unit"
+    "tr": "Law & Order",
+    "en": "Law & Order"
    },
    "ilgi": {
     "tr": {
-     "son7": 68,
-     "onceki7": 82,
-     "degisim": 0.829
+     "son7": 146,
+     "onceki7": 183,
+     "degisim": 0.798
     },
     "en": {
-     "son7": 40664,
-     "onceki7": 37967,
-     "degisim": 1.071
+     "son7": 26353,
+     "onceki7": 24554,
+     "degisim": 1.073
     },
-    "trEnOran": 0.0017
+    "trEnOran": 0.0055
    },
    "sonrakiBolum": "2026-10-22",
    "sonBolum": "2026-10-15"
@@ -1751,54 +1748,57 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-549",
-   "tmdbId": 549,
+   "id": "dizi-2734",
+   "tmdbId": 2734,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Law & Order",
-   "orijinalAd": "Law & Order",
-   "yil": "1990",
-   "ozet": "Law & Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.",
-   "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-   "arkaplan": "/oOce9hLMVFubjAJliau4kiSNPnW.jpg",
+   "ad": "Law & Order: Special Victims Unit",
+   "orijinalAd": "Law & Order: Special Victims Unit",
+   "yil": "1999",
+   "ozet": "New York yeraltı dünyasının karanlık yüzünü araştıran bir özel suçlar birimi. New York Polis Departmanı'nda cinsel suçlar konusunda uzman dedektiflerden oluşan bu birim, insanın kanını donduran vakaları incelemek zorundadır. Her gün yardım isteyen kurbanlar, kapatılmayı bekleyen dosyalarla uğraşan bu ekibin üyeleri, bir yandan da bu araştırmaların özel yaşamlarına olan etkisini dengelemeye çalışırlar.",
+   "poster": "/imaKy0BLfX1iPzj9ZvbOD0D09m6.jpg",
+   "arkaplan": "/xhK9YCxNwnE0OB1SWvCY39heHQI.jpg",
    "turler": [
     "Suç",
-    "Dram"
+    "Dram",
+    "Gizem"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 7.3,
-   "oySayisi": 735,
+   "puan": 7.96,
+   "oySayisi": 4381,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video",
-     "TOD TV"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "Netflix",
+     "Amazon Prime Video",
+     "Disney Plus",
+     "TOD TV"
     ]
    },
-   "wikidata": "Q321423",
+   "wikidata": "Q218567",
    "wiki": {
-    "tr": "Law & Order",
-    "en": "Law & Order"
+    "tr": "Law & Order: Special Victims Unit",
+    "en": "Law & Order: Special Victims Unit"
    },
    "ilgi": {
     "tr": {
-     "son7": 146,
-     "onceki7": 183,
-     "degisim": 0.798
+     "son7": 68,
+     "onceki7": 82,
+     "degisim": 0.829
     },
     "en": {
-     "son7": 26353,
-     "onceki7": 24554,
-     "degisim": 1.073
+     "son7": 40664,
+     "onceki7": 37967,
+     "degisim": 1.071
     },
-    "trEnOran": 0.0055
+    "trEnOran": 0.0017
    },
    "sonrakiBolum": "2026-10-22",
    "sonBolum": "2026-10-15"
@@ -2024,6 +2024,59 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-153312",
+   "tmdbId": 153312,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Tulsa King",
+   "orijinalAd": "Tulsa King",
+   "yil": "2022",
+   "ozet": "25 yıl hapis cezasının ardından cezaevinden yeni çıkan, \"General\" olarak bilinen eski New York mafya babası Dwight Manfredi, bağlı olduğu suç lordu tarafından törensiz bir şekilde kovulur. Oklahoma, Tulsa'ya sürgüne gönderilen Dwight, renkli karakterlerle kendi takımını kurmaya karar verir.",
+   "poster": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
+   "arkaplan": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
+   "turler": [
+    "Suç",
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.3,
+   "oySayisi": 2834,
+   "platformlar": {
+    "flatrate": [
+     "TV+"
+    ],
+    "buy": [
+     "Amazon Video"
+    ]
+   },
+   "wikidata": "Q111967146",
+   "wiki": {
+    "tr": null,
+    "en": "Tulsa King"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 33306,
+     "onceki7": 27946,
+     "degisim": 1.192
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-1413",
    "tmdbId": 1413,
    "tur": "dizi",
@@ -2100,11 +2153,11 @@ SAHNE_GUN({
    "puan": 8.411,
    "oySayisi": 2451,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q1187416",
@@ -2123,59 +2176,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-21",
    "sonBolum": "2026-10-14"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-153312",
-   "tmdbId": 153312,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Tulsa King",
-   "orijinalAd": "Tulsa King",
-   "yil": "2022",
-   "ozet": "25 yıl hapis cezasının ardından cezaevinden yeni çıkan, \"General\" olarak bilinen eski New York mafya babası Dwight Manfredi, bağlı olduğu suç lordu tarafından törensiz bir şekilde kovulur. Oklahoma, Tulsa'ya sürgüne gönderilen Dwight, renkli karakterlerle kendi takımını kurmaya karar verir.",
-   "poster": "/rOYLWCdAifpUtPlTf1WHxyaxeMt.jpg",
-   "arkaplan": "/mNHRGO1gFpR2CYZdANe72kcKq7G.jpg",
-   "turler": [
-    "Suç",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.304,
-   "oySayisi": 2834,
-   "platformlar": {
-    "flatrate": [
-     "TV+"
-    ],
-    "buy": [
-     "Amazon Video"
-    ]
-   },
-   "wikidata": "Q111967146",
-   "wiki": {
-    "tr": null,
-    "en": "Tulsa King"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 33306,
-     "onceki7": 27946,
-     "degisim": 1.192
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
   },
   {
    "goster": true,
@@ -2257,7 +2257,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.2,
-   "oySayisi": 70,
+   "oySayisi": 75,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2330,60 +2330,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-19",
    "sonBolum": "2026-10-12"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-75219",
-   "tmdbId": 75219,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "9-1-1",
-   "orijinalAd": "9-1-1",
-   "yil": "2018",
-   "ozet": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
-   "poster": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
-   "arkaplan": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
-   "turler": [
-    "Dram",
-    "Suç",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.2,
-   "oySayisi": 2874,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q30611820",
-   "wiki": {
-    "tr": "9-1-1 (dizi)",
-    "en": "9-1-1 (TV series)"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 47,
-     "onceki7": 55,
-     "degisim": 0.855
-    },
-    "en": {
-     "son7": 21495,
-     "onceki7": 21538,
-     "degisim": 0.998
-    },
-    "trEnOran": 0.0022
-   },
-   "sonrakiBolum": "2026-10-22",
-   "sonBolum": "2026-10-15"
   },
   {
    "goster": false,
@@ -2489,57 +2435,58 @@ SAHNE_GUN({
    "sonBolum": "2026-10-14"
   },
   {
-   "goster": false,
-   "kategori": "anime",
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-220542",
-   "tmdbId": 220542,
+   "id": "dizi-75219",
+   "tmdbId": 75219,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "The Apothecary Diaries",
-   "orijinalAd": "薬屋のひとりごと",
-   "yil": "2023",
-   "ozet": "Maomao, eczacı olan babasıyla huzurlu bir hayat yaşıyordu. Ta ki bir gün saraya adi bir hizmetçi olarak satılana kadar. Ancak kraliyet ailesinin arasında uyumlu bir hayat yaşamaya uygun değildi. Bu yüzden imparatorluk varisleri hastalandığında, öne atılmaya ve bir tedavi bulmaya karar verir. Bu, onu terfi ettiren yakışıklı hadım ağası Jinşi'nin dikkatini çeker. Şimdiyse tıbbi gizemleri çözerek ismini duyuruyor",
-   "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
-   "arkaplan": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+   "ad": "9-1-1",
+   "orijinalAd": "9-1-1",
+   "yil": "2018",
+   "ozet": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+   "poster": "/6njUqsd3By2mJsdZm1P0moPLzs3.jpg",
+   "arkaplan": "/h050XJoiIobaH6bhj3MAhgilkpJ.jpg",
    "turler": [
-    "Animasyon",
     "Dram",
-    "Gizem"
+    "Suç",
+    "Aksiyon & Macera"
    ],
    "ulkeler": [
-    "JP"
+    "US"
    ],
-   "puan": 8.7,
-   "oySayisi": 668,
+   "puan": 8.2,
+   "oySayisi": 2874,
    "platformlar": {
     "flatrate": [
-     "Crunchyroll"
-    ],
-    "ads": [
-     "Crunchyroll"
+     "Disney Plus"
     ]
    },
-   "wikidata": "Q116787865",
+   "wikidata": "Q30611820",
    "wiki": {
-    "tr": null,
-    "en": "The Apothecary Diaries (TV series)"
+    "tr": "9-1-1 (dizi)",
+    "en": "9-1-1 (TV series)"
    },
    "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 12284,
-     "onceki7": 15418,
-     "degisim": 0.797
+    "tr": {
+     "son7": 47,
+     "onceki7": 55,
+     "degisim": 0.855
     },
-    "trEnOran": null
+    "en": {
+     "son7": 21495,
+     "onceki7": 21538,
+     "degisim": 0.998
+    },
+    "trEnOran": 0.0022
    },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
   },
   {
    "goster": true,
@@ -2594,6 +2541,59 @@ SAHNE_GUN({
    "sonBolum": "2026-10-12"
   },
   {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-220542",
+   "tmdbId": 220542,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "The Apothecary Diaries",
+   "orijinalAd": "薬屋のひとりごと",
+   "yil": "2023",
+   "ozet": "Maomao, eczacı olan babasıyla huzurlu bir hayat yaşıyordu. Ta ki bir gün saraya adi bir hizmetçi olarak satılana kadar. Ancak kraliyet ailesinin arasında uyumlu bir hayat yaşamaya uygun değildi. Bu yüzden imparatorluk varisleri hastalandığında, öne atılmaya ve bir tedavi bulmaya karar verir. Bu, onu terfi ettiren yakışıklı hadım ağası Jinşi'nin dikkatini çeker. Şimdiyse tıbbi gizemleri çözerek ismini duyuruyor",
+   "poster": "/5ZZlbaJleRsAO08qWK6ZTOe9g3Z.jpg",
+   "arkaplan": "/gffVOVZ2Y9cmVIZ26Gt9ByMGCYH.jpg",
+   "turler": [
+    "Animasyon",
+    "Dram",
+    "Gizem"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.7,
+   "oySayisi": 668,
+   "platformlar": {
+    "ads": [
+     "Crunchyroll"
+    ],
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q116787865",
+   "wiki": {
+    "tr": null,
+    "en": "The Apothecary Diaries (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 12284,
+     "onceki7": 15418,
+     "degisim": 0.797
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
+  },
+  {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
@@ -2610,7 +2610,7 @@ SAHNE_GUN({
    "yil": "2023",
    "ozet": "Uluslararası bir krizin ortasında Britanya'ya büyükelçi olarak atanan ABD'li bir diplomat yüksek profilli işi ve parlak bir politikacıyla olan sorunlu evliliği arasında bocalar.",
    "poster": "/cUy0ZYme43lop08nOtbQLWL0dX.jpg",
-   "arkaplan": "/v6f9FUDDQfGIv8MLRQwlL0zvRjI.jpg",
+   "arkaplan": "/hzznrBI07C2chXivlLYvEmQESP7.jpg",
    "turler": [
     "Dram",
     "Savaş & Politik"
@@ -2618,7 +2618,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.603,
+   "puan": 7.6,
    "oySayisi": 494,
    "platformlar": {
     "flatrate": [
@@ -2672,8 +2672,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.5,
-   "oySayisi": 1679,
+   "puan": 8.548,
+   "oySayisi": 1680,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2780,7 +2780,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.97,
+   "puan": 8.0,
    "oySayisi": 401,
    "platformlar": {
     "flatrate": [
@@ -2832,7 +2832,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.625,
+   "puan": 7.6,
    "oySayisi": 343,
    "platformlar": {
     "flatrate": [
@@ -3765,7 +3765,7 @@ SAHNE_GUN({
    "orijinalAd": "The Ark",
    "yil": "2023",
    "ozet": null,
-   "poster": "/rec774m02XNLSjU9qm5z6UUfMRl.jpg",
+   "poster": "/6pGiYwbSAscG6YyNzxTR6FNtLnO.jpg",
    "arkaplan": "/nUEcobWsTpvOh23US0MRZXIU8jt.jpg",
    "turler": [
     "Bilim Kurgu & Fantazi",
@@ -4539,8 +4539,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.1,
-   "oySayisi": 96,
+   "puan": 8.082,
+   "oySayisi": 97,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
