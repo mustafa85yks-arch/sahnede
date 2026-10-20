@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-14",
   "bit": "2026-10-20"
  },
- "uretildi": "2026-10-20T17:49:14+03:00",
+ "uretildi": "2026-10-20T22:54:33+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,14 +17,14 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 93,
-  "turk": 33,
+  "toplam": 94,
+  "turk": 34,
   "yabanci": 60,
-  "gosterilen": 73,
+  "gosterilen": 74,
   "anime": 19,
   "wikiEslesen": 62,
   "ilgiVerisiOlan": 62,
-  "platformBilinen": 66
+  "platformBilinen": 67
  },
  "hatalar": [],
  "yapimlar": [
@@ -54,8 +54,8 @@ SAHNE_GUN({
     "FR",
     "US"
    ],
-   "puan": 7.14,
-   "oySayisi": 107,
+   "puan": 7.054,
+   "oySayisi": 112,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -99,8 +99,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.324,
-   "oySayisi": 105,
+   "puan": 8.3,
+   "oySayisi": 107,
    "platformlar": {},
    "wikidata": "Q134386482",
    "wiki": {
@@ -152,6 +152,44 @@ SAHNE_GUN({
      "Netflix"
     ]
    },
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": null
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "film-1802701",
+   "tmdbId": 1802701,
+   "tur": "film",
+   "koken": "turk",
+   "listeler": [
+    "dijital-cikis"
+   ],
+   "ad": "AnlatanAdam Stand-Up Ev Yapımı",
+   "orijinalAd": "AnlatanAdam Stand-Up Ev Yapımı",
+   "yil": null,
+   "ozet": "AnlatanAdam mahlaslı stand-upçının Mayıs 2026'de yayınlanan gösterisinin kesiti.",
+   "poster": null,
+   "arkaplan": null,
+   "turler": [],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
    "wikidata": null,
    "wiki": {
     "tr": null,
@@ -268,6 +306,50 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-317883",
+   "tmdbId": 317883,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Daha 17",
+   "orijinalAd": "Daha 17",
+   "yil": "2026",
+   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
+   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
+   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.8,
+   "oySayisi": 14,
+   "platformlar": {},
+   "wikidata": "Q140004956",
+   "wiki": {
+    "tr": "Daha 17 (dizi)",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 7287,
+     "onceki7": 8083,
+     "degisim": 0.902
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-25",
+   "sonBolum": "2026-10-18"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-302063",
    "tmdbId": 302063,
    "tur": "dizi",
@@ -302,6 +384,51 @@ SAHNE_GUN({
      "son7": 6043,
      "onceki7": 6589,
      "degisim": 0.917
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-23",
+   "sonBolum": "2026-10-16"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-213194",
+   "tmdbId": 213194,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Kızılcık Şerbeti",
+   "orijinalAd": "Kızılcık Şerbeti",
+   "yil": "2022",
+   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
+   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
+   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
+   "turler": [
+    "Aile",
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.7,
+   "oySayisi": 20,
+   "platformlar": {},
+   "wikidata": "Q115343361",
+   "wiki": {
+    "tr": "Kızılcık Şerbeti",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 5765,
+     "onceki7": 5347,
+     "degisim": 1.078
     },
     "en": null,
     "trEnOran": null
@@ -408,140 +535,49 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-317883",
-   "tmdbId": 317883,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-320754",
+   "tmdbId": 320754,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
-    "turk-dizi"
+    "turk-dizi",
+    "yabanci-dizi"
    ],
-   "ad": "Daha 17",
-   "orijinalAd": "Daha 17",
+   "ad": "Organize İşler",
+   "orijinalAd": "Organize İşler",
    "yil": "2026",
-   "ozet": "Aras, ailesini daha çok küçükken bir trafik kazasında kaybetmiş, yetiştirme yurdunda büyümüş bir gençtir. Kazadan sağ çıktığını ve bir aileye evlatlık verildiğini öğrendiği kardeşini yıllardır arayan Aras, kardeşinin nerede olduğuna dair isimsiz bir haber alır ve Bodrum’a doğru yola çıkar. Yurtlarda büyüyen 17 yaşındaki Aras’ın geçmişine ve ailesine ulaşma çabasını merkezine alan Daha 17, İstanbul’da başlayıp Bodrum’a uzanan sürükleyici bir hikaye sunuyor.",
-   "poster": "/erd75Gon5bXL38kngnH6DCrOUj2.jpg",
-   "arkaplan": "/bBf0jhFPf1W9VKWLRNOP5EzDSea.jpg",
+   "ozet": "Ucunda hazine olan gizemli harita gün yüzüne çıkınca, bu “mesleği” geride bırakmaya niyetli organize suç duayeni, son bir vurguna imza atmaya karar verir.",
+   "poster": "/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
+   "arkaplan": "/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
    "turler": [
-    "Dram"
+    "Komedi",
+    "Suç",
+    "Aksiyon & Macera"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.8,
-   "oySayisi": 14,
-   "platformlar": {},
-   "wikidata": "Q140004956",
-   "wiki": {
-    "tr": "Daha 17 (dizi)",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 7287,
-     "onceki7": 8083,
-     "degisim": 0.902
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-25",
-   "sonBolum": "2026-10-18"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-213194",
-   "tmdbId": 213194,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Kızılcık Şerbeti",
-   "orijinalAd": "Kızılcık Şerbeti",
-   "yil": "2022",
-   "ozet": "Farklı kültürlere sahip iki ailenin çocukları Doğa ve Fatih’in yıldırım nikahıyla evlenmesinin ardından gelişen çarpıcı olayları konu alıyor.",
-   "poster": "/lSywl799a9yLED1tPJCjobckjxQ.jpg",
-   "arkaplan": "/a4FHdQfPGT1T2w4DYUEGgRMxSgZ.jpg",
-   "turler": [
-    "Aile",
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 6.7,
-   "oySayisi": 20,
-   "platformlar": {},
-   "wikidata": "Q115343361",
-   "wiki": {
-    "tr": "Kızılcık Şerbeti",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 5765,
-     "onceki7": 5347,
-     "degisim": 1.078
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-23",
-   "sonBolum": "2026-10-16"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-306215",
-   "tmdbId": 306215,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Sevdiğim Sensin",
-   "orijinalAd": "Sevdiğim Sensin",
-   "yil": "2026",
-   "ozet": "Görevi sırasında yaşanan deprem felaketinde köy halkını yağmacılardan koruyan Erkan ve köylü kızı Dicle’nin tanışmalarıyla değişen kaderlerini konu alıyor.",
-   "poster": "/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
-   "arkaplan": "/jlIKAoJNn5lLF2vXMcWSEMkOAnN.jpg",
-   "turler": [
-    "Aile",
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.2,
-   "oySayisi": 5,
+   "puan": 6.0,
+   "oySayisi": 4,
    "platformlar": {
-    "ads": [
-     "puhutv"
+    "flatrate": [
+     "Netflix"
     ]
    },
-   "wikidata": "Q138289636",
+   "wikidata": null,
    "wiki": {
-    "tr": "Sevdiğim Sensin",
+    "tr": null,
     "en": null
    },
    "ilgi": {
-    "tr": {
-     "son7": 3258,
-     "onceki7": 3442,
-     "degisim": 0.947
-    },
+    "tr": null,
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-10-29",
-   "sonBolum": "2026-10-15"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-16"
   },
   {
    "goster": true,
@@ -592,49 +628,51 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-320754",
-   "tmdbId": 320754,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-306215",
+   "tmdbId": 306215,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
-    "turk-dizi",
-    "yabanci-dizi"
+    "turk-dizi"
    ],
-   "ad": "Organize İşler",
-   "orijinalAd": "Organize İşler",
+   "ad": "Sevdiğim Sensin",
+   "orijinalAd": "Sevdiğim Sensin",
    "yil": "2026",
-   "ozet": "Ucunda hazine olan gizemli harita gün yüzüne çıkınca, bu “mesleği” geride bırakmaya niyetli organize suç duayeni, son bir vurguna imza atmaya karar verir.",
-   "poster": "/5UCLCdz8CMTnrKrERAWUkhZhySQ.jpg",
-   "arkaplan": "/rMvfkMMITQXIMm44epyRaGwMaNw.jpg",
+   "ozet": "Görevi sırasında yaşanan deprem felaketinde köy halkını yağmacılardan koruyan Erkan ve köylü kızı Dicle’nin tanışmalarıyla değişen kaderlerini konu alıyor.",
+   "poster": "/eVMb930nCNRYGhPlAVRI5hsMdAz.jpg",
+   "arkaplan": "/jlIKAoJNn5lLF2vXMcWSEMkOAnN.jpg",
    "turler": [
-    "Komedi",
-    "Suç",
-    "Aksiyon & Macera"
+    "Aile",
+    "Dram"
    ],
    "ulkeler": [
     "TR"
    ],
-   "puan": 5.7,
-   "oySayisi": 3,
+   "puan": 7.2,
+   "oySayisi": 5,
    "platformlar": {
-    "flatrate": [
-     "Netflix"
+    "ads": [
+     "puhutv"
     ]
    },
-   "wikidata": null,
+   "wikidata": "Q138289636",
    "wiki": {
-    "tr": null,
+    "tr": "Sevdiğim Sensin",
     "en": null
    },
    "ilgi": {
-    "tr": null,
+    "tr": {
+     "son7": 3258,
+     "onceki7": 3442,
+     "degisim": 0.947
+    },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-16"
+   "sonrakiBolum": "2026-10-29",
+   "sonBolum": "2026-10-15"
   },
   {
    "goster": true,
@@ -720,7 +758,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-10-16"
+   "sonBolum": "2026-10-19"
   },
   {
    "goster": true,
@@ -813,6 +851,47 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-321928",
+   "tmdbId": 321928,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Altı Üstü İstanbul",
+   "orijinalAd": "Altı Üstü İstanbul",
+   "yil": "2026",
+   "ozet": "\"Altı Üstü İstanbul\", kenar mahallede yaşayan Emir'in ve arkadaşlarının hayat mücadelesini merkezine alıyor. Hayallerinin peşinden koşarken güç, para ve ihanetle yüzleşen gençler; attıkları her adımda hem kendi hayatlarını hem de birbirlerinin kaderini değiştirecek kararlar vermek zorunda kalacak. Dostlukların kırıldığı, aşkların yeniden şekillendiği ve herkesin kendi savaşını verdiği hikâye; İstanbul'un karmaşık sokaklarında izleyiciyi duygusal ve sürükleyici bir yolculuğa çıkaracak.",
+   "poster": "/8GzocJ1oEslGCO2uPlQzW6kH5NG.jpg",
+   "arkaplan": "/gArW7wThMe09R5WV7NRZTTjgd8C.jpg",
+   "turler": [
+    "Komedi",
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.5,
+   "oySayisi": 2,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-26",
+   "sonBolum": "2026-10-19"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-322499",
@@ -853,47 +932,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-321928",
-   "tmdbId": 321928,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Altı Üstü İstanbul",
-   "orijinalAd": "Altı Üstü İstanbul",
-   "yil": "2026",
-   "ozet": "\"Altı Üstü İstanbul\", kenar mahallede yaşayan Emir'in ve arkadaşlarının hayat mücadelesini merkezine alıyor. Hayallerinin peşinden koşarken güç, para ve ihanetle yüzleşen gençler; attıkları her adımda hem kendi hayatlarını hem de birbirlerinin kaderini değiştirecek kararlar vermek zorunda kalacak. Dostlukların kırıldığı, aşkların yeniden şekillendiği ve herkesin kendi savaşını verdiği hikâye; İstanbul'un karmaşık sokaklarında izleyiciyi duygusal ve sürükleyici bir yolculuğa çıkaracak.",
-   "poster": "/8GzocJ1oEslGCO2uPlQzW6kH5NG.jpg",
-   "arkaplan": "/gArW7wThMe09R5WV7NRZTTjgd8C.jpg",
-   "turler": [
-    "Komedi",
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.5,
-   "oySayisi": 2,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-26",
-   "sonBolum": "2026-10-19"
   },
   {
    "goster": true,
@@ -1073,6 +1111,86 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-329662",
+   "tmdbId": 329662,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Evlilik Güzeldir",
+   "orijinalAd": "Evlilik Güzeldir",
+   "yil": "2026",
+   "ozet": "Evlilik Güzeldir dizisi, hayatı boyunca binlerce çiftin nikâhını kıyan rekortmen nikâh memuru Mesut Bahtiyar ile birbirinden farklı beş bekar kızının hikâyesini anlatıyor. İstanbul’un köklü semtlerinden birinde geçen dizi, ailesine, geleneklerine ve değerlerine bağlı bir baba olan Mesut’un kızlarının mutlu bir yuva kurmasını istemesiyle gelişen olayları konu ediyor.",
+   "poster": "/kMEUr1CH5fGmeae3rVP4xDfD9t3.jpg",
+   "arkaplan": "/zXWWutJ96z2bF84U9LO4EjTije1.jpg",
+   "turler": [
+    "Aile"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 6.0,
+   "oySayisi": 2,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-10-19"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-332679",
+   "tmdbId": 332679,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Sevdan Bir Ateş",
+   "orijinalAd": "Sevdan Bir Ateş",
+   "yil": "2026",
+   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
+   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
+   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": "Q141452320",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-10-21",
+   "sonBolum": "2026-10-14"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-332614",
    "tmdbId": 332614,
    "tur": "dizi",
@@ -1107,46 +1225,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-10-20",
    "sonBolum": "2026-10-13"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-329662",
-   "tmdbId": 329662,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Evlilik Güzeldir",
-   "orijinalAd": "Evlilik Güzeldir",
-   "yil": "2026",
-   "ozet": "Evlilik Güzeldir dizisi, hayatı boyunca binlerce çiftin nikâhını kıyan rekortmen nikâh memuru Mesut Bahtiyar ile birbirinden farklı beş bekar kızının hikâyesini anlatıyor. İstanbul’un köklü semtlerinden birinde geçen dizi, ailesine, geleneklerine ve değerlerine bağlı bir baba olan Mesut’un kızlarının mutlu bir yuva kurmasını istemesiyle gelişen olayları konu ediyor.",
-   "poster": "/kMEUr1CH5fGmeae3rVP4xDfD9t3.jpg",
-   "arkaplan": "/zXWWutJ96z2bF84U9LO4EjTije1.jpg",
-   "turler": [
-    "Aile"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 6.0,
-   "oySayisi": 2,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-12"
   },
   {
    "goster": true,
@@ -1227,46 +1305,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-10-18"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-332679",
-   "tmdbId": 332679,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Sevdan Bir Ateş",
-   "orijinalAd": "Sevdan Bir Ateş",
-   "yil": "2026",
-   "ozet": "Mirza ve Leyla’nın düğünü nikaha bir kaç saat kala Leyla’nın ortadan kaybolmasıyla yarım kalır. Aradan geçen yedi yılda Leyla’dan kimse bir haber alamaz. Mirza’nın yeniden hayatını kurmaya karar verdiği ve Destan’la evlenmek üzere gün Mirza’nın yedi aylık yeğeni Kerem insan kaçaklığı yapan öz babası tarafından kaçırılınca Mirza yeğenini ve onu kaçıran eniştesini bulmak için Halep’e gider. Ancak Halep sadece Kerem’i değil, yedi senedir kendisini acılar içinde bırakan Leyla’yı da geri verecektir Mirza’ya. Leyla’yı ve öz kızı olduğunu bilmediği 6 yaşındaki Hüma’yı Suriye’den kaçırmak için zorlu bir mücadele eden Mirza’yı Kapadokya’da da kendi ailesine karşı vereceği çetin bir mücadele beklemektedir.",
-   "poster": "/pmHRDFAZukHw089H58c6b6EUilQ.jpg",
-   "arkaplan": "/hRX9muBkJGRydSFh0KvRcpgUJ56.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": "Q141452320",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-10-21",
-   "sonBolum": "2026-10-14"
   },
   {
    "goster": true,
@@ -1597,6 +1635,63 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-549",
+   "tmdbId": 549,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Law & Order",
+   "orijinalAd": "Law & Order",
+   "yil": "1990",
+   "ozet": "Law & Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.",
+   "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
+   "arkaplan": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
+   "turler": [
+    "Suç",
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.289,
+   "oySayisi": 736,
+   "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
+    "flatrate": [
+     "Amazon Prime Video",
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q321423",
+   "wiki": {
+    "tr": "Law & Order",
+    "en": "Law & Order"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 172,
+     "onceki7": 137,
+     "degisim": 1.255
+    },
+    "en": {
+     "son7": 29776,
+     "onceki7": 27099,
+     "degisim": 1.099
+    },
+    "trEnOran": 0.0058
+   },
+   "sonrakiBolum": "2026-10-22",
+   "sonBolum": "2026-10-15"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-2734",
    "tmdbId": 2734,
    "tur": "dizi",
@@ -1648,63 +1743,6 @@ SAHNE_GUN({
      "degisim": 0.887
     },
     "trEnOran": 0.0029
-   },
-   "sonrakiBolum": "2026-10-22",
-   "sonBolum": "2026-10-15"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-549",
-   "tmdbId": 549,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Law & Order",
-   "orijinalAd": "Law & Order",
-   "yil": "1990",
-   "ozet": "Law & Order, ABD kaynaklı bir mahkeme ve suç draması konulu bir televizyon dizisi. Dick Wolf tarafından yaratılan dizi 13 Eylül 1990 tarihinde ABD'nin NBC televizyon kanalında yayına başlamıştır. New York kentinde geçen dizi bir grup savcı ve polis görevlilerinin meslek yaşamlarını konu almaktadır.",
-   "poster": "/hmd2tEtjolLWpNLCTvXS2PO5VCi.jpg",
-   "arkaplan": "/hrfP9BQ4mOMZOa8nHbFJLSDHBLz.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.289,
-   "oySayisi": 736,
-   "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video",
-     "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
-    ]
-   },
-   "wikidata": "Q321423",
-   "wiki": {
-    "tr": "Law & Order",
-    "en": "Law & Order"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 172,
-     "onceki7": 137,
-     "degisim": 1.255
-    },
-    "en": {
-     "son7": 29776,
-     "onceki7": 27099,
-     "degisim": 1.099
-    },
-    "trEnOran": 0.0058
    },
    "sonrakiBolum": "2026-10-22",
    "sonBolum": "2026-10-15"
@@ -2007,11 +2045,11 @@ SAHNE_GUN({
    "puan": 8.3,
    "oySayisi": 2842,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "TV+"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q111967146",
@@ -2056,8 +2094,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.5,
-   "oySayisi": 138,
+   "puan": 8.51,
+   "oySayisi": 145,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2262,8 +2300,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.7,
-   "oySayisi": 259,
+   "puan": 9.733,
+   "oySayisi": 260,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2576,10 +2614,10 @@ SAHNE_GUN({
    "puan": 8.7,
    "oySayisi": 672,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2732,7 +2770,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.628,
+   "puan": 7.6,
    "oySayisi": 345,
    "platformlar": {
     "flatrate": [
@@ -2782,14 +2820,14 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.967,
+   "puan": 8.0,
    "oySayisi": 403,
    "platformlar": {
-    "flatrate": [
-     "TV+"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "TV+"
     ]
    },
    "wikidata": "Q134416903",
@@ -3286,7 +3324,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.49,
-   "oySayisi": 2028,
+   "oySayisi": 2033,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3393,11 +3431,11 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 1365,
    "platformlar": {
-    "flatrate": [
-     "Disney Plus",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Disney Plus",
      "Crunchyroll"
     ]
    },
@@ -3494,8 +3532,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.375,
-   "oySayisi": 16,
+   "puan": 9.412,
+   "oySayisi": 17,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4367,7 +4405,11 @@ SAHNE_GUN({
    ],
    "puan": 1.0,
    "oySayisi": 2,
-   "platformlar": {},
+   "platformlar": {
+    "flatrate": [
+     "Amazon Prime Video"
+    ]
+   },
    "wikidata": "Q136664062",
    "wiki": {
     "tr": null,
