@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-15",
   "bit": "2026-10-21"
  },
- "uretildi": "2026-10-21T12:13:22+03:00",
+ "uretildi": "2026-10-21T17:56:36+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -54,8 +54,8 @@ SAHNE_GUN({
     "FR",
     "US"
    ],
-   "puan": 7.1,
-   "oySayisi": 120,
+   "puan": 7.058,
+   "oySayisi": 121,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -99,8 +99,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.394,
-   "oySayisi": 118,
+   "puan": 8.384,
+   "oySayisi": 121,
    "platformlar": {},
    "wikidata": "Q134386482",
    "wiki": {
@@ -1103,7 +1103,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-27",
    "sonBolum": "2026-10-20"
   },
   {
@@ -1183,7 +1183,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-26",
    "sonBolum": "2026-10-19"
   },
   {
@@ -1403,7 +1403,7 @@ SAHNE_GUN({
    "yil": "2026",
    "ozet": "8 yıl önce Almanya'da yaşanan büyük bir kaybın ardından yolları küçük bir çocuğun etrafında kesişen Ali ve Zeynep'in duygusal hikayesini anlatıyor",
    "poster": "/kSTdVwURCDjqIQmYrVeTZIFXxzE.jpg",
-   "arkaplan": "/wvVmG1XQRh0oLmKUlzc5KLUUt34.jpg",
+   "arkaplan": "/of64wZ6WYVdverh1YSeV0fXufdY.jpg",
    "turler": [
     "Dram",
     "Pembe Dizi"
@@ -1424,7 +1424,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-10-27",
    "sonBolum": "2026-10-20"
   },
   {
@@ -1617,12 +1617,12 @@ SAHNE_GUN({
    "puan": 7.289,
    "oySayisi": 736,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q321423",
@@ -1675,14 +1675,14 @@ SAHNE_GUN({
    "puan": 7.961,
    "oySayisi": 4385,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Netflix",
      "Amazon Prime Video",
      "Disney Plus",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q218567",
@@ -1895,7 +1895,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.526,
-   "oySayisi": 1060,
+   "oySayisi": 1061,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2002,7 +2002,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.3,
-   "oySayisi": 2844,
+   "oySayisi": 2846,
    "platformlar": {
     "buy": [
      "Amazon Video"
@@ -2053,8 +2053,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.562,
-   "oySayisi": 153,
+   "puan": 8.572,
+   "oySayisi": 167,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -2209,8 +2209,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.4,
-   "oySayisi": 2303,
+   "puan": 8.353,
+   "oySayisi": 2304,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2417,7 +2417,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.5,
-   "oySayisi": 2045,
+   "oySayisi": 2051,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2627,14 +2627,14 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.5,
-   "oySayisi": 1685,
+   "puan": 8.549,
+   "oySayisi": 1686,
    "platformlar": {
-    "flatrate": [
-     "Netflix",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Netflix",
      "Crunchyroll"
     ]
    },
@@ -2681,13 +2681,13 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.657,
-   "oySayisi": 674,
+   "puan": 8.658,
+   "oySayisi": 675,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2836,8 +2836,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.0,
-   "oySayisi": 403,
+   "puan": 7.954,
+   "oySayisi": 405,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -3387,8 +3387,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 4.5,
-   "oySayisi": 4,
+   "puan": 5.6,
+   "oySayisi": 5,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3489,8 +3489,8 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.014,
-   "oySayisi": 145,
+   "puan": 8.03,
+   "oySayisi": 148,
    "platformlar": {
     "flatrate": [
      "Crunchyroll"
@@ -3782,7 +3782,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.972,
+   "puan": 8.0,
    "oySayisi": 1247,
    "platformlar": {
     "flatrate": [
@@ -3975,8 +3975,8 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.355,
-   "oySayisi": 304,
+   "puan": 7.357,
+   "oySayisi": 305,
    "platformlar": {
     "flatrate": [
      "HBO Max"
@@ -4028,7 +4028,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.449,
+   "puan": 8.4,
    "oySayisi": 137,
    "platformlar": {
     "flatrate": [
