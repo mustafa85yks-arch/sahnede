@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-17",
   "bit": "2026-10-23"
  },
- "uretildi": "2026-10-23T12:12:19+03:00",
+ "uretildi": "2026-10-23T17:44:41+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -86,11 +86,11 @@ SAHNE_GUN({
    "listeler": [
     "dijital-cikis"
    ],
-   "ad": "Contra El Huracán",
-   "orijinalAd": "Contra El Huracán",
+   "ad": "Otis Kasırgasının Tam Ortasında",
+   "orijinalAd": "Contra el huracán",
    "yil": "2026",
-   "ozet": null,
-   "poster": "/lFaMt4I8LiQAGW9Rb5gfGFXbvOY.jpg",
+   "ozet": "İki dargın kardeş Acapulco'da Otis Kasırgası'ndan sağ kurtulmaya çalışırken aralarındaki bağ ve cesaretleri sayesinde zorlukları umuda dönüştürür. Gerçek bir hikâyeden esinlenildi.",
+   "poster": "/b0yAwWrTiL2YPWwIEQqvKloeFGn.jpg",
    "arkaplan": "/cpNMIRCrDl0sxDL1tHBzfWi0UZC.jpg",
    "turler": [
     "Dram"
@@ -270,8 +270,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.455,
-   "oySayisi": 11,
+   "puan": 8.583,
+   "oySayisi": 12,
    "platformlar": {},
    "wikidata": "Q136485029",
    "wiki": {
@@ -871,8 +871,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-10-15"
+   "sonrakiBolum": "2026-10-29",
+   "sonBolum": "2026-10-22"
   },
   {
    "goster": true,
@@ -1427,7 +1427,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-10-08"
+   "sonBolum": "2026-10-22"
   },
   {
    "goster": true,
@@ -1631,7 +1631,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-10-19"
+   "sonBolum": "2026-10-22"
   },
   {
    "goster": true,
@@ -1959,8 +1959,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.0,
-   "oySayisi": 11097,
+   "puan": 8.026,
+   "oySayisi": 11098,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2012,7 +2012,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.204,
-   "oySayisi": 11093,
+   "oySayisi": 11092,
    "platformlar": {
     "flatrate": [
      "Disney Plus",
@@ -2118,8 +2118,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.537,
-   "oySayisi": 1070,
+   "puan": 8.541,
+   "oySayisi": 1071,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2435,8 +2435,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.708,
-   "oySayisi": 276,
+   "puan": 9.7,
+   "oySayisi": 277,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2489,7 +2489,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.5,
-   "oySayisi": 2067,
+   "oySayisi": 2071,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2749,13 +2749,13 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.655,
+   "puan": 8.7,
    "oySayisi": 681,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -2801,8 +2801,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.983,
-   "oySayisi": 1260,
+   "puan": 8.0,
+   "oySayisi": 1263,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3259,8 +3259,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 7.455,
-   "oySayisi": 11,
+   "puan": 7.667,
+   "oySayisi": 12,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3405,7 +3405,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.509,
+   "puan": 7.5,
    "oySayisi": 345,
    "platformlar": {
     "flatrate": [
@@ -3449,7 +3449,7 @@ SAHNE_GUN({
    "orijinalAd": "Elsbeth",
    "yil": "2024",
    "ozet": "Zeki ama alışılmışın oldukça dışında olan çılgın avukat Elsbeth Tascioni, Chicago'da yükseldiği hukuk kariyerini bırakıp New York'a taşınır.Eşsiz bakış açısıyla New York'un zengin katillerini yakalamak için polis departmanı ile birlikte çalışır.",
-   "poster": "/pU8T64vNT596oG0U4BG7c0QMXOi.jpg",
+   "poster": "/7lnNSbT90qwtrn1h9TvEkVFMz2P.jpg",
    "arkaplan": "/t7kDn4X7JpRnBlKN0vPVy5RXZlA.jpg",
    "turler": [
     "Suç",
@@ -3459,7 +3459,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.717,
+   "puan": 6.7,
    "oySayisi": 143,
    "platformlar": {
     "flatrate": [
@@ -3660,11 +3660,11 @@ SAHNE_GUN({
    "puan": 8.4,
    "oySayisi": 1367,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Disney Plus",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3997,7 +3997,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.815,
+   "puan": 7.8,
    "oySayisi": 73,
    "platformlar": {
     "flatrate": [
@@ -4098,7 +4098,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 7.3,
-   "oySayisi": 302,
+   "oySayisi": 304,
    "platformlar": {
     "flatrate": [
      "Netflix"
