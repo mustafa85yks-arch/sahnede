@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-18",
   "bit": "2026-10-24"
  },
- "uretildi": "2026-10-24T11:45:14+03:00",
+ "uretildi": "2026-10-24T16:53:48+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -52,8 +52,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 6.2,
-   "oySayisi": 3,
+   "puan": 4.9,
+   "oySayisi": 5,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -133,8 +133,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.4,
-   "oySayisi": 47,
+   "puan": 8.458,
+   "oySayisi": 48,
    "platformlar": {
     "ads": [
      "puhutv"
@@ -325,8 +325,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.36,
-   "oySayisi": 25,
+   "puan": 8.192,
+   "oySayisi": 26,
    "platformlar": {},
    "wikidata": "Q136559492",
    "wiki": {
@@ -1604,7 +1604,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.204,
-   "oySayisi": 11094,
+   "oySayisi": 11095,
    "platformlar": {
     "flatrate": [
      "Disney Plus",
@@ -1718,14 +1718,14 @@ SAHNE_GUN({
    "puan": 7.962,
    "oySayisi": 4386,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Netflix",
      "Amazon Prime Video",
      "Disney Plus",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q218567",
@@ -1774,8 +1774,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.8,
-   "oySayisi": 168,
+   "puan": 8.746,
+   "oySayisi": 169,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1933,7 +1933,7 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.551,
+   "puan": 8.6,
    "oySayisi": 1080,
    "platformlar": {
     "flatrate": [
@@ -2406,7 +2406,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.5,
-   "oySayisi": 2078,
+   "oySayisi": 2079,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2459,8 +2459,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.655,
-   "oySayisi": 684,
+   "puan": 8.657,
+   "oySayisi": 685,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2511,8 +2511,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.984,
-   "oySayisi": 1264,
+   "puan": 8.0,
+   "oySayisi": 1265,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2671,8 +2671,8 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.676,
-   "oySayisi": 2703,
+   "puan": 7.7,
+   "oySayisi": 2705,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2879,7 +2879,7 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.167,
+   "puan": 8.2,
    "oySayisi": 6,
    "platformlar": {
     "flatrate": [
@@ -3773,10 +3773,10 @@ SAHNE_GUN({
    "puan": 8.037,
    "oySayisi": 149,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
