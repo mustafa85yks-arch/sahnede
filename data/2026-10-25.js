@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-10-19",
   "bit": "2026-10-25"
  },
- "uretildi": "2026-10-25T12:01:17+03:00",
+ "uretildi": "2026-10-25T17:10:20+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -52,8 +52,8 @@ SAHNE_GUN({
    "ulkeler": [
     "MX"
    ],
-   "puan": 5.1,
-   "oySayisi": 16,
+   "puan": 5.4,
+   "oySayisi": 17,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -235,8 +235,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.583,
-   "oySayisi": 12,
+   "puan": 8.692,
+   "oySayisi": 13,
    "platformlar": {},
    "wikidata": "Q136485029",
    "wiki": {
@@ -1394,7 +1394,7 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
+   "sonrakiBolum": "2026-11-06",
    "sonBolum": "2026-10-23"
   },
   {
@@ -1871,8 +1871,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.0,
-   "oySayisi": 11105,
+   "puan": 8.026,
+   "oySayisi": 11106,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -1980,8 +1980,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.736,
-   "oySayisi": 174,
+   "puan": 8.75,
+   "oySayisi": 176,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2030,8 +2030,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.556,
-   "oySayisi": 1082,
+   "puan": 8.558,
+   "oySayisi": 1083,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2456,8 +2456,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.668,
-   "oySayisi": 291,
+   "puan": 9.671,
+   "oySayisi": 293,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2497,7 +2497,7 @@ SAHNE_GUN({
    "yil": "2022",
    "ozet": "Binbaşı James Reece, tüm müfrezesinin öldürülmesinin ardındaki gizemli güçleri araştırıp intikam almaya başlar. Ordunun komuta yapısından bağımsız hareket eden Reece, sorumlu kişileri yakalamak için yaklaşık yirmi yıllık muharebe deneyimini kullanır.",
    "poster": "/iPMlJBwKJaOeoy8c0KIoSpSDr7P.jpg",
-   "arkaplan": "/98mdtfkJ77vVikylIbOQYfJvxpJ.jpg",
+   "arkaplan": "/2qS2LGqsAyT1NEDeIj24Hp2IR10.jpg",
    "turler": [
     "Aksiyon & Macera",
     "Dram"
@@ -2505,8 +2505,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.985,
-   "oySayisi": 1268,
+   "puan": 8.0,
+   "oySayisi": 1269,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2609,7 +2609,7 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.7,
+   "puan": 7.673,
    "oySayisi": 2710,
    "platformlar": {
     "flatrate": [
@@ -2770,8 +2770,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.549,
-   "oySayisi": 1688,
+   "puan": 8.55,
+   "oySayisi": 1689,
    "platformlar": {
     "ads": [
      "Crunchyroll"
@@ -2825,12 +2825,12 @@ SAHNE_GUN({
    "puan": 8.258,
    "oySayisi": 1285,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q19848860",
@@ -3074,7 +3074,7 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 8.167,
+   "puan": 8.2,
    "oySayisi": 6,
    "platformlar": {
     "flatrate": [
@@ -3174,11 +3174,11 @@ SAHNE_GUN({
    "puan": 7.962,
    "oySayisi": 408,
    "platformlar": {
-    "flatrate": [
-     "TV+"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "TV+"
     ]
    },
    "wikidata": "Q134416903",
@@ -3818,7 +3818,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.3,
+   "puan": 7.316,
    "oySayisi": 304,
    "platformlar": {
     "flatrate": [
@@ -4261,11 +4261,11 @@ SAHNE_GUN({
    "puan": 7.7,
    "oySayisi": 117,
    "platformlar": {
-    "ads": [
-     "Crunchyroll"
-    ],
     "flatrate": [
      "Netflix",
+     "Crunchyroll"
+    ],
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -4307,7 +4307,7 @@ SAHNE_GUN({
    "ulkeler": [
     "GB"
    ],
-   "puan": 7.562,
+   "puan": 7.6,
    "oySayisi": 145,
    "platformlar": {
     "flatrate": [
