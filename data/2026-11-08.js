@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-11-02",
   "bit": "2026-11-08"
  },
- "uretildi": "2026-11-08T14:07:47+03:00",
+ "uretildi": "2026-11-08T23:17:36+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -17,13 +17,13 @@ SAHNE_GUN({
   }
  ],
  "sayim": {
-  "toplam": 100,
-  "turk": 35,
+  "toplam": 101,
+  "turk": 36,
   "yabanci": 65,
   "gosterilen": 83,
-  "anime": 15,
-  "wikiEslesen": 65,
-  "ilgiVerisiOlan": 64,
+  "anime": 16,
+  "wikiEslesen": 66,
+  "ilgiVerisiOlan": 65,
   "platformBilinen": 73
  },
  "hatalar": [],
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 5.815,
-   "oySayisi": 81,
+   "puan": 5.795,
+   "oySayisi": 83,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -102,7 +102,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.205,
+   "puan": 8.2,
    "oySayisi": 22,
    "platformlar": {
     "flatrate": [
@@ -141,13 +141,14 @@ SAHNE_GUN({
    "poster": "/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
    "arkaplan": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
    "turler": [
-    "Dram"
+    "Dram",
+    "Romantik"
    ],
    "ulkeler": [
     "KR"
    ],
-   "puan": 7.6,
-   "oySayisi": 29,
+   "puan": 7.474,
+   "oySayisi": 39,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -294,8 +295,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TH"
    ],
-   "puan": 6.0,
-   "oySayisi": 1,
+   "puan": 6.333,
+   "oySayisi": 3,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -426,11 +427,11 @@ SAHNE_GUN({
    "puan": 8.5,
    "oySayisi": 51,
    "platformlar": {
-    "ads": [
-     "puhutv"
-    ],
     "flatrate": [
      "Amazon Prime Video"
+    ],
+    "ads": [
+     "puhutv"
     ]
    },
    "wikidata": "Q131195670",
@@ -493,52 +494,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-11-14",
    "sonBolum": "2026-11-07"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-119806",
-   "tmdbId": 119806,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Teşkilat",
-   "orijinalAd": "Teşkilat",
-   "yil": "2021",
-   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
-   "poster": "/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg",
-   "arkaplan": "/7wdsSCLs2NsfI1p7eDqwzdN8nFX.jpg",
-   "turler": [
-    "Savaş & Politik",
-    "Dram",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 7.351,
-   "oySayisi": 37,
-   "platformlar": {},
-   "wikidata": "Q105755428",
-   "wiki": {
-    "tr": "Teşkilat (dizi)",
-    "en": null
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 3588,
-     "onceki7": 3924,
-     "degisim": 0.914
-    },
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-08",
-   "sonBolum": "2026-11-01"
   },
   {
    "goster": true,
@@ -629,6 +584,52 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-11-07"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-119806",
+   "tmdbId": 119806,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Teşkilat",
+   "orijinalAd": "Teşkilat",
+   "yil": "2021",
+   "ozet": "Giderek yoğunlaşan bir şekilde yabancı istihbarat servislerinin operasyonlarına maruz kalan ülkemizde, Ankara'daki SİHA fabrikasına bir terör saldırısı düzenlenir. Saldırının yabancı istihbarat servisleri organizasyonu ile gerçekleştirildiği tespit edilir. Bu saldırıların üzerine MİT içinde çok gizli bir ekip kurulur. Bu ekip ülkesi için hayatlarından vazgeçerek saldırıların arkasındaki güçleri tespit edecek ve olağanüstü yöntemlerle ortadan kaldıracaktır.",
+   "poster": "/jJ7kZ2KK8VlXCeFRluqSuFzbL3z.jpg",
+   "arkaplan": "/7wdsSCLs2NsfI1p7eDqwzdN8nFX.jpg",
+   "turler": [
+    "Savaş & Politik",
+    "Dram",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.351,
+   "oySayisi": 37,
+   "platformlar": {},
+   "wikidata": "Q105755428",
+   "wiki": {
+    "tr": "Teşkilat (dizi)",
+    "en": null
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 3588,
+     "onceki7": 3924,
+     "degisim": 0.914
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-08",
+   "sonBolum": "2026-11-01"
   },
   {
    "goster": true,
@@ -774,6 +775,47 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
+   "id": "dizi-306118",
+   "tmdbId": 306118,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Arafta",
+   "orijinalAd": "Arafta",
+   "yil": "2025",
+   "ozet": null,
+   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
+   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
+   "turler": [
+    "Dram",
+    "Aile"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 9.1,
+   "oySayisi": 26,
+   "platformlar": {},
+   "wikidata": "Q138012917",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-306215",
@@ -819,47 +861,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-11-12",
    "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-306118",
-   "tmdbId": 306118,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Arafta",
-   "orijinalAd": "Arafta",
-   "yil": "2025",
-   "ozet": null,
-   "poster": "/4yYZoYgeNshoS2aODwUvCXIa8yn.jpg",
-   "arkaplan": "/wuHqvkUVc5jVbeVnTw37Oe8ikC7.jpg",
-   "turler": [
-    "Dram",
-    "Aile"
-   ],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 9.1,
-   "oySayisi": 26,
-   "platformlar": {},
-   "wikidata": "Q138012917",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-11-06"
   },
   {
    "goster": true,
@@ -1301,6 +1302,53 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-204990",
+   "tmdbId": 204990,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Kral Şakir",
+   "orijinalAd": "Kral Şakir",
+   "yil": "2016",
+   "ozet": "Bir aslan ailesinin yavrusu olan Şakir'in ailesi ve arkadaşları ile olan maceraları anlatılmaktadır. Şakir'in babası Remzi aslan, annesi Kadriye ve kız kardeşi Canan kedidir ve Peyami adında bir kaplumbağa dedesi vardır. Remzi'nin Necati adında arkadaşı vardır ve bir fildir. Hep onların evindedir, çoğu zaman da yemek yiyip oyun oynar. Bir de evsiz, çöplüklerde yaşayan ve hep çöp yiyen ve gofrete bayılan Tanju adında bir sokak köpeği vardır. Hep onlarla takılır. Hep kirli işlerin peşinde olan Kürşat adında bir akbaba ve oğlu Cemşit de vardır, sürekli olarak yanındaki iki adamıyla kötü işler çevirir. Oğlu olan Cemşit, Şakir ile aynı sınıftadır. Mirket adında, bilimle uğraşan bir hayvan da vardır. Çoğu zaman Şakir, Necati ve Remzi işleri batırdığında toparlamaları için yardım eder.",
+   "poster": "/xmXLEE2Dz3VQaWOV122uKYHgapW.jpg",
+   "arkaplan": "/9BVfHMckYimbIVC78Is75xDZvSW.jpg",
+   "turler": [
+    "Animasyon",
+    "Çocuklar",
+    "Komedi",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 0.0,
+   "oySayisi": 0,
+   "platformlar": {},
+   "wikidata": "Q24238429",
+   "wiki": {
+    "tr": "Kral Şakir",
+    "en": "Kral Şakir"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 421,
+     "onceki7": 530,
+     "degisim": 0.794
+    },
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
    "id": "dizi-329662",
@@ -1429,27 +1477,25 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
-   "id": "dizi-333438",
-   "tmdbId": 333438,
+   "id": "dizi-317839",
+   "tmdbId": 317839,
    "tur": "dizi",
    "koken": "turk",
    "listeler": [
     "turk-dizi"
    ],
-   "ad": "Güneşin Doğduğu Yer",
-   "orijinalAd": "Güneşin Doğduğu Yer",
-   "yil": "2026",
-   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
-   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
-   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
-   "turler": [
-    "Dram"
-   ],
+   "ad": "Yunus'un Odası",
+   "orijinalAd": "Yunus'un Odası",
+   "yil": "2024",
+   "ozet": null,
+   "poster": "/AoOAhH4waFmJ1bm4AKLi7WxPc46.jpg",
+   "arkaplan": "/6ELw6nc0auMlf8j3d5tgSkn6yuM.jpg",
+   "turler": [],
    "ulkeler": [
     "TR"
    ],
-   "puan": 7.0,
-   "oySayisi": 1,
+   "puan": 0.0,
+   "oySayisi": 0,
    "platformlar": {},
    "wikidata": null,
    "wiki": {
@@ -1462,7 +1508,7 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": null,
-   "sonBolum": "2026-11-05"
+   "sonBolum": "2026-11-03"
   },
   {
    "goster": true,
@@ -1509,6 +1555,46 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": false,
    "yeniSayilir": false,
+   "id": "dizi-333438",
+   "tmdbId": 333438,
+   "tur": "dizi",
+   "koken": "turk",
+   "listeler": [
+    "turk-dizi"
+   ],
+   "ad": "Güneşin Doğduğu Yer",
+   "orijinalAd": "Güneşin Doğduğu Yer",
+   "yil": "2026",
+   "ozet": "Çukurova'nın köklü ailelerinden Kozanlar'ın oğlu Kenan'ın hayatının aşkıyla tanışmasının ardından değişen yaşamı etrafında şekilleniyor. Hikâye Almanya'da başlıyor ve Adana'nın güçlü aile ilişkileriyle örülü dünyasında devam ediyor.",
+   "poster": "/9SBRjlJd6ntwY4fe0yVhLHzvztR.jpg",
+   "arkaplan": "/vH0UEQ6J5X8wvNqrgNJPOgWneMp.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "TR"
+   ],
+   "puan": 7.0,
+   "oySayisi": 1,
+   "platformlar": {},
+   "wikidata": null,
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-05"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": false,
    "id": "dizi-293413",
    "tmdbId": 293413,
    "tur": "dizi",
@@ -1545,44 +1631,6 @@ SAHNE_GUN({
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-11-06"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": false,
-   "id": "dizi-317839",
-   "tmdbId": 317839,
-   "tur": "dizi",
-   "koken": "turk",
-   "listeler": [
-    "turk-dizi"
-   ],
-   "ad": "Yunus'un Odası",
-   "orijinalAd": "Yunus'un Odası",
-   "yil": "2024",
-   "ozet": null,
-   "poster": "/AoOAhH4waFmJ1bm4AKLi7WxPc46.jpg",
-   "arkaplan": "/6ELw6nc0auMlf8j3d5tgSkn6yuM.jpg",
-   "turler": [],
-   "ulkeler": [
-    "TR"
-   ],
-   "puan": 0.0,
-   "oySayisi": 0,
-   "platformlar": {},
-   "wikidata": null,
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-11-03"
   },
   {
    "goster": true,
@@ -1903,14 +1951,14 @@ SAHNE_GUN({
    "puan": 8.0,
    "oySayisi": 4403,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "Netflix",
      "Amazon Prime Video",
      "Disney Plus",
      "TOD TV"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q218567",
@@ -1960,7 +2008,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.027,
-   "oySayisi": 11150,
+   "oySayisi": 11153,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2067,8 +2115,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.618,
-   "oySayisi": 1173,
+   "puan": 8.6,
+   "oySayisi": 1175,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2120,8 +2168,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.202,
-   "oySayisi": 11122,
+   "puan": 8.2,
+   "oySayisi": 11123,
    "platformlar": {
     "flatrate": [
      "Disney Plus",
@@ -2176,13 +2224,13 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.3,
-   "oySayisi": 2917,
+   "oySayisi": 2918,
    "platformlar": {
-    "buy": [
-     "Amazon Video"
-    ],
     "flatrate": [
      "TV+"
+    ],
+    "buy": [
+     "Amazon Video"
     ]
    },
    "wikidata": "Q111967146",
@@ -2284,8 +2332,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.6,
-   "oySayisi": 272,
+   "puan": 8.651,
+   "oySayisi": 275,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2332,8 +2380,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 6.763,
-   "oySayisi": 383,
+   "puan": 6.747,
+   "oySayisi": 384,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -2385,8 +2433,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 8.4,
-   "oySayisi": 18,
+   "puan": 8.1,
+   "oySayisi": 20,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2436,11 +2484,11 @@ SAHNE_GUN({
    "puan": 8.411,
    "oySayisi": 2461,
    "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ],
     "buy": [
      "Amazon Video"
+    ],
+    "flatrate": [
+     "Amazon Prime Video"
     ]
    },
    "wikidata": "Q1187416",
@@ -2591,8 +2639,8 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 8.1,
-   "oySayisi": 4701,
+   "puan": 8.068,
+   "oySayisi": 4702,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2623,6 +2671,50 @@ SAHNE_GUN({
   {
    "goster": true,
    "kategori": null,
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-303044",
+   "tmdbId": 303044,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Kampüs Şoförleri",
+   "orijinalAd": "Campus Drivers",
+   "yil": "2026",
+   "ozet": "Loïs, hayatının aşkı Max ile birlikte Belrose'a gelir. Kampüsün en popüler uygulaması olan Kampüs Şoförleri'nin yaratıcısı Lane ise, kimseye bağlanmamasıyla tanınır. Yollarının kesişmesi pek olası değildir. Ama bazı karşılaşmalar her şeyi değiştirir ve eski yaraları yeniden açar. Ve aşk beklenmedik bir anda ortaya çıktığında, artık hiçbir şey kesin değildir.",
+   "poster": "/wQENMQHYxyAew6Bzfy8Fm6UzQNI.jpg",
+   "arkaplan": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "FR"
+   ],
+   "puan": 8.0,
+   "oySayisi": 14,
+   "platformlar": {
+    "flatrate": [
+     "Amazon Prime Video"
+    ]
+   },
+   "wikidata": "Q142067619",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": true,
+   "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
    "id": "dizi-80748",
@@ -2646,7 +2738,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.918,
+   "puan": 7.9,
    "oySayisi": 964,
    "platformlar": {
     "flatrate": [
@@ -2696,8 +2788,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.6,
-   "oySayisi": 735,
+   "puan": 8.56,
+   "oySayisi": 736,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -2750,7 +2842,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.223,
+   "puan": 8.2,
    "oySayisi": 2883,
    "platformlar": {
     "flatrate": [
@@ -2805,12 +2897,12 @@ SAHNE_GUN({
    "puan": 8.3,
    "oySayisi": 1286,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q19848860",
@@ -2859,11 +2951,11 @@ SAHNE_GUN({
    "puan": 8.55,
    "oySayisi": 1701,
    "platformlar": {
-    "flatrate": [
-     "Netflix",
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
+     "Netflix",
      "Crunchyroll"
     ]
    },
@@ -2882,50 +2974,6 @@ SAHNE_GUN({
     "trEnOran": null
    },
    "sonrakiBolum": "2026-11-13",
-   "sonBolum": "2026-11-06"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-303044",
-   "tmdbId": 303044,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Kampüs Şoförleri",
-   "orijinalAd": "Campus Drivers",
-   "yil": "2026",
-   "ozet": "Loïs, hayatının aşkı Max ile birlikte Belrose'a gelir. Kampüsün en popüler uygulaması olan Kampüs Şoförleri'nin yaratıcısı Lane ise, kimseye bağlanmamasıyla tanınır. Yollarının kesişmesi pek olası değildir. Ama bazı karşılaşmalar her şeyi değiştirir ve eski yaraları yeniden açar. Ve aşk beklenmedik bir anda ortaya çıktığında, artık hiçbir şey kesin değildir.",
-   "poster": "/wQENMQHYxyAew6Bzfy8Fm6UzQNI.jpg",
-   "arkaplan": "/oaWJm4brEMSWBmQIB73DFxsU683.jpg",
-   "turler": [
-    "Dram"
-   ],
-   "ulkeler": [
-    "FR"
-   ],
-   "puan": 8.1,
-   "oySayisi": 9,
-   "platformlar": {
-    "flatrate": [
-     "Amazon Prime Video"
-    ]
-   },
-   "wikidata": "Q142067619",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
    "sonBolum": "2026-11-06"
   },
   {
@@ -2954,13 +3002,13 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.7,
+   "puan": 8.665,
    "oySayisi": 702,
    "platformlar": {
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ],
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ]
    },
@@ -3007,8 +3055,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.6,
-   "oySayisi": 394,
+   "puan": 9.628,
+   "oySayisi": 395,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3057,7 +3105,7 @@ SAHNE_GUN({
    "ulkeler": [
     "GB"
    ],
-   "puan": 7.045,
+   "puan": 7.0,
    "oySayisi": 475,
    "platformlar": {
     "flatrate": [
@@ -3156,8 +3204,8 @@ SAHNE_GUN({
    "ulkeler": [
     "CN"
    ],
-   "puan": 7.441,
-   "oySayisi": 17,
+   "puan": 7.553,
+   "oySayisi": 19,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3237,57 +3285,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-60694",
-   "tmdbId": 60694,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Last Week Tonight with John Oliver",
-   "orijinalAd": "Last Week Tonight with John Oliver",
-   "yil": "2014",
-   "ozet": null,
-   "poster": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
-   "arkaplan": "/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
-   "turler": [
-    "Talk",
-    "Komedi",
-    "Haber"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.7,
-   "oySayisi": 866,
-   "platformlar": {
-    "flatrate": [
-     "TV+",
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q16735585",
-   "wiki": {
-    "tr": null,
-    "en": "Last Week Tonight with John Oliver"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 5512,
-     "onceki7": 5561,
-     "degisim": 0.991
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-08",
-   "sonBolum": "2026-11-01"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-12786",
    "tmdbId": 12786,
    "tur": "dizi",
@@ -3341,6 +3338,57 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-60694",
+   "tmdbId": 60694,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Last Week Tonight with John Oliver",
+   "orijinalAd": "Last Week Tonight with John Oliver",
+   "yil": "2014",
+   "ozet": null,
+   "poster": "/fuuEjEr69uvRtGaQw70JfvdrUwb.jpg",
+   "arkaplan": "/q31EEBycbOyX7GGJP4GTPI5WJRO.jpg",
+   "turler": [
+    "Talk",
+    "Komedi",
+    "Haber"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.7,
+   "oySayisi": 866,
+   "platformlar": {
+    "flatrate": [
+     "TV+",
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q16735585",
+   "wiki": {
+    "tr": null,
+    "en": "Last Week Tonight with John Oliver"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 5512,
+     "onceki7": 5561,
+     "degisim": 0.991
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-08",
+   "sonBolum": "2026-11-01"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-293610",
    "tmdbId": 293610,
    "tur": "dizi",
@@ -3362,8 +3410,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.1,
-   "oySayisi": 41,
+   "puan": 9.095,
+   "oySayisi": 42,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3435,54 +3483,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-2370",
-   "tmdbId": 2370,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Hell's Kitchen",
-   "orijinalAd": "Hell's Kitchen",
-   "yil": "2005",
-   "ozet": null,
-   "poster": "/shOVFku8daIGRpgjTdMZBxUAvsV.jpg",
-   "arkaplan": "/kitfuCa2TqX6oY5HvdFRjMMaLwc.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 6.86,
-   "oySayisi": 349,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q1012139",
-   "wiki": {
-    "tr": null,
-    "en": "Hell's Kitchen (American TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 15001,
-     "onceki7": 14540,
-     "degisim": 1.032
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-81723",
    "tmdbId": 81723,
    "tur": "dizi",
@@ -3502,8 +3502,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.7,
-   "oySayisi": 289,
+   "puan": 7.696,
+   "oySayisi": 291,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3521,56 +3521,6 @@ SAHNE_GUN({
      "son7": 149322,
      "onceki7": 47077,
      "degisim": 3.172
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-08",
-   "sonBolum": "2026-11-01"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-14929",
-   "tmdbId": 14929,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Heartland",
-   "orijinalAd": "Heartland",
-   "yil": "2007",
-   "ozet": "Amy ve Lou Fleming kardeşler, bir araba kazasında kaybettikleri annelerinin hatırasını yaşatmak için çiftliklerinde bakıma muhtaç ve başıboş atlara bakarlar. İki kızkardeşin ve büyükbabaları Jack Bartlett'ın at çiftliğindeki hayatı hergün yepyeni sürprizlerle doludur.",
-   "poster": "/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
-   "arkaplan": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
-   "turler": [
-    "Aile",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "CA"
-   ],
-   "puan": 8.3,
-   "oySayisi": 592,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q521858",
-   "wiki": {
-    "tr": null,
-    "en": "Heartland (Canadian TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 7362,
-     "onceki7": 6600,
-     "degisim": 1.115
     },
     "trEnOran": null
    },
@@ -3634,101 +3584,98 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-212989",
-   "tmdbId": 212989,
+   "id": "dizi-14929",
+   "tmdbId": 14929,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "LEGO Ninjago: Ejderhaların Yükselişi",
-   "orijinalAd": "LEGO Ninjago: Dragons Rising",
-   "yil": "2023",
-   "ozet": "Farklı dünyalardan iki genç, ejderhaları yaşam güçlerini kötülük için kullanmak isteyen kötü karakterlerden korumak için yeni keşfettikleri Ninja güçlerinden faydalanır.",
-   "poster": "/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
-   "arkaplan": "/4vubgrPvqDKNFP1kNvHpd3do9hd.jpg",
+   "ad": "Heartland",
+   "orijinalAd": "Heartland",
+   "yil": "2007",
+   "ozet": "Amy ve Lou Fleming kardeşler, bir araba kazasında kaybettikleri annelerinin hatırasını yaşatmak için çiftliklerinde bakıma muhtaç ve başıboş atlara bakarlar. İki kızkardeşin ve büyükbabaları Jack Bartlett'ın at çiftliğindeki hayatı hergün yepyeni sürprizlerle doludur.",
+   "poster": "/osAYIqIGtnVpqz4FDdGjCezE11z.jpg",
+   "arkaplan": "/11nGiX6hLdexBD4TVUAAVzSIAQy.jpg",
    "turler": [
-    "Animasyon",
-    "Aksiyon & Macera",
-    "Çocuklar"
+    "Aile",
+    "Dram",
+    "Komedi"
    ],
    "ulkeler": [
-    "US"
+    "CA"
    ],
-   "puan": 8.1,
-   "oySayisi": 114,
+   "puan": 8.3,
+   "oySayisi": 592,
    "platformlar": {
     "flatrate": [
-     "Netflix",
-     "Amazon Prime Video",
-     "HBO Max"
+     "Netflix"
     ]
    },
-   "wikidata": "Q118109722",
+   "wikidata": "Q521858",
    "wiki": {
     "tr": null,
-    "en": "Ninjago: Dragons Rising"
+    "en": "Heartland (Canadian TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 3299,
-     "onceki7": 3077,
-     "degisim": 1.072
+     "son7": 7362,
+     "onceki7": 6600,
+     "degisim": 1.115
     },
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-03"
+   "sonrakiBolum": "2026-11-08",
+   "sonBolum": "2026-11-01"
   },
   {
    "goster": true,
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-202297",
-   "tmdbId": 202297,
+   "id": "dizi-2370",
+   "tmdbId": 2370,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "Fire Country",
-   "orijinalAd": "Fire Country",
-   "yil": "2022",
-   "ozet": "Hapis süresini kısaltmak isteyen genç mahkum Bode, yetenekli itfaiyecilerle çalışacağı bir programa katılır ancak kendi kasabasına atanması işleri zorlaştıracaktır.",
-   "poster": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
-   "arkaplan": "/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+   "ad": "Hell's Kitchen",
+   "orijinalAd": "Hell's Kitchen",
+   "yil": "2005",
+   "ozet": null,
+   "poster": "/shOVFku8daIGRpgjTdMZBxUAvsV.jpg",
+   "arkaplan": "/kitfuCa2TqX6oY5HvdFRjMMaLwc.jpg",
    "turler": [
-    "Dram",
-    "Suç"
+    "Gerçeklik"
    ],
    "ulkeler": [
     "US"
    ],
-   "puan": 8.029,
-   "oySayisi": 190,
+   "puan": 6.86,
+   "oySayisi": 349,
    "platformlar": {
     "flatrate": [
      "TOD TV"
     ]
    },
-   "wikidata": "Q114434662",
+   "wikidata": "Q1012139",
    "wiki": {
     "tr": null,
-    "en": "Fire Country"
+    "en": "Hell's Kitchen (American TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 18289,
-     "onceki7": 16109,
-     "degisim": 1.135
+     "son7": 15001,
+     "onceki7": 14540,
+     "degisim": 1.032
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-13",
-   "sonBolum": "2026-11-06"
+   "sonrakiBolum": "2026-11-12",
+   "sonBolum": "2026-11-05"
   },
   {
    "goster": false,
@@ -3780,6 +3727,107 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-11-14",
    "sonBolum": "2026-11-07"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-202297",
+   "tmdbId": 202297,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Fire Country",
+   "orijinalAd": "Fire Country",
+   "yil": "2022",
+   "ozet": "Hapis süresini kısaltmak isteyen genç mahkum Bode, yetenekli itfaiyecilerle çalışacağı bir programa katılır ancak kendi kasabasına atanması işleri zorlaştıracaktır.",
+   "poster": "/6XnA02VRG4dhBpTZWGZuXQdYGDW.jpg",
+   "arkaplan": "/r6jUY6q3ObYOeFFWxM7jemS7IWE.jpg",
+   "turler": [
+    "Dram",
+    "Suç"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.029,
+   "oySayisi": 190,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q114434662",
+   "wiki": {
+    "tr": null,
+    "en": "Fire Country"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 18289,
+     "onceki7": 16109,
+     "degisim": 1.135
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-13",
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-212989",
+   "tmdbId": 212989,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "LEGO Ninjago: Ejderhaların Yükselişi",
+   "orijinalAd": "LEGO Ninjago: Dragons Rising",
+   "yil": "2023",
+   "ozet": "Farklı dünyalardan iki genç, ejderhaları yaşam güçlerini kötülük için kullanmak isteyen kötü karakterlerden korumak için yeni keşfettikleri Ninja güçlerinden faydalanır.",
+   "poster": "/5q3tfPVAcL9AlFcb8HXsOdHEtJR.jpg",
+   "arkaplan": "/4vubgrPvqDKNFP1kNvHpd3do9hd.jpg",
+   "turler": [
+    "Animasyon",
+    "Aksiyon & Macera",
+    "Çocuklar"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.1,
+   "oySayisi": 114,
+   "platformlar": {
+    "flatrate": [
+     "Netflix",
+     "Amazon Prime Video",
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q118109722",
+   "wiki": {
+    "tr": null,
+    "en": "Ninjago: Dragons Rising"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 3299,
+     "onceki7": 3077,
+     "degisim": 1.072
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-03"
   },
   {
    "goster": false,
@@ -3836,6 +3884,103 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
+   "id": "dizi-226285",
+   "tmdbId": 226285,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Elsbeth",
+   "orijinalAd": "Elsbeth",
+   "yil": "2024",
+   "ozet": "Zeki ama alışılmışın oldukça dışında olan çılgın avukat Elsbeth Tascioni, Chicago'da yükseldiği hukuk kariyerini bırakıp New York'a taşınır.Eşsiz bakış açısıyla New York'un zengin katillerini yakalamak için polis departmanı ile birlikte çalışır.",
+   "poster": "/pU8T64vNT596oG0U4BG7c0QMXOi.jpg",
+   "arkaplan": "/t7kDn4X7JpRnBlKN0vPVy5RXZlA.jpg",
+   "turler": [
+    "Suç",
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 6.7,
+   "oySayisi": 145,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q123527699",
+   "wiki": {
+    "tr": null,
+    "en": "Elsbeth (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 16255,
+     "onceki7": 16973,
+     "degisim": 0.958
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-12",
+   "sonBolum": "2026-11-05"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-314271",
+   "tmdbId": 314271,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Bass X Machina",
+   "orijinalAd": "Bass X Machina",
+   "yil": "2026",
+   "ozet": "Haydutlar, makineler ve doğaüstü güçlerle kuşatılmış, Steampunk atmosferindeki Vahşi Batı'da bir baba; ailesini korumak için hem yargıç hem jüri hem de cellat olmak zorunda kalır.",
+   "poster": "/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
+   "arkaplan": "/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
+   "turler": [
+    "Animasyon",
+    "Vahşi Batı",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "KR",
+    "US"
+   ],
+   "puan": 7.6,
+   "oySayisi": 8,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q141436451",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-03"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
    "id": "dizi-258989",
    "tmdbId": 258989,
    "tur": "dizi",
@@ -3885,102 +4030,6 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-226285",
-   "tmdbId": 226285,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Elsbeth",
-   "orijinalAd": "Elsbeth",
-   "yil": "2024",
-   "ozet": "Zeki ama alışılmışın oldukça dışında olan çılgın avukat Elsbeth Tascioni, Chicago'da yükseldiği hukuk kariyerini bırakıp New York'a taşınır.Eşsiz bakış açısıyla New York'un zengin katillerini yakalamak için polis departmanı ile birlikte çalışır.",
-   "poster": "/pU8T64vNT596oG0U4BG7c0QMXOi.jpg",
-   "arkaplan": "/t7kDn4X7JpRnBlKN0vPVy5RXZlA.jpg",
-   "turler": [
-    "Suç",
-    "Dram",
-    "Komedi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 6.7,
-   "oySayisi": 145,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q123527699",
-   "wiki": {
-    "tr": null,
-    "en": "Elsbeth (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 16255,
-     "onceki7": 16973,
-     "degisim": 0.958
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-314271",
-   "tmdbId": 314271,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Bass X Machina",
-   "orijinalAd": "Bass X Machina",
-   "yil": "2026",
-   "ozet": "Haydutlar, makineler ve doğaüstü güçlerle kuşatılmış, Steampunk atmosferindeki Vahşi Batı'da bir baba; ailesini korumak için hem yargıç hem jüri hem de cellat olmak zorunda kalır.",
-   "poster": "/y9c1AwrldWRsY9edSf21cOgbI0h.jpg",
-   "arkaplan": "/gpp6NcgfSrxKDivWskRxLp9UadU.jpg",
-   "turler": [
-    "Animasyon",
-    "Vahşi Batı",
-    "Bilim Kurgu & Fantazi"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.625,
-   "oySayisi": 8,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q141436451",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-11-03"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
    "id": "dizi-34634",
    "tmdbId": 34634,
    "tur": "dizi",
@@ -4023,6 +4072,52 @@ SAHNE_GUN({
    },
    "sonrakiBolum": "2026-11-13",
    "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-101172",
+   "tmdbId": 101172,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "吞噬星空",
+   "orijinalAd": "吞噬星空",
+   "yil": "2020",
+   "ozet": null,
+   "poster": "/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
+   "arkaplan": "/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
+   "turler": [
+    "Animasyon",
+    "Bilim Kurgu & Fantazi",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "CN"
+   ],
+   "puan": 8.602,
+   "oySayisi": 49,
+   "platformlar": {
+    "flatrate": [
+     "Crunchyroll"
+    ]
+   },
+   "wikidata": "Q124709051",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-09",
+   "sonBolum": "2026-11-02"
   },
   {
    "goster": true,
@@ -4083,52 +4178,6 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": false,
    "yeniSayilir": true,
-   "id": "dizi-101172",
-   "tmdbId": 101172,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "吞噬星空",
-   "orijinalAd": "吞噬星空",
-   "yil": "2020",
-   "ozet": null,
-   "poster": "/dShQsQFLSivwCIRjC7crsnznPXY.jpg",
-   "arkaplan": "/lDVOl7wTFUIqwlSrWsGjBCHt3fQ.jpg",
-   "turler": [
-    "Animasyon",
-    "Bilim Kurgu & Fantazi",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "CN"
-   ],
-   "puan": 8.602,
-   "oySayisi": 49,
-   "platformlar": {
-    "flatrate": [
-     "Crunchyroll"
-    ]
-   },
-   "wikidata": "Q124709051",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
    "id": "dizi-216467",
    "tmdbId": 216467,
    "tur": "dizi",
@@ -4171,55 +4220,6 @@ SAHNE_GUN({
    "sonBolum": "2026-11-01"
   },
   {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-289560",
-   "tmdbId": 289560,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "CIA",
-   "orijinalAd": "CIA",
-   "yil": "2026",
-   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
-   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
-   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
-   "turler": [
-    "Suç",
-    "Dram"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.449,
-   "oySayisi": 137,
-   "platformlar": {
-    "flatrate": [
-     "TOD TV"
-    ]
-   },
-   "wikidata": "Q137176858",
-   "wiki": {
-    "tr": null,
-    "en": "CIA (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 14584,
-     "onceki7": 15119,
-     "degisim": 0.965
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
-  },
-  {
    "goster": false,
    "kategori": "anime",
    "sinyalVar": false,
@@ -4243,7 +4243,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.847,
+   "puan": 7.8,
    "oySayisi": 75,
    "platformlar": {
     "flatrate": [
@@ -4313,49 +4313,53 @@ SAHNE_GUN({
    "sonBolum": "2026-11-07"
   },
   {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-283428",
-   "tmdbId": 283428,
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-289560",
+   "tmdbId": 289560,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "氷の城壁",
-   "orijinalAd": "氷の城壁",
+   "ad": "CIA",
+   "orijinalAd": "CIA",
    "yil": "2026",
-   "ozet": null,
-   "poster": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
-   "arkaplan": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
+   "ozet": "Kurallara sıkı sıkıya bağlı FBI Ajanı Bill Goodman, gizli bir CIA/FBI görev gücüne ödünç verildiğinde, gizemli ve asi CIA görevlisi Colin Glass ile ortak olmak zorunda kalır. İkili, New York'ta gizli operasyonlar yürütürken uluslararası komploları, terörist hücreleri ve jeopolitik sırları ortaya çıkarır. Bu zorlu görevde, hem birbirlerine güvenmeyi öğrenirler hem de karmaşık bir casusluk ağını çözmeye çalışırlar.",
+   "poster": "/fEXauqIabKrMPQ2lVTHKdrkrR4Z.jpg",
+   "arkaplan": "/faxI8ewOUkQRy4z4vwP6kci8Ilk.jpg",
    "turler": [
-    "Animasyon",
+    "Suç",
     "Dram"
    ],
    "ulkeler": [
-    "JP"
+    "US"
    ],
-   "puan": 8.577,
-   "oySayisi": 78,
+   "puan": 8.449,
+   "oySayisi": 137,
    "platformlar": {
     "flatrate": [
-     "Netflix"
+     "TOD TV"
     ]
    },
-   "wikidata": "Q131984499",
+   "wikidata": "Q137176858",
    "wiki": {
     "tr": null,
-    "en": null
+    "en": "CIA (TV series)"
    },
    "ilgi": {
     "tr": null,
-    "en": null,
+    "en": {
+     "son7": 14584,
+     "onceki7": 15119,
+     "degisim": 0.965
+    },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
+   "sonrakiBolum": "2026-11-09",
+   "sonBolum": "2026-11-02"
   },
   {
    "goster": true,
@@ -4411,35 +4415,34 @@ SAHNE_GUN({
    "kategori": "anime",
    "sinyalVar": false,
    "yeniSayilir": true,
-   "id": "dizi-312949",
-   "tmdbId": 312949,
+   "id": "dizi-283428",
+   "tmdbId": 283428,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "ヤニねこ",
-   "orijinalAd": "ヤニねこ",
+   "ad": "氷の城壁",
+   "orijinalAd": "氷の城壁",
    "yil": "2026",
    "ozet": null,
-   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
-   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "poster": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
+   "arkaplan": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
    "turler": [
     "Animasyon",
-    "Komedi",
-    "Bilim Kurgu & Fantazi"
+    "Dram"
    ],
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.179,
-   "oySayisi": 98,
+   "puan": 8.577,
+   "oySayisi": 78,
    "platformlar": {
     "flatrate": [
      "Netflix"
     ]
    },
-   "wikidata": "Q137971300",
+   "wikidata": "Q131984499",
    "wiki": {
     "tr": null,
     "en": null
@@ -4449,8 +4452,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-09-25"
+   "sonrakiBolum": "2026-11-12",
+   "sonBolum": "2026-11-05"
   },
   {
    "goster": false,
@@ -4479,8 +4482,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.1,
-   "oySayisi": 195,
+   "puan": 8.087,
+   "oySayisi": 196,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -4553,149 +4556,146 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-92611",
-   "tmdbId": 92611,
+   "id": "dizi-314360",
+   "tmdbId": 314360,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "RuPaul's Drag Race UK",
-   "orijinalAd": "RuPaul's Drag Race UK",
-   "yil": "2019",
+   "ad": "YAGA",
+   "orijinalAd": "YAGA",
+   "yil": "2026",
    "ozet": null,
-   "poster": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
-   "arkaplan": "/7fsT1NnmNbden0mptoVinBNp4ih.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "GB"
-   ],
-   "puan": 7.1,
-   "oySayisi": 58,
-   "platformlar": {
-    "flatrate": [
-     "WOW Presents Plus"
-    ]
-   },
-   "wikidata": "Q65091388",
-   "wiki": {
-    "tr": "RuPaul's Drag Race UK",
-    "en": "RuPaul's Drag Race UK"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 1,
-     "onceki7": 3,
-     "degisim": 0.333
-    },
-    "en": {
-     "son7": 10866,
-     "onceki7": 8458,
-     "degisim": 1.285
-    },
-    "trEnOran": 0.0001
-   },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-154521",
-   "tmdbId": 154521,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "The Kardashians",
-   "orijinalAd": "The Kardashians",
-   "yil": "2022",
-   "ozet": "Dizi, Kardashian ailesinin hayatını mercek altına alıyor. Kris, Kourtney, Kim, Khloe, Kendall ve Kylie’nin hayatı hakkında bilinmeyenlerin gözler önüne serildiği dizide, aile üyelernin birbirleriyle olan ilişkileri, kariyerleri, hayatarında olup bitenler anlatılıyor.",
-   "poster": "/g1U84qP4B4Y51tU0El8Y6s30KE2.jpg",
-   "arkaplan": "/oUHVXnV7x5Lr3jxEQTedkFvXv2b.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.472,
-   "oySayisi": 2139,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q111160190",
-   "wiki": {
-    "tr": null,
-    "en": "The Kardashians"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 7552,
-     "onceki7": 9582,
-     "degisim": 0.788
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-258742",
-   "tmdbId": 258742,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "All's Fair",
-   "orijinalAd": "All's Fair",
-   "yil": "2025",
-   "ozet": "Kadın boşanma avukatlarından oluşan bir ekip, kendi güçlü pratiklerini açmak için erkek egemen bir şirketten ayrılıyor. Cesur, zeki ve duygusal açıdan karmaşık olan bu avukatlar, hem mahkeme salonunda hem de kendi aralarında, yüksek riskli ayrılıklar, skandal sırlarla ve değişen ittifaklarla başa çıkıyorlar. Paranın konuştuğu ve aşkın bir savaş alanı olduğu bir dünyada, bu kadınlar sadece oyunu oynamıyor, değiştiriyorlar.",
-   "poster": "/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
-   "arkaplan": "/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
+   "poster": "/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
+   "arkaplan": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
    "turler": [
     "Dram",
-    "Komedi"
+    "Bilim Kurgu & Fantazi",
+    "Gizem"
    ],
    "ulkeler": [
-    "US"
+    "CA"
    ],
-   "puan": 4.9,
-   "oySayisi": 82,
+   "puan": 7.4,
+   "oySayisi": 18,
    "platformlar": {
     "flatrate": [
-     "Disney Plus"
+     "TV+",
+     "HBO Max"
     ]
    },
-   "wikidata": "Q131298819",
+   "wikidata": "Q138882591",
    "wiki": {
     "tr": null,
-    "en": "All's Fair (2025 TV series)"
+    "en": "Yaga (TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 46239,
-     "onceki7": 10826,
-     "degisim": 4.271
+     "son7": 81815,
+     "onceki7": 123835,
+     "degisim": 0.661
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-11",
-   "sonBolum": "2026-11-04"
+   "sonrakiBolum": "2026-11-13",
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-253391",
+   "tmdbId": 253391,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Sheriff Country",
+   "orijinalAd": "Sheriff Country",
+   "yil": "2025",
+   "ozet": "Küçük bir Kaliforniya kasabasının şerifi olan Mickey Fox, hem ailesini hem de kasabanın çürümüş düzenini ayakta tutmaya çalışıyor. Karanlık suçlar, açığa çıkan sırlar ve Mickey'nin kendi içindeki hesaplaşması, onu sadece görevini değil kimliğini de sorgulamaya itiyor.",
+   "poster": "/hBrbAYp4SGMkNYZGPeFhEd0xW7Z.jpg",
+   "arkaplan": "/mhTIUNa9BI019NuXrUBYYCkZ199.jpg",
+   "turler": [
+    "Dram",
+    "Suç"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.352,
+   "oySayisi": 61,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q125920386",
+   "wiki": {
+    "tr": null,
+    "en": "Sheriff Country"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 23124,
+     "onceki7": 20626,
+     "degisim": 1.121
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-13",
+   "sonBolum": "2026-11-06"
+  },
+  {
+   "goster": false,
+   "kategori": "anime",
+   "sinyalVar": false,
+   "yeniSayilir": true,
+   "id": "dizi-312949",
+   "tmdbId": 312949,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "ヤニねこ",
+   "orijinalAd": "ヤニねこ",
+   "yil": "2026",
+   "ozet": null,
+   "poster": "/1OEYjA3bpPlXNPwV51WJhGWx8Mk.jpg",
+   "arkaplan": "/4ei68OmZr0XHnN82OjiV8GBqfyN.jpg",
+   "turler": [
+    "Animasyon",
+    "Komedi",
+    "Bilim Kurgu & Fantazi"
+   ],
+   "ulkeler": [
+    "JP"
+   ],
+   "puan": 8.179,
+   "oySayisi": 98,
+   "platformlar": {
+    "flatrate": [
+     "Netflix"
+    ]
+   },
+   "wikidata": "Q137971300",
+   "wiki": {
+    "tr": null,
+    "en": null
+   },
+   "ilgi": {
+    "tr": null,
+    "en": null,
+    "trEnOran": null
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-09-25"
   },
   {
    "goster": true,
@@ -4750,51 +4750,101 @@ SAHNE_GUN({
    "kategori": null,
    "sinyalVar": true,
    "yeniSayilir": false,
-   "id": "dizi-314360",
-   "tmdbId": 314360,
+   "id": "dizi-92611",
+   "tmdbId": 92611,
    "tur": "dizi",
    "koken": "yabanci",
    "listeler": [
     "yabanci-dizi"
    ],
-   "ad": "YAGA",
-   "orijinalAd": "YAGA",
-   "yil": "2026",
+   "ad": "RuPaul's Drag Race UK",
+   "orijinalAd": "RuPaul's Drag Race UK",
+   "yil": "2019",
    "ozet": null,
-   "poster": "/kp8xgZ8SrikHQrPn2lC3hb50KD5.jpg",
-   "arkaplan": "/owhTL4n2r9ryfxyYlhHKt97ogVk.jpg",
+   "poster": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+   "arkaplan": "/7fsT1NnmNbden0mptoVinBNp4ih.jpg",
    "turler": [
-    "Dram",
-    "Bilim Kurgu & Fantazi",
-    "Gizem"
+    "Gerçeklik"
    ],
    "ulkeler": [
-    "CA"
+    "GB"
    ],
-   "puan": 7.4,
-   "oySayisi": 18,
+   "puan": 7.1,
+   "oySayisi": 58,
    "platformlar": {
     "flatrate": [
-     "TV+",
-     "HBO Max"
+     "WOW Presents Plus"
     ]
    },
-   "wikidata": "Q138882591",
+   "wikidata": "Q65091388",
+   "wiki": {
+    "tr": "RuPaul's Drag Race UK",
+    "en": "RuPaul's Drag Race UK"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 1,
+     "onceki7": 3,
+     "degisim": 0.333
+    },
+    "en": {
+     "son7": 10866,
+     "onceki7": 8458,
+     "degisim": 1.285
+    },
+    "trEnOran": 0.0001
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-05"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-258742",
+   "tmdbId": 258742,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "All's Fair",
+   "orijinalAd": "All's Fair",
+   "yil": "2025",
+   "ozet": "Kadın boşanma avukatlarından oluşan bir ekip, kendi güçlü pratiklerini açmak için erkek egemen bir şirketten ayrılıyor. Cesur, zeki ve duygusal açıdan karmaşık olan bu avukatlar, hem mahkeme salonunda hem de kendi aralarında, yüksek riskli ayrılıklar, skandal sırlarla ve değişen ittifaklarla başa çıkıyorlar. Paranın konuştuğu ve aşkın bir savaş alanı olduğu bir dünyada, bu kadınlar sadece oyunu oynamıyor, değiştiriyorlar.",
+   "poster": "/igHpitLtbzBG7EyNZhF9vPYm6PK.jpg",
+   "arkaplan": "/7t55fTjn0KRqCGPOSXM9RUk0zny.jpg",
+   "turler": [
+    "Dram",
+    "Komedi"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 4.9,
+   "oySayisi": 82,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q131298819",
    "wiki": {
     "tr": null,
-    "en": "Yaga (TV series)"
+    "en": "All's Fair (2025 TV series)"
    },
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 81815,
-     "onceki7": 123835,
-     "degisim": 0.661
+     "son7": 46239,
+     "onceki7": 10826,
+     "degisim": 4.271
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-13",
-   "sonBolum": "2026-11-06"
+   "sonrakiBolum": "2026-11-11",
+   "sonBolum": "2026-11-04"
   }
  ]
 });
