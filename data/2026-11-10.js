@@ -5,7 +5,7 @@ SAHNE_GUN({
   "bas": "2026-11-04",
   "bit": "2026-11-10"
  },
- "uretildi": "2026-11-10T03:00:26+03:00",
+ "uretildi": "2026-11-10T15:18:42+03:00",
  "kaynaklar": [
   {
    "ad": "TMDB",
@@ -20,10 +20,10 @@ SAHNE_GUN({
   "toplam": 104,
   "turk": 38,
   "yabanci": 66,
-  "gosterilen": 85,
-  "anime": 15,
-  "wikiEslesen": 67,
-  "ilgiVerisiOlan": 66,
+  "gosterilen": 86,
+  "anime": 14,
+  "wikiEslesen": 68,
+  "ilgiVerisiOlan": 67,
   "platformBilinen": 72
  },
  "hatalar": [],
@@ -53,8 +53,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 5.63,
-   "oySayisi": 96,
+   "puan": 5.648,
+   "oySayisi": 98,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -68,9 +68,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 65043,
-     "onceki7": 19930,
-     "degisim": 3.264
+     "son7": 69083,
+     "onceki7": 21241,
+     "degisim": 3.252
     },
     "trEnOran": null
    },
@@ -102,8 +102,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.742,
-   "oySayisi": 31,
+   "puan": 7.727,
+   "oySayisi": 33,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -141,14 +141,13 @@ SAHNE_GUN({
    "poster": "/7UAzxqezg5yvZyK3k62wOAzg0Zs.jpg",
    "arkaplan": "/k0BY5D4Ya6NHhsvNYMmaabpvUtS.jpg",
    "turler": [
-    "Dram",
-    "Romantik"
+    "Dram"
    ],
    "ulkeler": [
     "KR"
    ],
    "puan": 7.4,
-   "oySayisi": 45,
+   "oySayisi": 48,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -161,16 +160,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 348,
-     "onceki7": 28,
-     "degisim": 12.429
+     "son7": 411,
+     "onceki7": 35,
+     "degisim": 11.743
     },
     "en": {
-     "son7": 57033,
-     "onceki7": 20582,
-     "degisim": 2.771
+     "son7": 65949,
+     "onceki7": 19611,
+     "degisim": 3.363
     },
-    "trEnOran": 0.0061
+    "trEnOran": 0.0062
    },
    "sonrakiBolum": null,
    "sonBolum": null
@@ -201,8 +200,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 7.647,
-   "oySayisi": 18,
+   "puan": 7.5,
+   "oySayisi": 19,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -286,14 +285,14 @@ SAHNE_GUN({
    "poster": "/tq7OC9qZmJmaAWYE0isuiamq5q.jpg",
    "arkaplan": "/fzlch1j1aVGJKI0GB6IdgbG5gpJ.jpg",
    "turler": [
-    "Dram",
-    "Gerilim"
+    "Gerilim",
+    "Dram"
    ],
    "ulkeler": [
     "FR"
    ],
-   "puan": 7.0,
-   "oySayisi": 1,
+   "puan": 7.667,
+   "oySayisi": 6,
    "platformlar": {},
    "wikidata": "Q140696036",
    "wiki": {
@@ -459,8 +458,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 8.577,
-   "oySayisi": 52,
+   "puan": 8.604,
+   "oySayisi": 53,
    "platformlar": {
     "ads": [
      "puhutv"
@@ -476,15 +475,15 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4092,
-     "onceki7": 4837,
-     "degisim": 0.846
+     "son7": 4149,
+     "onceki7": 4780,
+     "degisim": 0.868
     },
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -520,9 +519,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4160,
-     "onceki7": 4018,
-     "degisim": 1.035
+     "son7": 4162,
+     "onceki7": 4042,
+     "degisim": 1.03
     },
     "en": null,
     "trEnOran": null
@@ -564,9 +563,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 7933,
-     "onceki7": 8602,
-     "degisim": 0.922
+     "son7": 7393,
+     "onceki7": 8936,
+     "degisim": 0.827
     },
     "en": null,
     "trEnOran": null
@@ -610,9 +609,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 3561,
-     "onceki7": 3751,
-     "degisim": 0.949
+     "son7": 3579,
+     "onceki7": 3628,
+     "degisim": 0.986
     },
     "en": null,
     "trEnOran": null
@@ -655,9 +654,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4250,
-     "onceki7": 4646,
-     "degisim": 0.915
+     "son7": 4195,
+     "onceki7": 4594,
+     "degisim": 0.913
     },
     "en": null,
     "trEnOran": null
@@ -701,9 +700,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 1572,
-     "onceki7": 1659,
-     "degisim": 0.948
+     "son7": 1655,
+     "onceki7": 1658,
+     "degisim": 0.998
     },
     "en": null,
     "trEnOran": null
@@ -751,9 +750,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 8583,
-     "onceki7": 10309,
-     "degisim": 0.833
+     "son7": 8494,
+     "onceki7": 10417,
+     "degisim": 0.815
     },
     "en": null,
     "trEnOran": null
@@ -797,9 +796,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4907,
-     "onceki7": 5608,
-     "degisim": 0.875
+     "son7": 4887,
+     "onceki7": 5483,
+     "degisim": 0.891
     },
     "en": null,
     "trEnOran": null
@@ -842,9 +841,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 2741,
-     "onceki7": 3834,
-     "degisim": 0.715
+     "son7": 2713,
+     "onceki7": 3900,
+     "degisim": 0.696
     },
     "en": null,
     "trEnOran": null
@@ -891,9 +890,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 2838,
-     "onceki7": 2921,
-     "degisim": 0.972
+     "son7": 2866,
+     "onceki7": 2837,
+     "degisim": 1.01
     },
     "en": null,
     "trEnOran": null
@@ -926,8 +925,8 @@ SAHNE_GUN({
    "ulkeler": [
     "TR"
    ],
-   "puan": 9.1,
-   "oySayisi": 26,
+   "puan": 9.148,
+   "oySayisi": 27,
    "platformlar": {},
    "wikidata": "Q138012917",
    "wiki": {
@@ -939,8 +938,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-06"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -980,9 +979,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4734,
-     "onceki7": 2368,
-     "degisim": 1.999
+     "son7": 4957,
+     "onceki7": 2420,
+     "degisim": 2.048
     },
     "en": null,
     "trEnOran": null
@@ -1026,9 +1025,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 1677,
-     "onceki7": 1980,
-     "degisim": 0.847
+     "son7": 1723,
+     "onceki7": 2014,
+     "degisim": 0.856
     },
     "en": null,
     "trEnOran": null
@@ -1072,9 +1071,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 1214,
-     "onceki7": 1456,
-     "degisim": 0.834
+     "son7": 1206,
+     "onceki7": 1459,
+     "degisim": 0.827
     },
     "en": null,
     "trEnOran": null
@@ -1164,8 +1163,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -1201,9 +1200,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 2358,
-     "onceki7": 2142,
-     "degisim": 1.101
+     "son7": 2415,
+     "onceki7": 2080,
+     "degisim": 1.161
     },
     "en": null,
     "trEnOran": null
@@ -1248,8 +1247,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": null,
-   "sonBolum": "2026-11-07"
+   "sonrakiBolum": "2026-11-10",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -1332,9 +1331,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 422,
-     "onceki7": 551,
-     "degisim": 0.766
+     "son7": 411,
+     "onceki7": 536,
+     "degisim": 0.767
     },
     "en": null,
     "trEnOran": null
@@ -1421,9 +1420,9 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 4424,
-     "onceki7": 7575,
-     "degisim": 0.584
+     "son7": 4305,
+     "onceki7": 7109,
+     "degisim": 0.606
     },
     "en": null,
     "trEnOran": null
@@ -1592,8 +1591,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-01"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -1842,8 +1841,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-06"
+   "sonrakiBolum": "2026-11-10",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": false,
@@ -1883,8 +1882,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-08"
+   "sonrakiBolum": "2026-11-10",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -1962,8 +1961,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -2043,8 +2042,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -2073,7 +2072,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 7.962,
-   "oySayisi": 4404,
+   "oySayisi": 4407,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2092,14 +2091,14 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 75,
-     "onceki7": 71,
-     "degisim": 1.056
+     "son7": 72,
+     "onceki7": 77,
+     "degisim": 0.935
     },
     "en": {
-     "son7": 31985,
-     "onceki7": 34694,
-     "degisim": 0.922
+     "son7": 31845,
+     "onceki7": 34647,
+     "degisim": 0.919
     },
     "trEnOran": 0.0023
    },
@@ -2132,7 +2131,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.027,
-   "oySayisi": 11157,
+   "oySayisi": 11160,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2145,16 +2144,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 191,
-     "onceki7": 183,
-     "degisim": 1.044
+     "son7": 190,
+     "onceki7": 189,
+     "degisim": 1.005
     },
     "en": {
-     "son7": 35928,
-     "onceki7": 43650,
+     "son7": 35348,
+     "onceki7": 42945,
      "degisim": 0.823
     },
-    "trEnOran": 0.0053
+    "trEnOran": 0.0054
    },
    "sonrakiBolum": "2026-11-15",
    "sonBolum": "2026-11-08"
@@ -2199,16 +2198,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 21,
+     "son7": 24,
      "onceki7": 16,
-     "degisim": 1.312
+     "degisim": 1.5
     },
     "en": {
-     "son7": 2313,
-     "onceki7": 2057,
-     "degisim": 1.124
+     "son7": 2241,
+     "onceki7": 2144,
+     "degisim": 1.045
     },
-    "trEnOran": 0.0091
+    "trEnOran": 0.0107
    },
    "sonrakiBolum": "2026-11-10",
    "sonBolum": "2026-11-04"
@@ -2239,8 +2238,8 @@ SAHNE_GUN({
     "GB",
     "US"
    ],
-   "puan": 8.635,
-   "oySayisi": 1189,
+   "puan": 8.636,
+   "oySayisi": 1194,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2254,16 +2253,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 2400,
-     "onceki7": 2107,
-     "degisim": 1.139
+     "son7": 2344,
+     "onceki7": 2266,
+     "degisim": 1.034
     },
     "en": {
-     "son7": 243074,
-     "onceki7": 203261,
-     "degisim": 1.196
+     "son7": 246885,
+     "onceki7": 206924,
+     "degisim": 1.193
     },
-    "trEnOran": 0.0099
+    "trEnOran": 0.0095
    },
    "sonrakiBolum": "2026-11-13",
    "sonBolum": "2026-11-06"
@@ -2293,7 +2292,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 8.201,
-   "oySayisi": 11126,
+   "oySayisi": 11128,
    "platformlar": {
     "flatrate": [
      "Disney Plus",
@@ -2307,16 +2306,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 278,
-     "onceki7": 295,
-     "degisim": 0.942
+     "son7": 256,
+     "onceki7": 310,
+     "degisim": 0.826
     },
     "en": {
-     "son7": 55891,
-     "onceki7": 62080,
-     "degisim": 0.9
+     "son7": 55523,
+     "onceki7": 61335,
+     "degisim": 0.905
     },
-    "trEnOran": 0.005
+    "trEnOran": 0.0046
    },
    "sonrakiBolum": "2026-11-12",
    "sonBolum": "2026-11-05"
@@ -2347,8 +2346,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.607,
-   "oySayisi": 2611,
+   "puan": 7.608,
+   "oySayisi": 2613,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video",
@@ -2363,16 +2362,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 85,
-     "onceki7": 87,
-     "degisim": 0.977
+     "son7": 83,
+     "onceki7": 93,
+     "degisim": 0.892
     },
     "en": {
-     "son7": 31580,
-     "onceki7": 35079,
-     "degisim": 0.9
+     "son7": 31696,
+     "onceki7": 34539,
+     "degisim": 0.918
     },
-    "trEnOran": 0.0027
+    "trEnOran": 0.0026
    },
    "sonrakiBolum": "2026-11-10",
    "sonBolum": "2026-10-27"
@@ -2405,12 +2404,12 @@ SAHNE_GUN({
    "puan": 7.3,
    "oySayisi": 739,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q321423",
@@ -2420,16 +2419,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 152,
-     "onceki7": 166,
-     "degisim": 0.916
+     "son7": 145,
+     "onceki7": 180,
+     "degisim": 0.806
     },
     "en": {
-     "son7": 21768,
-     "onceki7": 23586,
+     "son7": 21599,
+     "onceki7": 23401,
      "degisim": 0.923
     },
-    "trEnOran": 0.007
+    "trEnOran": 0.0067
    },
    "sonrakiBolum": "2026-11-12",
    "sonBolum": "2026-11-05"
@@ -2460,8 +2459,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.317,
-   "oySayisi": 2925,
+   "puan": 8.319,
+   "oySayisi": 2927,
    "platformlar": {
     "flatrate": [
      "TV+"
@@ -2478,9 +2477,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 67072,
-     "onceki7": 74858,
-     "degisim": 0.896
+     "son7": 67390,
+     "onceki7": 71998,
+     "degisim": 0.936
     },
     "trEnOran": null
    },
@@ -2512,8 +2511,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.625,
-   "oySayisi": 289,
+   "puan": 8.6,
+   "oySayisi": 290,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -2527,9 +2526,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 481841,
-     "onceki7": 455417,
-     "degisim": 1.058
+     "son7": 484738,
+     "onceki7": 454945,
+     "degisim": 1.065
     },
     "trEnOran": null
    },
@@ -2574,19 +2573,19 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 37,
-     "onceki7": 48,
-     "degisim": 0.771
+     "son7": 40,
+     "onceki7": 43,
+     "degisim": 0.93
     },
     "en": {
-     "son7": 3506,
-     "onceki7": 3119,
-     "degisim": 1.124
+     "son7": 3467,
+     "onceki7": 3175,
+     "degisim": 1.092
     },
-    "trEnOran": 0.0106
+    "trEnOran": 0.0115
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -2630,9 +2629,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 21718,
-     "onceki7": 17447,
-     "degisim": 1.245
+     "son7": 21482,
+     "onceki7": 17759,
+     "degisim": 1.21
     },
     "trEnOran": null
    },
@@ -2663,8 +2662,8 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 8.1,
-   "oySayisi": 19,
+   "puan": 8.05,
+   "oySayisi": 20,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -2728,9 +2727,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 16688,
-     "onceki7": 19101,
-     "degisim": 0.874
+     "son7": 16544,
+     "onceki7": 19302,
+     "degisim": 0.857
     },
     "trEnOran": null
    },
@@ -2779,9 +2778,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 1955,
-     "onceki7": 1766,
-     "degisim": 1.107
+     "son7": 1911,
+     "onceki7": 1798,
+     "degisim": 1.063
     },
     "trEnOran": null
    },
@@ -2814,8 +2813,8 @@ SAHNE_GUN({
    "ulkeler": [
     "FR"
    ],
-   "puan": 8.1,
-   "oySayisi": 4702,
+   "puan": 8.069,
+   "oySayisi": 4703,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -2829,16 +2828,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 296,
-     "onceki7": 326,
-     "degisim": 0.908
+     "son7": 278,
+     "onceki7": 330,
+     "degisim": 0.842
     },
     "en": {
-     "son7": 15331,
-     "onceki7": 14665,
-     "degisim": 1.045
+     "son7": 14930,
+     "onceki7": 15603,
+     "degisim": 0.957
     },
-    "trEnOran": 0.0193
+    "trEnOran": 0.0186
    },
    "sonrakiBolum": "2026-11-15",
    "sonBolum": "2026-11-08"
@@ -2884,68 +2883,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 14963,
-     "onceki7": 15402,
-     "degisim": 0.971
+     "son7": 14902,
+     "onceki7": 15378,
+     "degisim": 0.969
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-75219",
-   "tmdbId": 75219,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "9-1-1",
-   "orijinalAd": "9-1-1",
-   "yil": "2018",
-   "ozet": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
-   "poster": "/u6HuWWohheyzAj5PUn4rBd0eH92.jpg",
-   "arkaplan": "/5QJtEzMR7NxRxBBEdB7JfM1l7Oj.jpg",
-   "turler": [
-    "Dram",
-    "Suç",
-    "Aksiyon & Macera"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 8.2,
-   "oySayisi": 2883,
-   "platformlar": {
-    "flatrate": [
-     "Disney Plus"
-    ]
-   },
-   "wikidata": "Q30611820",
-   "wiki": {
-    "tr": "9-1-1 (dizi)",
-    "en": "9-1-1 (TV series)"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 54,
-     "onceki7": 94,
-     "degisim": 0.574
-    },
-    "en": {
-     "son7": 24031,
-     "onceki7": 24211,
-     "degisim": 0.993
-    },
-    "trEnOran": 0.0022
-   },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -2973,8 +2918,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 8.562,
-   "oySayisi": 739,
+   "puan": 8.569,
+   "oySayisi": 743,
    "platformlar": {
     "flatrate": [
      "TOD TV"
@@ -2987,19 +2932,73 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 530,
-     "onceki7": 809,
-     "degisim": 0.655
+     "son7": 473,
+     "onceki7": 879,
+     "degisim": 0.538
     },
     "en": {
-     "son7": 117051,
-     "onceki7": 105942,
-     "degisim": 1.105
+     "son7": 109643,
+     "onceki7": 121322,
+     "degisim": 0.904
     },
-    "trEnOran": 0.0045
+    "trEnOran": 0.0043
    },
    "sonrakiBolum": "2026-11-15",
    "sonBolum": "2026-11-08"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-75219",
+   "tmdbId": 75219,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "9-1-1",
+   "orijinalAd": "9-1-1",
+   "yil": "2018",
+   "ozet": "En korkutucu, şok edici ve kalp durdurucu durumlara sürüklenen polis memurlarının, sağlık görevlilerinin ve itfaiyecilerin yüksek basınçlı deneyimlerini keşfedin. Bu acil müdahale ekipleri, en savunmasız olanları kurtarmakla kendi hayatlarındaki sorunları çözme arasında denge kurmaya çalışmalıdır.",
+   "poster": "/u6HuWWohheyzAj5PUn4rBd0eH92.jpg",
+   "arkaplan": "/5QJtEzMR7NxRxBBEdB7JfM1l7Oj.jpg",
+   "turler": [
+    "Dram",
+    "Suç",
+    "Aksiyon & Macera"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 8.224,
+   "oySayisi": 2884,
+   "platformlar": {
+    "flatrate": [
+     "Disney Plus"
+    ]
+   },
+   "wikidata": "Q30611820",
+   "wiki": {
+    "tr": "9-1-1 (dizi)",
+    "en": "9-1-1 (TV series)"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 57,
+     "onceki7": 85,
+     "degisim": 0.671
+    },
+    "en": {
+     "son7": 23903,
+     "onceki7": 23710,
+     "degisim": 1.008
+    },
+    "trEnOran": 0.0024
+   },
+   "sonrakiBolum": "2026-11-12",
+   "sonBolum": "2026-11-05"
   },
   {
    "goster": false,
@@ -3027,8 +3026,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 9.636,
-   "oySayisi": 404,
+   "puan": 9.6,
+   "oySayisi": 405,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3042,9 +3041,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 24441,
-     "onceki7": 31126,
-     "degisim": 0.785
+     "son7": 23724,
+     "onceki7": 28964,
+     "degisim": 0.819
     },
     "trEnOran": null
    },
@@ -3078,12 +3077,12 @@ SAHNE_GUN({
    "puan": 8.257,
    "oySayisi": 1288,
    "platformlar": {
+    "buy": [
+     "Amazon Video"
+    ],
     "flatrate": [
      "Amazon Prime Video",
      "TOD TV"
-    ],
-    "buy": [
-     "Amazon Video"
     ]
    },
    "wikidata": "Q19848860",
@@ -3094,9 +3093,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 10652,
-     "onceki7": 11259,
-     "degisim": 0.946
+     "son7": 10733,
+     "onceki7": 11079,
+     "degisim": 0.969
     },
     "trEnOran": null
    },
@@ -3129,7 +3128,7 @@ SAHNE_GUN({
    "ulkeler": [
     "GB"
    ],
-   "puan": 7.0,
+   "puan": 7.048,
    "oySayisi": 480,
    "platformlar": {
     "flatrate": [
@@ -3144,9 +3143,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 248485,
-     "onceki7": 28302,
-     "degisim": 8.78
+     "son7": 304870,
+     "onceki7": 32571,
+     "degisim": 9.36
     },
     "trEnOran": null
    },
@@ -3179,8 +3178,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.55,
-   "oySayisi": 1701,
+   "puan": 8.551,
+   "oySayisi": 1703,
    "platformlar": {
     "flatrate": [
      "Netflix",
@@ -3198,9 +3197,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 5555,
-     "onceki7": 5452,
-     "degisim": 1.019
+     "son7": 5548,
+     "onceki7": 5551,
+     "degisim": 0.999
     },
     "trEnOran": null
    },
@@ -3233,13 +3232,13 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.7,
-   "oySayisi": 702,
+   "puan": 8.664,
+   "oySayisi": 703,
    "platformlar": {
-    "ads": [
+    "flatrate": [
      "Crunchyroll"
     ],
-    "flatrate": [
+    "ads": [
      "Crunchyroll"
     ]
    },
@@ -3251,9 +3250,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 9323,
-     "onceki7": 9846,
-     "degisim": 0.947
+     "son7": 9274,
+     "onceki7": 9784,
+     "degisim": 0.948
     },
     "trEnOran": null
    },
@@ -3287,8 +3286,8 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.055,
-   "oySayisi": 55,
+   "puan": 9.071,
+   "oySayisi": 56,
    "platformlar": {
     "flatrate": [
      "Amazon Prime Video"
@@ -3302,14 +3301,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 62593,
-     "onceki7": 50904,
-     "degisim": 1.23
+     "son7": 63781,
+     "onceki7": 52220,
+     "degisim": 1.221
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-03"
+   "sonrakiBolum": "2026-11-10",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -3349,16 +3348,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 65,
-     "onceki7": 97,
-     "degisim": 0.67
+     "son7": 64,
+     "onceki7": 95,
+     "degisim": 0.674
     },
     "en": {
-     "son7": 2430,
-     "onceki7": 2514,
-     "degisim": 0.967
+     "son7": 2403,
+     "onceki7": 2508,
+     "degisim": 0.958
     },
-    "trEnOran": 0.0267
+    "trEnOran": 0.0266
    },
    "sonrakiBolum": "2026-11-13",
    "sonBolum": "2026-11-06"
@@ -3390,7 +3389,7 @@ SAHNE_GUN({
     "US"
    ],
    "puan": 7.747,
-   "oySayisi": 866,
+   "oySayisi": 867,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3405,9 +3404,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 5908,
-     "onceki7": 5383,
-     "degisim": 1.098
+     "son7": 6396,
+     "onceki7": 5022,
+     "degisim": 1.274
     },
     "trEnOran": null
    },
@@ -3454,18 +3453,18 @@ SAHNE_GUN({
    "ilgi": {
     "tr": {
      "son7": 31,
-     "onceki7": 26,
-     "degisim": 1.192
+     "onceki7": 30,
+     "degisim": 1.033
     },
     "en": {
-     "son7": 8363,
-     "onceki7": 8469,
-     "degisim": 0.987
+     "son7": 8309,
+     "onceki7": 8485,
+     "degisim": 0.979
     },
     "trEnOran": 0.0037
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -3493,7 +3492,7 @@ SAHNE_GUN({
    "ulkeler": [
     "KR"
    ],
-   "puan": 9.07,
+   "puan": 9.1,
    "oySayisi": 43,
    "platformlar": {
     "flatrate": [
@@ -3508,9 +3507,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 58511,
-     "onceki7": 59774,
-     "degisim": 0.979
+     "son7": 58958,
+     "onceki7": 59985,
+     "degisim": 0.983
     },
     "trEnOran": null
    },
@@ -3585,8 +3584,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.7,
-   "oySayisi": 295,
+   "puan": 7.708,
+   "oySayisi": 296,
    "platformlar": {
     "flatrate": [
      "TV+",
@@ -3601,9 +3600,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 161125,
-     "onceki7": 59851,
-     "degisim": 2.692
+     "son7": 147127,
+     "onceki7": 98079,
+     "degisim": 1.5
     },
     "trEnOran": null
    },
@@ -3649,9 +3648,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 15510,
-     "onceki7": 14659,
-     "degisim": 1.058
+     "son7": 15945,
+     "onceki7": 14514,
+     "degisim": 1.099
     },
     "trEnOran": null
    },
@@ -3684,8 +3683,8 @@ SAHNE_GUN({
    "ulkeler": [
     "CA"
    ],
-   "puan": 8.259,
-   "oySayisi": 592,
+   "puan": 8.262,
+   "oySayisi": 593,
    "platformlar": {
     "flatrate": [
      "Netflix"
@@ -3699,9 +3698,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 7465,
-     "onceki7": 6789,
-     "degisim": 1.1
+     "son7": 7632,
+     "onceki7": 6977,
+     "degisim": 1.094
     },
     "trEnOran": null
    },
@@ -3732,8 +3731,8 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.5,
-   "oySayisi": 361,
+   "puan": 7.51,
+   "oySayisi": 362,
    "platformlar": {
     "flatrate": [
      "Disney Plus"
@@ -3751,9 +3750,9 @@ SAHNE_GUN({
      "degisim": 0.938
     },
     "en": {
-     "son7": 35632,
-     "onceki7": 42728,
-     "degisim": 0.834
+     "son7": 35927,
+     "onceki7": 42376,
+     "degisim": 0.848
     },
     "trEnOran": 0.0013
    },
@@ -3801,9 +3800,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 581,
+     "son7": 605,
      "onceki7": 603,
-     "degisim": 0.964
+     "degisim": 1.003
     },
     "trEnOran": null
    },
@@ -3837,8 +3836,8 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.406,
-   "oySayisi": 1380,
+   "puan": 8.407,
+   "oySayisi": 1381,
    "platformlar": {
     "flatrate": [
      "Disney Plus",
@@ -3901,9 +3900,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 19078,
-     "onceki7": 17174,
-     "degisim": 1.111
+     "son7": 19190,
+     "onceki7": 17503,
+     "degisim": 1.096
     },
     "trEnOran": null
    },
@@ -3950,14 +3949,62 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 54290,
-     "onceki7": 9757,
-     "degisim": 5.564
+     "son7": 60089,
+     "onceki7": 10952,
+     "degisim": 5.487
     },
     "trEnOran": null
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-11-04"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-34634",
+   "tmdbId": 34634,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Altın Peşinde",
+   "orijinalAd": "Gold Rush",
+   "yil": "2010",
+   "ozet": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
+   "poster": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
+   "arkaplan": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
+   "turler": [
+    "Gerçeklik"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.198,
+   "oySayisi": 197,
+   "platformlar": {
+    "flatrate": [
+     "HBO Max"
+    ]
+   },
+   "wikidata": "Q1535987",
+   "wiki": {
+    "tr": null,
+    "en": "Gold Rush (TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 4362,
+     "onceki7": 4303,
+     "degisim": 1.014
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-13",
+   "sonBolum": "2026-11-06"
   },
   {
    "goster": true,
@@ -4000,62 +4047,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 16619,
-     "onceki7": 16131,
-     "degisim": 1.03
+     "son7": 16915,
+     "onceki7": 15786,
+     "degisim": 1.072
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-11-12",
    "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-34634",
-   "tmdbId": 34634,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "Altın Peşinde",
-   "orijinalAd": "Gold Rush",
-   "yil": "2010",
-   "ozet": "Altın peşindeki hırslı madencilerin hayatlarını takip edin, kuzeye doğru yola çıkarken. Yeni madenciler, yeni hak iddiaları, yeni makineler ve yer altından altın çıkarma konusunda yeni yollarla, riskler her zamankinden daha yüksek. Ama büyük riskler, daha büyük kazançlar getirecek mi?",
-   "poster": "/g7bGSjPhGA7QfHYuo5VlvnvS0vH.jpg",
-   "arkaplan": "/ReSSC77upQRIZgvaJaPQPCbWaK.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "US"
-   ],
-   "puan": 7.198,
-   "oySayisi": 197,
-   "platformlar": {
-    "flatrate": [
-     "HBO Max"
-    ]
-   },
-   "wikidata": "Q1535987",
-   "wiki": {
-    "tr": null,
-    "en": "Gold Rush (TV series)"
-   },
-   "ilgi": {
-    "tr": null,
-    "en": {
-     "son7": 4255,
-     "onceki7": 4440,
-     "degisim": 0.958
-    },
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-13",
-   "sonBolum": "2026-11-06"
   },
   {
    "goster": false,
@@ -4146,8 +4145,8 @@ SAHNE_GUN({
     "en": null,
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -4189,16 +4188,16 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 36,
-     "onceki7": 45,
-     "degisim": 0.8
+     "son7": 34,
+     "onceki7": 41,
+     "degisim": 0.829
     },
     "en": {
-     "son7": 5571,
-     "onceki7": 5519,
-     "degisim": 1.009
+     "son7": 5667,
+     "onceki7": 5526,
+     "degisim": 1.026
     },
-    "trEnOran": 0.0065
+    "trEnOran": 0.006
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-11-07"
@@ -4287,14 +4286,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 103633,
-     "onceki7": 178370,
-     "degisim": 0.581
+     "son7": 96380,
+     "onceki7": 163292,
+     "degisim": 0.59
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-08"
+   "sonrakiBolum": "2026-11-15",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": false,
@@ -4322,7 +4321,7 @@ SAHNE_GUN({
    "ulkeler": [
     "JP"
    ],
-   "puan": 8.2,
+   "puan": 8.179,
    "oySayisi": 98,
    "platformlar": {
     "flatrate": [
@@ -4427,9 +4426,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 52733,
-     "onceki7": 55196,
-     "degisim": 0.955
+     "son7": 52925,
+     "onceki7": 55590,
+     "degisim": 0.952
     },
     "trEnOran": null
    },
@@ -4478,9 +4477,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 3045,
-     "onceki7": 3125,
-     "degisim": 0.974
+     "son7": 2980,
+     "onceki7": 3150,
+     "degisim": 0.946
     },
     "trEnOran": null
    },
@@ -4527,14 +4526,14 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 14361,
-     "onceki7": 15108,
-     "degisim": 0.951
+     "son7": 14323,
+     "onceki7": 14972,
+     "degisim": 0.957
     },
     "trEnOran": null
    },
-   "sonrakiBolum": "2026-11-09",
-   "sonBolum": "2026-11-02"
+   "sonrakiBolum": "2026-11-16",
+   "sonBolum": "2026-11-09"
   },
   {
    "goster": true,
@@ -4576,9 +4575,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 19639,
-     "onceki7": 19596,
-     "degisim": 1.002
+     "son7": 19481,
+     "onceki7": 19408,
+     "degisim": 1.004
     },
     "trEnOran": null
    },
@@ -4625,9 +4624,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 63451,
-     "onceki7": 11577,
-     "degisim": 5.481
+     "son7": 70652,
+     "onceki7": 11777,
+     "degisim": 5.999
     },
     "trEnOran": null
    },
@@ -4704,7 +4703,7 @@ SAHNE_GUN({
    "ulkeler": [
     "US"
    ],
-   "puan": 7.352,
+   "puan": 7.4,
    "oySayisi": 61,
    "platformlar": {
     "flatrate": [
@@ -4719,9 +4718,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 22812,
-     "onceki7": 22063,
-     "degisim": 1.034
+     "son7": 22614,
+     "onceki7": 22191,
+     "degisim": 1.019
     },
     "trEnOran": null
    },
@@ -4770,9 +4769,9 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 79150,
-     "onceki7": 94766,
-     "degisim": 0.835
+     "son7": 78316,
+     "onceki7": 87967,
+     "degisim": 0.89
     },
     "trEnOran": null
    },
@@ -4818,110 +4817,13 @@ SAHNE_GUN({
    "ilgi": {
     "tr": null,
     "en": {
-     "son7": 7696,
-     "onceki7": 8515,
-     "degisim": 0.904
+     "son7": 7731,
+     "onceki7": 7976,
+     "degisim": 0.969
     },
     "trEnOran": null
    },
    "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": false,
-   "kategori": "anime",
-   "sinyalVar": false,
-   "yeniSayilir": true,
-   "id": "dizi-283428",
-   "tmdbId": 283428,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "氷の城壁",
-   "orijinalAd": "氷の城壁",
-   "yil": "2026",
-   "ozet": null,
-   "poster": "/spPKOGhjNrOZuCUoTOzg0Q05Mum.jpg",
-   "arkaplan": "/ht6WUmez8cFbwlrFmGdjbYyn3RG.jpg",
-   "turler": [
-    "Animasyon",
-    "Dram"
-   ],
-   "ulkeler": [
-    "JP"
-   ],
-   "puan": 8.6,
-   "oySayisi": 78,
-   "platformlar": {
-    "flatrate": [
-     "Netflix"
-    ]
-   },
-   "wikidata": "Q131984499",
-   "wiki": {
-    "tr": null,
-    "en": null
-   },
-   "ilgi": {
-    "tr": null,
-    "en": null,
-    "trEnOran": null
-   },
-   "sonrakiBolum": "2026-11-12",
-   "sonBolum": "2026-11-05"
-  },
-  {
-   "goster": true,
-   "kategori": null,
-   "sinyalVar": true,
-   "yeniSayilir": false,
-   "id": "dizi-92611",
-   "tmdbId": 92611,
-   "tur": "dizi",
-   "koken": "yabanci",
-   "listeler": [
-    "yabanci-dizi"
-   ],
-   "ad": "RuPaul's Drag Race UK",
-   "orijinalAd": "RuPaul's Drag Race UK",
-   "yil": "2019",
-   "ozet": null,
-   "poster": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
-   "arkaplan": "/7fsT1NnmNbden0mptoVinBNp4ih.jpg",
-   "turler": [
-    "Gerçeklik"
-   ],
-   "ulkeler": [
-    "GB"
-   ],
-   "puan": 7.1,
-   "oySayisi": 58,
-   "platformlar": {
-    "flatrate": [
-     "WOW Presents Plus"
-    ]
-   },
-   "wikidata": "Q65091388",
-   "wiki": {
-    "tr": "RuPaul's Drag Race UK",
-    "en": "RuPaul's Drag Race UK"
-   },
-   "ilgi": {
-    "tr": {
-     "son7": 2,
-     "onceki7": 2,
-     "degisim": 1.0
-    },
-    "en": {
-     "son7": 11901,
-     "onceki7": 8493,
-     "degisim": 1.401
-    },
-    "trEnOran": 0.0002
-   },
-   "sonrakiBolum": null,
    "sonBolum": "2026-11-05"
   },
   {
@@ -4965,19 +4867,119 @@ SAHNE_GUN({
    },
    "ilgi": {
     "tr": {
-     "son7": 23,
-     "onceki7": 10,
-     "degisim": 2.3
+     "son7": 26,
+     "onceki7": 9,
+     "degisim": 2.889
     },
     "en": {
-     "son7": 5891,
-     "onceki7": 5096,
-     "degisim": 1.156
+     "son7": 5732,
+     "onceki7": 5278,
+     "degisim": 1.086
     },
-    "trEnOran": 0.0039
+    "trEnOran": 0.0045
    },
    "sonrakiBolum": null,
    "sonBolum": "2026-11-07"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-92611",
+   "tmdbId": 92611,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "RuPaul's Drag Race UK",
+   "orijinalAd": "RuPaul's Drag Race UK",
+   "yil": "2019",
+   "ozet": null,
+   "poster": "/rGKdb9afwZSPSAZ2jN2SMf9tthQ.jpg",
+   "arkaplan": "/7fsT1NnmNbden0mptoVinBNp4ih.jpg",
+   "turler": [
+    "Gerçeklik"
+   ],
+   "ulkeler": [
+    "GB"
+   ],
+   "puan": 7.1,
+   "oySayisi": 58,
+   "platformlar": {
+    "flatrate": [
+     "WOW Presents Plus"
+    ]
+   },
+   "wikidata": "Q65091388",
+   "wiki": {
+    "tr": "RuPaul's Drag Race UK",
+    "en": "RuPaul's Drag Race UK"
+   },
+   "ilgi": {
+    "tr": {
+     "son7": 1,
+     "onceki7": 3,
+     "degisim": 0.333
+    },
+    "en": {
+     "son7": 11980,
+     "onceki7": 8580,
+     "degisim": 1.396
+    },
+    "trEnOran": 0.0001
+   },
+   "sonrakiBolum": null,
+   "sonBolum": "2026-11-05"
+  },
+  {
+   "goster": true,
+   "kategori": null,
+   "sinyalVar": true,
+   "yeniSayilir": false,
+   "id": "dizi-255055",
+   "tmdbId": 255055,
+   "tur": "dizi",
+   "koken": "yabanci",
+   "listeler": [
+    "yabanci-dizi"
+   ],
+   "ad": "Doc",
+   "orijinalAd": "Doc",
+   "yil": "2025",
+   "ozet": "Dizi, gerçek bir hikayeden esinlenen popüler İtalyan dizisi DOC — Nelle tue mani‘ye dayanıyor. Molly Parker, Minneapolis’teki Westside Hastanesi Dahiliye ve Aile Hekimliği Şefi olan ve hayatının son 8 yılını unutmasına neden olan bir beyin hasarı geçirdikten sonra kendini hayatını yeniden bir araya getirirken bulan Dr. Amy Larsen’i canlandırıyor.",
+   "poster": "/sZeGoeE4pfPClCLEZHuC8ocReOw.jpg",
+   "arkaplan": "/iTt37Rl8AidvU5aQf5M4odroCuF.jpg",
+   "turler": [
+    "Dram"
+   ],
+   "ulkeler": [
+    "US"
+   ],
+   "puan": 7.5,
+   "oySayisi": 80,
+   "platformlar": {
+    "flatrate": [
+     "TOD TV"
+    ]
+   },
+   "wikidata": "Q129676773",
+   "wiki": {
+    "tr": null,
+    "en": "Doc (2025 TV series)"
+   },
+   "ilgi": {
+    "tr": null,
+    "en": {
+     "son7": 15773,
+     "onceki7": 16406,
+     "degisim": 0.961
+    },
+    "trEnOran": null
+   },
+   "sonrakiBolum": "2026-11-10",
+   "sonBolum": "2026-11-03"
   }
  ]
 });
